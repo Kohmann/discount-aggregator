@@ -1,12 +1,16 @@
-from scrapers.DummyScraper import DummyScraper
+from scrapers.dummy import DummyScraper
 from pathlib import Path
 import re
 from datetime import datetime
 
+from scrapers.model import Coupon
+from scrapers.obos import ObosScraper
+
 README_PATH = Path(__file__).parent.parent / "README.md"
 
-def coupons_to_markdown(coupons: list[dict]) -> str:
-    headers = ["Store", "Description", "Code", "Expires", "Source"]
+
+def coupons_to_markdown(coupons: list[Coupon]) -> str:
+    headers = ["Store", "Description", "Source"]
 
     lines = [
         "| " + " | ".join(headers) + " |",
@@ -15,18 +19,11 @@ def coupons_to_markdown(coupons: list[dict]) -> str:
 
     for c in coupons:
         lines.append(
-            "| "
-            + " | ".join([
-                c["store"],
-                c["description"],
-                c["code"] or "-",
-                c["expires_at"] or "-",
-                f"[{c['site']}]({c['url']})"
-            ])
-            + " |"
+            f"| {c.store} | {c.description} | [Link]({c.link}) |"
         )
 
     return "\n".join(lines)
+
 
 def update_readme(table: str):
     content = README_PATH.read_text()
@@ -40,9 +37,11 @@ def update_readme(table: str):
 
     README_PATH.write_text(updated)
 
+
 def main():
     scrapers = [
-        DummyScraper(),
+        # DummyScraper(),
+        ObosScraper(),
     ]
 
     coupons = []
@@ -56,6 +55,7 @@ def main():
     update_readme(table)
 
     print(f"Updated README with {len(coupons)} coupons at {datetime.utcnow()}")
+
 
 if __name__ == "__main__":
     main()
