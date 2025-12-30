@@ -47,6 +47,7 @@ def main():
         except Exception as e:
             print(f"Failed {scraper.site_name}: {e}")
 
+    discounts.sort(key=lambda d: d.store.lower()) # Sort alphabetically by store name
     table = discounts_to_markdown(discounts)
     update_readme(table)
     print(f"Updated README with {len(discounts)} discounts at {datetime.now()}")
