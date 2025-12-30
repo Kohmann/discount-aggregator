@@ -3,7 +3,7 @@ import re
 from bs4 import BeautifulSoup
 
 from scrapers.base import BaseScraper
-from scrapers.model import Coupon
+from scrapers.model import Discount
 
 
 class ObosScraper(BaseScraper):
@@ -11,7 +11,7 @@ class ObosScraper(BaseScraper):
     base_url = "https://www.obos.no"
     list_url = "https://www.obos.no/medlem/medlemsfordeler?view=list"
 
-    def scrape(self) -> list[Coupon]:
+    def scrape(self) -> list[Discount]:
         coupons = []
 
         headers = {
@@ -40,7 +40,7 @@ class ObosScraper(BaseScraper):
                 link = self.base_url + item.get("href")
 
                 coupons.append(
-                    Coupon(
+                    Discount(
                         site=self.site_name,
                         store=store,
                         description=description,

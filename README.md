@@ -1,12 +1,12 @@
-# Coupon Aggregator
+# Discount Aggregator
 
-This repository automatically collects coupon codes from various websites.
+This repository automatically collects discount codes from various websites.
 
 Updates are generated programmatically.
 
-## Coupons
+## Discounts
 
-<!-- COUPONS_START -->
+<!-- DISCOUNTS_START -->
 | Store | Description | Source |
 | --- | --- | --- |
 | AaFK Fortuna | 50 % rabatt på billetter til AaFK Fortuna sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/aafk-fortuna) |
@@ -125,7 +125,6 @@ Updates are generated programmatically.
 | Vålerenga Fotball Elite | 99 kroner for voksne og 49 kroner for barn på Vålerengas hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/vif-fotball-elite) |
 | Vålerenga Ishockey | 50 % rabatt på billetter til Vålerenga Ishockey sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/valerenga-ishockey) |
 | Wallmans Oslo | 20 % rabatt på inntil seks billetter hos Wallmans Oslo. | [Link](https://www.obos.no/medlem/medlemsfordeler/wallmans-oslo) |
-<!-- COUPONS_END -->
+<!-- DISCOUNTS_END -->
 
 _Last updated automatically._
-

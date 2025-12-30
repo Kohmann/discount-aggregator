@@ -4,7 +4,7 @@ from typing import Optional
 
 
 @dataclass
-class Coupon:
+class Discount:
     site: str
     store: str
     code: Optional[str]

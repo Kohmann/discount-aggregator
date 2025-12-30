@@ -1,26 +1,23 @@
-from scrapers.dummy import DummyScraper
-from pathlib import Path
 import re
 from datetime import datetime
+from pathlib import Path
 
-from scrapers.model import Coupon
+from scrapers.model import Discount
 from scrapers.obos import ObosScraper
 
 README_PATH = Path(__file__).parent.parent / "README.md"
 
 
-def coupons_to_markdown(coupons: list[Coupon]) -> str:
+def discounts_to_markdown(discounts: list[Discount]) -> str:
     headers = ["Store", "Description", "Source"]
 
     lines = [
         "| " + " | ".join(headers) + " |",
-        "| " + " | ".join(["---"] * len(headers)) + " |"
+        "| " + " | ".join(["---"] * len(headers)) + " |",
     ]
 
-    for c in coupons:
-        lines.append(
-            f"| {c.store} | {c.description} | [Link]({c.link}) |"
-        )
+    for d in discounts:
+        lines.append(f"| {d.store} | {d.description} | [Link]({d.link}) |")
 
     return "\n".join(lines)
 
@@ -29,10 +26,10 @@ def update_readme(table: str):
     content = README_PATH.read_text()
 
     updated = re.sub(
-        r"<!-- COUPONS_START -->.*?<!-- COUPONS_END -->",
-        f"<!-- COUPONS_START -->\n{table}\n<!-- COUPONS_END -->",
+        r"<!-- DISCOUNTS_START -->.*?<!-- DISCOUNTS_END -->",
+        f"<!-- DISCOUNTS_START -->\n{table}\n<!-- DISCOUNTS_END -->",
         content,
-        flags=re.S
+        flags=re.S,
     )
 
     README_PATH.write_text(updated)
@@ -40,21 +37,19 @@ def update_readme(table: str):
 
 def main():
     scrapers = [
-        # DummyScraper(),
         ObosScraper(),
     ]
 
-    coupons = []
+    discounts = []
     for scraper in scrapers:
         try:
-            coupons.extend(scraper.scrape())
+            discounts.extend(scraper.scrape())
         except Exception as e:
             print(f"Failed {scraper.site_name}: {e}")
 
-    table = coupons_to_markdown(coupons)
+    table = discounts_to_markdown(discounts)
     update_readme(table)
-
-    print(f"Updated README with {len(coupons)} coupons at {datetime.utcnow()}")
+    print(f"Updated README with {len(discounts)} discounts at {datetime.now()}")
 
 
 if __name__ == "__main__":
