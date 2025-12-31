@@ -1,8 +1,8 @@
 # Discount Aggregator
 
-This repository automatically collects discount codes from various websites.
+This repository automatically collects discount codes from NITO, OBOS, DNB, and Skiforeningen
 
-Updates are generated programmatically.
+Updated every day.
 
 ## Discounts
 
