@@ -22,6 +22,17 @@ Updates are generated programmatically.
 | Barnas Skiskole | 1740 kroner for billett til Barnas Skiskole. | [Link](https://www.obos.no/medlem/medlemsfordeler/barnas-skiskole) |
 | Barnas skiskole | 450 kroner rabatt på skiskole i helgene | [Link](https://www.skiforeningen.no/aktiviteter-for-barn/barnas-skiskole/) |
 | Bergen Bysykkel | 25 % rabatt ved kjøp av sesongpass hos Bergen Bysykkel. | [Link](https://www.obos.no/medlem/medlemsfordeler/bergen-bysykkel) |
+| Bertel O. Steen | Bilrabatt Alfa Romeo | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-alfa-romeo/) |
+| Bertel O. Steen | Bilrabatt Citroën | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-citroen/) |
+| Bertel O. Steen | Bilrabatt DS | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-ds/) |
+| Bertel O. Steen | Bilrabatt Fiat | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-fiat/) |
+| Bertel O. Steen | Bilrabatt Jeep | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-jeep/) |
+| Bertel O. Steen | Bilrabatt Kia | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-kia/) |
+| Bertel O. Steen | Bilrabatt Mercedes-Benz | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-mercedes-benz/) |
+| Bertel O. Steen | Bilrabatt Opel | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-opel/) |
+| Bertel O. Steen | Bilrabatt Peugeot | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-peugeot/) |
+| Bertel O. Steen | Bilrabatt Smart | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-smart/) |
+| Bikemember | Rabatt hos Bikemember | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-bikemember/) |
 | Bjørneparken | 20–30 % rabatt på billetter i Bjørneparken. | [Link](https://www.obos.no/medlem/medlemsfordeler/bjorneparken) |
 | Bohus | 15 % rabatt i Bohus' varehus og på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/bohus) |
 | Bravida | 20 % rabatt på elektrotjenester, deler og montering av ladere til elbil. | [Link](https://www.obos.no/medlem/medlemsfordeler/bravida) |
@@ -32,6 +43,7 @@ Updates are generated programmatically.
 | Carls | 20 % rabatt på kaffe, pizza og pubkoret, samt 50 % rabatt på shuffleboard. | [Link](https://www.obos.no/medlem/medlemsfordeler/carls) |
 | Christiania Glasmagasin | 20 % rabatt på alle varer, både på nett og butikk. Denne medlemsfordelen varer ut 31. desember 2025. | [Link](https://www.obos.no/medlem/medlemsfordeler/christiania-glasmagasin) |
 | Circle K | 38 øre rabatt per liter på drivstoff og 45 øre/kWt i rabatt på hurtiglading av elbil. | [Link](https://www.obos.no/medlem/medlemsfordeler/circle-k) |
+| De Historiske | Hotellrabatt De Historiske | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-overnatting-hos-de-historiske/) |
 | Den Nationale Scene | 25 % rabatt på teaterbilletter hos Den Nationale Scene. | [Link](https://www.obos.no/medlem/medlemsfordeler/den-nationale-scene) |
 | Den Norske Opera & Ballett | 20 % rabatt på billetter og omvisning hos Den Norske Opera & Ballett. | [Link](https://www.obos.no/medlem/medlemsfordeler/den-norske-opera-and-ballett) |
 | Det Norske Teatret | 20 % rabatt på alle ordinære forestillinger hos Det Norske Teatret. | [Link](https://www.obos.no/medlem/medlemsfordeler/det-norske-teatret) |
@@ -42,6 +54,7 @@ Updates are generated programmatically.
 | FANGA | Få 20 % rabatt på billetter til FANGA. | [Link](https://www.obos.no/medlem/medlemsfordeler/fanga) |
 | Farmasiet – apotek på nett | 20 % rabatt på ordinære varer hos Norges største apotek på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/farmasiet-apotek-pa-nett) |
 | Fellesturer | Gratis tilbud for deg som liker å gå sammen med andre | [Link](https://www.skiforeningen.no/aktiviteter-for-voksne/fellesturer/) |
+| Fjellsport | Rabatt hos Fjellsport | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-fjellsport/) |
 | FK Eik Tønsberg | 50 % rabatt på FK Eik Tønsberg sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/fotballklubben-eik-tonsberg) |
 | Flügger farve | 20 % rabatt på produkter fra Flügger, samt fargekonsultasjon. | [Link](https://www.obos.no/medlem/medlemsfordeler/flugger-farve) |
 | Fonus Begravelsesbyrå | Rabatt på kister, urner og nye gravsteiner. | [Link](https://www.obos.no/medlem/medlemsfordeler/fonus-begravelsesbyra) |
@@ -63,11 +76,13 @@ Updates are generated programmatically.
 | Håndball-EM for menn | 25 % rabatt på billetter til håndball-EM i Unity Arena. | [Link](https://www.obos.no/medlem/medlemsfordeler/handball-em-for-menn) |
 | Høyt & Lavt | 20 % rabatt på dagskort på Høyt & Lavt. | [Link](https://www.obos.no/medlem/medlemsfordeler/hoyt-and-lavt) |
 | Høyt Under Taket | 20 % rabatt på inngangsbillett på Høyt Under Taket. | [Link](https://www.obos.no/medlem/medlemsfordeler/hoyt-under-taket) |
+| INSPIRIA | Gratis inngang på INSPIRIA science center | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/gratis-inngang-pa-inspiria-science-center/) |
 | KFUM Oslo | 50 % på billetter til KFUMs hjemmekamper på Ekeberg. | [Link](https://www.obos.no/medlem/medlemsfordeler/kfum-oslo) |
 | Kid Interiør | 30 % rabatt både i butikk og på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/kid-interior) |
 | Kikutstua | 20 prosent på Kikutstua | [Link](https://www.kikutstua.no/) |
 | Kistefos | 25 % rabatt på inntil 5 billetter per medlem. | [Link](https://www.obos.no/medlem/medlemsfordeler/kistefos) |
 | Kjentmannshåndboka | 25 prosent rabatt på Kjentmannshåndboka | [Link](https://www.skiforeningen.no/utimarka/kjentmannsmerket/) |
+| Klatring på Grensen | Rabatt hos Klatring på Grensen | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/klatring-pa-grensen/) |
 | Kolbotn Fotball Kvinner | 50 % rabatt på billetter til Kolbotn Fotball Kvinner sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/kolbotn-fotball-kvinner) |
 | Kollensvevet | Rabatt på Kollensvevet | [Link](https://www.kollensvevet.no/) |
 | Kolmården | 100 kroner i rabatt per billett. | [Link](https://www.obos.no/medlem/medlemsfordeler/kolmarden) |
@@ -89,10 +104,14 @@ Updates are generated programmatically.
 | Markabussen | 60 prosent rabatt på Markabussen | [Link](https://www.skiforeningen.no/aktiviteter-for-voksne/markabussen/) |
 | Markabutikken.no | Alltid gode tilbud i Markabutikken | [Link](https://markabutikken.no/) |
 | Maxbo | Fra 15 % bonusopptjening på alle varer til ordinære priser både i butikk og på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/maxbo) |
+| MedEasy | Rabatt hos MedEasy | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-medeasy/) |
 | Miniøya | 20 % rabatt på billetter til Miniøya. | [Link](https://www.obos.no/medlem/medlemsfordeler/minioya) |
 | Montér Stor-Bergen | Inntil 40 % rabatt på bestillingsvarer, og inntil 15 % rabatt på lagerførte varer. | [Link](https://www.obos.no/medlem/medlemsfordeler/monter-stor-bergen) |
+| Narvikfjellet | Heiskort på Narvikfjellet | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/heiskort-pa-narvikfjellet/) |
 | Nationaltheatret | 20 % rabatt på billetter hos Nationaltheatret. | [Link](https://www.obos.no/medlem/medlemsfordeler/nationaltheatret) |
+| NITO | Verv en kollega – det lønner seg! | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/verv-en-kollega/) |
 | Nobels Fredssenter | 25 % rabatt på inngangsbilletter. | [Link](https://www.obos.no/medlem/medlemsfordeler/nobels-fredssenter) |
+| Norsk Eltavleforening | Rabatt på kurs hos Norsk Eltavleforening | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kurs-hos-norsk-eltavleforening/) |
 | Norsk Folkemuseum | 25 % rabatt på voksenbillett og 10 % rabatt i museumsbutikken til Norsk Folkemuseum. | [Link](https://www.obos.no/medlem/medlemsfordeler/norsk-folkemuseum) |
 | NOVASOL | Fra 6–10 % rabatt på leie av feriehus. | [Link](https://www.obos.no/medlem/medlemsfordeler/novasol) |
 | Nøtterøy Kulturhus | 20 % rabatt på billetter hos Nøtterøy Kulturhus. | [Link](https://www.obos.no/medlem/medlemsfordeler/notteroy-kulturhus) |
@@ -114,6 +133,8 @@ Updates are generated programmatically.
 | Roseslottet.no | 20% rabatt på inngang på Roseslottet | [Link](https://roseslottet.no/) |
 | Røa Fotball Elite | 25 % rabatt på billetter til Røa Fotball Elite sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/roa-fotball-elite) |
 | Samsung | Inntil 30 % rabatt på Samsung-produkter. | [Link](https://www.obos.no/medlem/medlemsfordeler/samsung) |
+| Sarve­sAl­ta Al­pin­sen­ter | Heiskort på SarvesAlta Alpinsenter | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/heiskort-pa-sarvesalta-alpinsenter/) |
+| Scandic | Hotellrabatt Scandic | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-overnatting-hos-scandic/) |
 | Sector Alarm | Sikre hjemmet ditt mot innbrudd og brann med boligalarm fra Sector Alarm. Som OBOS-medlem kan du spare opptil 5670 kroner det første året. | [Link](https://www.obos.no/medlem/medlemsfordeler/sector-alarm) |
 | Serveringsteder | 20 prosent på Løvlia, Krokskogen | [Link](https://www.skiforeningen.no/utimarka/stuer/) |
 | SK Brann | 50 % rabatt på billetter til SK Brann sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/sk-brann) |
@@ -123,6 +144,7 @@ Updates are generated programmatically.
 | Skimore.no | 20 prosent rabatt i Skimore Oslo | [Link](https://www.skimore.no/) |
 | Skimuseet i Holmenkollen | Halv pris på inngangsbillett | [Link](https://www.skiforeningen.no/holmenkollen/skimuseet/) |
 | Skimuseet og Holmenkollen | 30 % rabatt på Skimuseet og 100 kroner i avslag på Kollensvevet. | [Link](https://www.obos.no/medlem/medlemsfordeler/skimuseet-og-holmenkollen) |
+| Skitt Fiske | Rabatt hos Skitt Fiske | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-skitt-fiske/) |
 | SNØ | 20 % rabatt på inngangsbilletter hos SNØ, verdens råeste helårsarena for snøopplevelser. | [Link](https://www.obos.no/medlem/medlemsfordeler/sno) |
 | Sparta Sarpsborg | 50 % rabatt på billetter til Sparta Hockeys hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/sparta-sarpsborg) |
 | Stabæk Fotball | 100 kroner for voksne og 50 kroner for barn for billetter til Stabæk Fotballs hjemmekamper i OBOS-ligaen. | [Link](https://www.obos.no/medlem/medlemsfordeler/stabaek-fotball) |
@@ -130,20 +152,27 @@ Updates are generated programmatically.
 | Storhamar Håndball | 50 % rabatt på billetter til Storhamar Håndball sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/storhamar-handball) |
 | Storhamar Ishockey | 50 % rabatt på billetter til Storhamar Ishockey sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/storhamar-ishockey) |
 | Strawberry | 15–20 % rabatt på overnatting på alle Quality Hotel, Comfort Hotel, Clarion Hotel og Home Hotel i Norge, Sverige, Danmark, Finland og Baltikum. | [Link](https://www.obos.no/medlem/medlemsfordeler/strawberry) |
+| Strawberry | Hotellrabatt Strawberry | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-overnatting-hos-strawberry/) |
 | Strim | Prøv Strim gratis i 30 dager og få 10 % rabatt etter prøveperioden. | [Link](https://www.obos.no/medlem/medlemsfordeler/strim) |
+| SUMO Restauranter | Rabatt hos SUMO | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-sumo/) |
 | Talkmore | 10–20 % rabatt på abonnement. Lave priser. Garantert full Telenor-dekning. | [Link](https://www.obos.no/medlem/medlemsfordeler/talkmore) |
+| Teknisk Ukeblad | Halv pris på TU og Digi | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/halv-pris-pa-tu-og-digi/) |
 | Tibber | Ved å tegne ny strømavtale hos Tibber får du som medlem 600 kroner i bonus, som kan brukes på smarte produkter til hjemmet ditt. | [Link](https://www.obos.no/medlem/medlemsfordeler/tibber) |
+| Tromsø Alpinpark | Heiskort Tromsø Alpinpark | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/heiskort-tromso-alpinpark/) |
 | Trondheim Bysykkel | 25 % rabatt ved kjøp av sesongpass. | [Link](https://www.obos.no/medlem/medlemsfordeler/trondheim-bysykkel) |
 | Tryg Forsikring | OBOS-medlemmer får inntil 23 % rabatt på ulike forsikringer hos Tryg. | [Link](https://www.obos.no/medlem/medlemsfordeler/tryg-forsikring) |
 | Trøndelag Teater | 20 % rabatt på billetter hos Trøndelag Teater. | [Link](https://www.obos.no/medlem/medlemsfordeler/trondelag-teater) |
 | TusenFryd | Opptil 30 % rabatt per billett. | [Link](https://www.obos.no/medlem/medlemsfordeler/tusenfryd) |
 | Vianor | 20 % rabatt på dekkhotell og flere andre gode fordeler. | [Link](https://www.obos.no/medlem/medlemsfordeler/vianor) |
 | Viking Fotball | OBOS-rabatt på billetter til hjemmekamper på Viking stadion. | [Link](https://www.obos.no/medlem/medlemsfordeler/viking-fotball) |
+| Vitensenteret Innlandet | Gratis inngang på Vitensenteret Innlandet | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/gratis-inngang-pa-vitensenteret-innlandet/) |
+| Vitensenteret Sørlandet | Rabatt på Vitensenteret Sørlandet | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-vitensenteret-sorlandet/) |
 | VVS Norge – Bademiljø og Comfort | 15 % rabatt på rørleggertjenester og deler fra Bademiljø, Comfort og VVS Norge. | [Link](https://www.obos.no/medlem/medlemsfordeler/vvs-norge-bademiljo-og-comfort) |
 | Vålerenga Damer | 50 % rabatt på billetter til Vålerenga Damer sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/valerenga-damer) |
 | Vålerenga Fotball Elite | 99 kroner for voksne og 49 kroner for barn på Vålerengas hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/vif-fotball-elite) |
 | Vålerenga Ishockey | 50 % rabatt på billetter til Vålerenga Ishockey sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/valerenga-ishockey) |
 | Wallmans Oslo | 20 % rabatt på inntil seks billetter hos Wallmans Oslo. | [Link](https://www.obos.no/medlem/medlemsfordeler/wallmans-oslo) |
+| XL-BYGG | Rabatt hos XL-BYGG | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-xl-bygg/) |
 <!-- DISCOUNTS_END -->
 
 _Last updated automatically._

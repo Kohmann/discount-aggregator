@@ -12,7 +12,7 @@ class ObosScraper(BaseScraper):
     list_url = "https://www.obos.no/medlem/medlemsfordeler?view=list"
 
     def scrape(self) -> list[Discount]:
-        coupons = []
+        discounts = []
 
         headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -36,7 +36,7 @@ class ObosScraper(BaseScraper):
 
                 link = self.base_url + item.get("href")
 
-                coupons.append(
+                discounts.append(
                     Discount(
                         site=self.site_name,
                         store=store,
@@ -52,4 +52,4 @@ class ObosScraper(BaseScraper):
             print(f"Error scraping {self.site_name}: {e}")
             return []
 
-        return coupons
+        return discounts

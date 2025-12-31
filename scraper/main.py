@@ -3,6 +3,7 @@ from datetime import datetime
 from pathlib import Path
 
 from scrapers.model import Discount
+from scrapers.nito import NitoScraper
 from scrapers.obos import ObosScraper
 from scrapers.skiforeningen import SkiforeningenScraper
 
@@ -40,7 +41,9 @@ def main():
     scrapers = [
         ObosScraper(),
         SkiforeningenScraper(),
+        NitoScraper()
     ]
+
 
     discounts = []
     for scraper in scrapers:

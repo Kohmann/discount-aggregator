@@ -1,3 +1,5 @@
+
+
 import httpx
 from bs4 import BeautifulSoup, Tag
 
@@ -8,10 +10,10 @@ from scrapers.utils import generate_link
 
 
 
-class SkiforeningenScraper(BaseScraper):
-    site_name = "Skiforeningen"
-    base_url = "https://www.skiforeningen.no"
-    list_url = "https://www.skiforeningen.no/medlemsskap/ditt-medlemskap/medlemsfordeler/"
+class NitoScraper(BaseScraper):
+    site_name = "NITO"
+    base_url = "https://www.nito.no"
+    list_url = "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/?category=Rabatter"
 
 
     def scrape(self) -> list[Discount]:
@@ -31,21 +33,26 @@ class SkiforeningenScraper(BaseScraper):
 
         soup = BeautifulSoup(response.text, "lxml")
 
-        # Skiforeningen target: div with class = "standalone promoBlock"
-        items = soup.find_all("div", class_="standalone promoBlock")
-        for item in items:
+        # Nito rabatt section
+        target_img = soup.find("img", src="/Pictograms/rabatt.png")
+        membership_discount_section = target_img.find_parent("section", class_="member-benefit-list__group")
+        items = membership_discount_section.find_all("div", class_="article-teaser__content")
+
+        for (idx, item) in enumerate(items):
             discount = self.scrape_item(item)
             if discount:
                 discounts.append(discount)
-
+            else:
+                print(f"Failed to scrape item nr.{idx+1} from {len(items)} items")
         return discounts
 
     def scrape_item(self, item: Tag) -> Discount | None:
         try:
-            link = self.get_discount_link(item)
-            store = link.get_text(strip=True)
-            description = item.find("h2", class_="text-headline").get_text(strip=True)
+            store = item.find("div", class_="article-teaser__partner").find("img").get("alt")
+            link = item.find("a", class_="article-teaser__link btn btn--with-arrow")
+            description = link.get_text(strip=True)
             full_link = generate_link(self.base_url, link.get("href"))
+            print(f"link: {full_link}")
             return Discount(
                 site=self.site_name,
                 store=store,
@@ -58,11 +65,3 @@ class SkiforeningenScraper(BaseScraper):
         except Exception as e:
             print(f"Error scraping item. Skipping...  {e}")
             return None
-
-    @staticmethod
-    def get_discount_link(item: Tag) -> Tag | None:
-        link = item.find("a", class_="text-action-onSecondaryContainer")
-        if link:
-            return link
-        else:
-            return item.find("a", class_="button-on-background")
