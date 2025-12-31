@@ -1,19 +1,13 @@
-
-
 import httpx
 from bs4 import BeautifulSoup, Tag
 
 from scrapers.base import BaseScraper
 from scrapers.model import Discount
 
-from scrapers.utils import generate_link
-
-
-
-class NitoScraper(BaseScraper):
-    site_name = "NITO"
-    base_url = "https://www.nito.no"
-    list_url = "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/?category=Rabatter"
+class DnbScraper(BaseScraper):
+    site_name = "DNB"
+    base_url = "https://www.dnb.no"
+    list_url = "https://www.dnb.no/kundeprogram/fordeler/faste-rabatter"
 
 
     def scrape(self) -> list[Discount]:
@@ -33,31 +27,32 @@ class NitoScraper(BaseScraper):
 
         soup = BeautifulSoup(response.text, "lxml")
 
-        # Nito rabatt section
-        target_img = soup.find("img", src="/Pictograms/rabatt.png")
-        membership_discount_section = target_img.find_parent("section", class_="member-benefit-list__group")
-        items = membership_discount_section.find_all("div", class_="article-teaser__content")
+        # dnb rabatt section
+        static_discount_code = soup.find("span", class_="css-o15es7 e19v4qza1").get_text(strip=True)
+
+        items = soup.find_all("a", class_="dnb-anchor--no-style dnb-anchor--no-hover dnb-anchor--no-underline etl9f1w0 css-19gq7c4 e1ig56cy0 dnb-anchor dnb-anchor--was-node dnb-a")
 
         for (idx, item) in enumerate(items):
-            discount = self.scrape_item(item)
+            discount = self.scrape_item(item, static_discount_code)
             if discount:
                 discounts.append(discount)
             else:
                 print(f"Failed to scrape item nr.{idx+1} from {len(items)} items")
         return discounts
 
-    def scrape_item(self, item: Tag) -> Discount | None:
+    def scrape_item(self, item: Tag, discount_code: str) -> Discount | None:
         try:
-            store = item.find("div", class_="article-teaser__partner").find("img").get("alt")
-            link = item.find("a", class_="article-teaser__link btn btn--with-arrow")
-            description = link.get_text(strip=True)
-            full_link = generate_link(self.base_url, link.get("href"))
+
+            store = item.find("h3", class_="dnb-heading dnb-h--medium css-5pbyeb etl9f1w4").get_text(strip=True)
+            discount = item.find("span", class_="css-atp9e0 etl9f1w6").get_text(strip=True)
+            description = discount + " by using code " + discount_code
+            full_link = item.get("href")
             return Discount(
                 site=self.site_name,
                 store=store,
                 description=description,
-                discount=None,
-                code=None,
+                discount=discount,
+                code=discount_code,
                 expires_at=None,
                 link=full_link,
             )
