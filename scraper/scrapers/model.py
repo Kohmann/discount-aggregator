@@ -11,4 +11,4 @@ class Discount:
     description: str
     discount: Optional[str]
     expires_at: Optional[date]
-    link: str
+    link: Optional[str]

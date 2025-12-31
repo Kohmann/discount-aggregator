@@ -18,11 +18,15 @@ Updates are generated programmatically.
 | Avicci Experience | 15 % rabatt på inngangsbilletter. | [Link](https://www.obos.no/medlem/medlemsfordeler/avicii-experience) |
 | Avis | Inntil 30 % rabatt på leiebil i Norge. | [Link](https://www.obos.no/medlem/medlemsfordeler/avis) |
 | Barnas Holmenkolldag | 350 kroner for billett til Barnas Holmenkolldag. | [Link](https://www.obos.no/medlem/medlemsfordeler/barnas-holmenkolldag) |
+| Barnas Holmenkolldag | Rabatt på Barnas Holmenkolldag | [Link](https://www.skiforeningen.no/aktiviteter-for-barn/barnas-holmenkolldag/) |
 | Barnas Skiskole | 1740 kroner for billett til Barnas Skiskole. | [Link](https://www.obos.no/medlem/medlemsfordeler/barnas-skiskole) |
+| Barnas skiskole | 450 kroner rabatt på skiskole i helgene | [Link](https://www.skiforeningen.no/aktiviteter-for-barn/barnas-skiskole/) |
 | Bergen Bysykkel | 25 % rabatt ved kjøp av sesongpass hos Bergen Bysykkel. | [Link](https://www.obos.no/medlem/medlemsfordeler/bergen-bysykkel) |
 | Bjørneparken | 20–30 % rabatt på billetter i Bjørneparken. | [Link](https://www.obos.no/medlem/medlemsfordeler/bjorneparken) |
 | Bohus | 15 % rabatt i Bohus' varehus og på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/bohus) |
 | Bravida | 20 % rabatt på elektrotjenester, deler og montering av ladere til elbil. | [Link](https://www.obos.no/medlem/medlemsfordeler/bravida) |
+| Bull Ski & Kajakk | 20 prosent rabatt hos Bull Ski og Kajakk | [Link](https://bull-ski-kajakk.no/skiforeningen1883) |
+| Bull Superski | 20 prosent rabatt på skiutleie hos Bull Superski | [Link](https://bullsuperski.no/skiutleie/) |
 | BWH Hotels | 10–20 % rabatt på overnatting ved alle hoteller. | [Link](https://www.obos.no/medlem/medlemsfordeler/best-western-hotels--resorts) |
 | Bø Sommarland | 15–30 % rabatt på billetter. | [Link](https://www.obos.no/medlem/medlemsfordeler/bo-sommarland) |
 | Carls | 20 % rabatt på kaffe, pizza og pubkoret, samt 50 % rabatt på shuffleboard. | [Link](https://www.obos.no/medlem/medlemsfordeler/carls) |
@@ -37,6 +41,7 @@ Updates are generated programmatically.
 | Fana Håndball Elite | 50 % rabatt på billetter til Fana Håndball Elite sine håndballkamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/fana-handball-elite) |
 | FANGA | Få 20 % rabatt på billetter til FANGA. | [Link](https://www.obos.no/medlem/medlemsfordeler/fanga) |
 | Farmasiet – apotek på nett | 20 % rabatt på ordinære varer hos Norges største apotek på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/farmasiet-apotek-pa-nett) |
+| Fellesturer | Gratis tilbud for deg som liker å gå sammen med andre | [Link](https://www.skiforeningen.no/aktiviteter-for-voksne/fellesturer/) |
 | FK Eik Tønsberg | 50 % rabatt på FK Eik Tønsberg sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/fotballklubben-eik-tonsberg) |
 | Flügger farve | 20 % rabatt på produkter fra Flügger, samt fargekonsultasjon. | [Link](https://www.obos.no/medlem/medlemsfordeler/flugger-farve) |
 | Fonus Begravelsesbyrå | Rabatt på kister, urner og nye gravsteiner. | [Link](https://www.obos.no/medlem/medlemsfordeler/fonus-begravelsesbyra) |
@@ -49,8 +54,10 @@ Updates are generated programmatically.
 | Hafjell, Kvitfjell og Oppdal | 5–10 % rabatt på 1–3 dagers heiskort i Hafjell, Kvitfjell og Oppdal. | [Link](https://www.obos.no/medlem/medlemsfordeler/alpinco-hafjell-kvitfjell-og-oppdal) |
 | HamKam fotball | 99 kroner for voksen og 50 kroner for barn på HamKam sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/hamkam) |
 | Henie Onstad Kunstsenter | 20 % rabatt på inngang for inntil to billetter per medlem. Gratis inngang for barn under 18 år og medlemmer som har ledsagerbevis. | [Link](https://www.obos.no/medlem/medlemsfordeler/henie-onstad-kunstsenter) |
+| Holmenkollen Frisbeegolf | Gratis frisbeegolf i Holmenkollen | [Link](https://www.skiforeningen.no/holmenkollen/frisbeegolf/) |
 | Holmenkollen Skifestival | Få 25–50 % rabatt på billetter til Holmenkollen Skifestival. | [Link](https://www.obos.no/medlem/medlemsfordeler/holmenkollen-skifestival) |
 | Holmenkollmarsjen | Få 100–200 kr rabatt på årets distanser. | [Link](https://www.obos.no/medlem/medlemsfordeler/holmenkollmarsjen) |
+| Holmenkollmarsjen | 400 kroner i rabatt på Holmenkollmarsjen | [Link](https://www.skiforeningen.no/aktiviteter-for-voksne/holmenkollmarsjen/) |
 | HTH | Få montering til 20 % av kjøpesummen når du kjøper kjøkken, bad og garderobe hos HTH. Veiledning og interiørforslag fra HTH's kjøkkeneksperter får du i tillegg helt gratis. | [Link](https://www.obos.no/medlem/medlemsfordeler/hth) |
 | Hunderfossen Eventyrpark | Hunderfossen Vinterpark er åpent fra 6. februar. OBOS-pris: 319–399 kr per dagsbillett. | [Link](https://www.obos.no/medlem/medlemsfordeler/hunderfossen-eventyrpark) |
 | Håndball-EM for menn | 25 % rabatt på billetter til håndball-EM i Unity Arena. | [Link](https://www.obos.no/medlem/medlemsfordeler/handball-em-for-menn) |
@@ -58,14 +65,19 @@ Updates are generated programmatically.
 | Høyt Under Taket | 20 % rabatt på inngangsbillett på Høyt Under Taket. | [Link](https://www.obos.no/medlem/medlemsfordeler/hoyt-under-taket) |
 | KFUM Oslo | 50 % på billetter til KFUMs hjemmekamper på Ekeberg. | [Link](https://www.obos.no/medlem/medlemsfordeler/kfum-oslo) |
 | Kid Interiør | 30 % rabatt både i butikk og på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/kid-interior) |
+| Kikutstua | 20 prosent på Kikutstua | [Link](https://www.kikutstua.no/) |
 | Kistefos | 25 % rabatt på inntil 5 billetter per medlem. | [Link](https://www.obos.no/medlem/medlemsfordeler/kistefos) |
+| Kjentmannshåndboka | 25 prosent rabatt på Kjentmannshåndboka | [Link](https://www.skiforeningen.no/utimarka/kjentmannsmerket/) |
 | Kolbotn Fotball Kvinner | 50 % rabatt på billetter til Kolbotn Fotball Kvinner sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/kolbotn-fotball-kvinner) |
+| Kollensvevet | Rabatt på Kollensvevet | [Link](https://www.kollensvevet.no/) |
 | Kolmården | 100 kroner i rabatt per billett. | [Link](https://www.obos.no/medlem/medlemsfordeler/kolmarden) |
 | Kolstad Håndball | Få 30 til 50 % rabatt på Kolstad Håndballs hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/kolstad-handball) |
 | Kongeparken | 25 % rabatt på dagskort ved bestilling online. | [Link](https://www.obos.no/medlem/medlemsfordeler/kongeparken-1) |
 | Kristiania nettstudier | 20 % rabatt på alle kurs og studier på nett fra Kristiania. | [Link](https://www.obos.no/medlem/medlemsfordeler/hoyskolen-kristiania-nettstudier) |
 | Lambertseter Bad | 50 % rabatt på inngang hos Lambertseter Bad i helgene. | [Link](https://www.obos.no/medlem/medlemsfordeler/lambertseter-bad) |
 | Langrennskurs | 1890 kroner for to økter og 2390 kroner for tre økter på Skiforeningens langrennskurs. | [Link](https://www.obos.no/medlem/medlemsfordeler/langrennskurs-ski) |
+| Langrennskurs | 600 kroner rabatt på langrennskurs | [Link](https://www.skiforeningen.no/aktiviteter-for-voksne/langrennskurs/) |
+| Last ned Sporet | Sporet er inkludert i medlemskapet | [Link](https://www.skiforeningen.no/nyheter/landsdekkende-foremelding/nedlasting/) |
 | Latter | 20–30 % rabatt på alle forestillinger på Latter. | [Link](https://www.obos.no/medlem/medlemsfordeler/latter) |
 | Legalis | Fast rabattert timepris hos advokat. | [Link](https://www.obos.no/medlem/medlemsfordeler/legalis) |
 | LEGOLAND | 2 for 1 inngangsbillett til LEGOLAND. | [Link](https://www.obos.no/medlem/medlemsfordeler/legoland) |
@@ -74,6 +86,8 @@ Updates are generated programmatically.
 | LSK Kvinner | 50 % rabatt på billetter til LSK Kvinner sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/lsk-kvinner) |
 | Lyn Damer | 25 % rabatt på billetter til Lyn Damer sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/lyn-damer) |
 | Lørenskog Ishockey | 25 % rabatt på billetter til Lørenskog Ishockey sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/lorenskog-ishockey) |
+| Markabussen | 60 prosent rabatt på Markabussen | [Link](https://www.skiforeningen.no/aktiviteter-for-voksne/markabussen/) |
+| Markabutikken.no | Alltid gode tilbud i Markabutikken | [Link](https://markabutikken.no/) |
 | Maxbo | Fra 15 % bonusopptjening på alle varer til ordinære priser både i butikk og på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/maxbo) |
 | Miniøya | 20 % rabatt på billetter til Miniøya. | [Link](https://www.obos.no/medlem/medlemsfordeler/minioya) |
 | Montér Stor-Bergen | Inntil 40 % rabatt på bestillingsvarer, og inntil 15 % rabatt på lagerførte varer. | [Link](https://www.obos.no/medlem/medlemsfordeler/monter-stor-bergen) |
@@ -97,12 +111,17 @@ Updates are generated programmatically.
 | Ren Bolig | 20 % rabatt på renhold og vaktmestertjenester i Østfold. | [Link](https://www.obos.no/medlem/medlemsfordeler/ren-bolig-fredrikstad) |
 | Rogaland Teater | Få 25 % rabatt på billetter. | [Link](https://www.obos.no/medlem/medlemsfordeler/rogaland-teater) |
 | Roseslottet | 20 % rabatt på inngang på Roseslottet for inntil fem billetter. | [Link](https://www.obos.no/medlem/medlemsfordeler/roseslottet) |
+| Roseslottet.no | 20% rabatt på inngang på Roseslottet | [Link](https://roseslottet.no/) |
 | Røa Fotball Elite | 25 % rabatt på billetter til Røa Fotball Elite sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/roa-fotball-elite) |
 | Samsung | Inntil 30 % rabatt på Samsung-produkter. | [Link](https://www.obos.no/medlem/medlemsfordeler/samsung) |
 | Sector Alarm | Sikre hjemmet ditt mot innbrudd og brann med boligalarm fra Sector Alarm. Som OBOS-medlem kan du spare opptil 5670 kroner det første året. | [Link](https://www.obos.no/medlem/medlemsfordeler/sector-alarm) |
+| Serveringsteder | 20 prosent på Løvlia, Krokskogen | [Link](https://www.skiforeningen.no/utimarka/stuer/) |
 | SK Brann | 50 % rabatt på billetter til SK Brann sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/sk-brann) |
 | Skara Sommerland | 100 kroner i rabatt per billett. | [Link](https://www.obos.no/medlem/medlemsfordeler/skara-sommarland) |
 | Skeid fotball | OBOS-rabatt på hjemmekamper og 25 % rabatt på fotballskoler. | [Link](https://www.obos.no/medlem/medlemsfordeler/skeid-fotball) |
+| Skiforeningen sin lue | Skiforeningens lue til kun 224 kr. | [Link](https://markabutikken.no/skiforeningsprodukter/smavarer/basic-lue-med-dusk) |
+| Skimore.no | 20 prosent rabatt i Skimore Oslo | [Link](https://www.skimore.no/) |
+| Skimuseet i Holmenkollen | Halv pris på inngangsbillett | [Link](https://www.skiforeningen.no/holmenkollen/skimuseet/) |
 | Skimuseet og Holmenkollen | 30 % rabatt på Skimuseet og 100 kroner i avslag på Kollensvevet. | [Link](https://www.obos.no/medlem/medlemsfordeler/skimuseet-og-holmenkollen) |
 | SNØ | 20 % rabatt på inngangsbilletter hos SNØ, verdens råeste helårsarena for snøopplevelser. | [Link](https://www.obos.no/medlem/medlemsfordeler/sno) |
 | Sparta Sarpsborg | 50 % rabatt på billetter til Sparta Hockeys hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/sparta-sarpsborg) |

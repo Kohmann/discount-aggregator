@@ -21,10 +21,9 @@ class ObosScraper(BaseScraper):
 
         try:
             # Use httpx to fetch the page
-            print(f"Fetching {self.site_name} website...")
+            print(f"Fetching and scraping {self.site_name} website...")
             response = httpx.get(self.list_url, headers=headers, follow_redirects=True, timeout=15)
             response.raise_for_status()
-            print("Page fetched successfully. Now scraping...")
 
             soup = BeautifulSoup(response.text, "lxml")
 
@@ -35,8 +34,6 @@ class ObosScraper(BaseScraper):
                 store = item.find("h3").get_text(strip=True)
                 description = item.find("p").get_text(strip=True)
 
-                discount_match = re.search(r"(\d{1,2}\s?%)", description)  # matches: "50 %", "10%", "5%"
-                discount = discount_match.group(1) if discount_match else None
                 link = self.base_url + item.get("href")
 
                 coupons.append(
@@ -44,7 +41,7 @@ class ObosScraper(BaseScraper):
                         site=self.site_name,
                         store=store,
                         description=description,
-                        discount=discount,
+                        discount=None,
                         code=None,
                         expires_at=None,  # Ongoing
                         link=link

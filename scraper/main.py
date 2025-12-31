@@ -4,6 +4,7 @@ from pathlib import Path
 
 from scrapers.model import Discount
 from scrapers.obos import ObosScraper
+from scrapers.skiforeningen import SkiforeningenScraper
 
 README_PATH = Path(__file__).parent.parent / "README.md"
 
@@ -38,16 +39,14 @@ def update_readme(table: str):
 def main():
     scrapers = [
         ObosScraper(),
+        SkiforeningenScraper(),
     ]
 
     discounts = []
     for scraper in scrapers:
-        try:
-            discounts.extend(scraper.scrape())
-        except Exception as e:
-            print(f"Failed {scraper.site_name}: {e}")
+        discounts.extend(scraper.scrape())
 
-    discounts.sort(key=lambda d: d.store.lower()) # Sort alphabetically by store name
+    discounts.sort(key=lambda d: d.store.lower())  # Sort alphabetically by store name
     table = discounts_to_markdown(discounts)
     update_readme(table)
     print(f"Updated README with {len(discounts)} discounts at {datetime.now()}")
