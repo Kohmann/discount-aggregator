@@ -55,7 +55,6 @@ Updated every day.
 | Bø Sommarland | 15–30 % rabatt på billetter. | [Link](https://www.obos.no/medlem/medlemsfordeler/bo-sommarland) |
 | Camelbak | 10% by using code DNB8787 | [Link](https://www.camelbak.no) |
 | Carls | 20 % rabatt på kaffe, pizza og pubkoret, samt 50 % rabatt på shuffleboard. | [Link](https://www.obos.no/medlem/medlemsfordeler/carls) |
-| Christiania Glasmagasin | 20 % rabatt på alle varer, både på nett og butikk. Denne medlemsfordelen varer ut 31. desember 2025. | [Link](https://www.obos.no/medlem/medlemsfordeler/christiania-glasmagasin) |
 | Circle K | 38 øre rabatt per liter på drivstoff og 45 øre/kWt i rabatt på hurtiglading av elbil. | [Link](https://www.obos.no/medlem/medlemsfordeler/circle-k) |
 | Crispi | 10% by using code DNB8787 | [Link](https://www.crispi.no) |
 | DAIDDA | 10% by using code DNB8787 | [Link](https://daidda.no/) |
