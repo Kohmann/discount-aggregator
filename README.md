@@ -104,7 +104,6 @@ Updated every day.
 | Høyt Under Taket | 20 % rabatt på inngangsbillett på Høyt Under Taket. | [Link](https://www.obos.no/medlem/medlemsfordeler/hoyt-under-taket) |
 | INSPIRIA | Gratis inngang på INSPIRIA science center | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/gratis-inngang-pa-inspiria-science-center/) |
 | Interflora | 10% by using code DNB8787 | [Link](https://www.interflora.no/) |
-| Interiør 24 | 10% by using code DNB8787 | [Link](https://www.interior24.no/) |
 | Janus | 10 % by using code DNB8787 | [Link](https://janus.no) |
 | Johnny Love | 10% by using code DNB8787 | [Link](https://www.johnnylove.com/) |
 | Kastel Shoes | 10% by using code DNB8787 | [Link](https://kastelshoes.com/) |
@@ -140,7 +139,6 @@ Updated every day.
 | Lyn Damer | 25 % rabatt på billetter til Lyn Damer sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/lyn-damer) |
 | Lørenskog Ishockey | 25 % rabatt på billetter til Lørenskog Ishockey sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/lorenskog-ishockey) |
 | Markabussen | 60 prosent rabatt på Markabussen | [Link](https://www.skiforeningen.no/aktiviteter-for-voksne/markabussen/) |
-| Markabutikken.no | Alltid gode tilbud i Markabutikken | [Link](https://markabutikken.no/) |
 | Maxbo | Fra 15 % bonusopptjening på alle varer til ordinære priser både i butikk og på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/maxbo) |
 | MedEasy | Rabatt hos MedEasy | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-medeasy/) |
 | Miniøya | 20 % rabatt på billetter til Miniøya. | [Link](https://www.obos.no/medlem/medlemsfordeler/minioya) |
@@ -185,7 +183,6 @@ Updated every day.
 | Skara Sommerland | 100 kroner i rabatt per billett. | [Link](https://www.obos.no/medlem/medlemsfordeler/skara-sommarland) |
 | Skaugum | 10% by using code DNB8787 | [Link](https://skaugum.info/) |
 | Skeid fotball | OBOS-rabatt på hjemmekamper og 25 % rabatt på fotballskoler. | [Link](https://www.obos.no/medlem/medlemsfordeler/skeid-fotball) |
-| Skiforeningen sin lue | Skiforeningens lue til kun 224 kr. | [Link](https://markabutikken.no/skiforeningsprodukter/smavarer/basic-lue-med-dusk) |
 | Skimore.no | 20 prosent rabatt i Skimore Oslo | [Link](https://www.skimore.no/) |
 | Skimuseet i Holmenkollen | Halv pris på inngangsbillett | [Link](https://www.skiforeningen.no/holmenkollen/skimuseet/) |
 | Skimuseet og Holmenkollen | 30 % rabatt på Skimuseet og 100 kroner i avslag på Kollensvevet. | [Link](https://www.obos.no/medlem/medlemsfordeler/skimuseet-og-holmenkollen) |
