@@ -133,7 +133,7 @@ Updated every day.
 | Legalis | Fast rabattert timepris hos advokat. | [Link](https://www.obos.no/medlem/medlemsfordeler/legalis) |
 | LEGOLAND | 2 for 1 inngangsbillett til LEGOLAND. | [Link](https://www.obos.no/medlem/medlemsfordeler/legoland) |
 | Lillelam | 10% by using code DNB8787 | [Link](https://lillelam.no/) |
-| Liseberg | Utsolgt: 30 % rabatt på et begrenset antall billetter. | [Link](https://www.obos.no/medlem/medlemsfordeler/liseberg) |
+| Liseberg | 30 % rabatt på et begrenset antall billetter. | [Link](https://www.obos.no/medlem/medlemsfordeler/liseberg) |
 | Liseberg Grand Curiosa Hotel | Inntil 20 % rabatt på overnatting hos Liseberg Grand Curiosa Hotel i Sverige. | [Link](https://www.obos.no/medlem/medlemsfordeler/liseberg-grand-curiosa-hotel) |
 | LSK Kvinner | 50 % rabatt på billetter til LSK Kvinner sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/lsk-kvinner) |
 | Lyn Damer | 25 % rabatt på billetter til Lyn Damer sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/lyn-damer) |
