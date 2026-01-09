@@ -1,8 +1,9 @@
 # Discount Aggregator
 
-This repository automatically collects discount codes from NITO, OBOS, DNB, and Skiforeningen
+This repository automatically collects discount codes from NITO, OBOS, DNB, and Skiforeningen.
+NAF implementation soon. 
 
-Updated every day.
+Updated every day. Perchance
 
 ## Discounts
 
