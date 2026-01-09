@@ -2,7 +2,7 @@
 
 This repository automatically collects discount codes from NITO, OBOS, DNB, and Skiforeningen.
 
-NAF soon. 
+[NAF](https://www.naf.no/medlemskap/medlemsfordeler?tabView=rabatter&query=) soon. 
 
 Updated every day. Perchance
 
