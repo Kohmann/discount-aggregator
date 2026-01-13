@@ -176,7 +176,7 @@ Updated every day. Perchance
 | Roseslottet.no | 20% rabatt på inngang på Roseslottet | [Link](https://roseslottet.no/) |
 | Røa Fotball Elite | 25 % rabatt på billetter til Røa Fotball Elite sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/roa-fotball-elite) |
 | Samsung | Inntil 30 % rabatt på Samsung-produkter. | [Link](https://www.obos.no/medlem/medlemsfordeler/samsung) |
-| Sarve­sAl­ta Al­pin­sen­ter | Heiskoi SarvesAlta Alpinsenter | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/heiskort-i-sarvesalta-alpinsenter/) |
+| Sarve­sAl­ta Al­pin­sen­ter | Gratis heiskort i SarvesAlta Alpinsenter | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/heiskort-i-sarvesalta-alpinsenter/) |
 | Scandic | Hotellrabatt Scandic | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-overnatting-hos-scandic/) |
 | Sector Alarm | Sikre hjemmet ditt mot innbrudd og brann med boligalarm fra Sector Alarm. Som OBOS-medlem kan du spare opptil 5670 kroner det første året. | [Link](https://www.obos.no/medlem/medlemsfordeler/sector-alarm) |
 | Serveringsteder | 20 prosent på Løvlia, Krokskogen | [Link](https://www.skiforeningen.no/utimarka/stuer/) |
@@ -228,6 +228,7 @@ Updated every day. Perchance
 | Vianor | 10% by using code DNB7295 | [Link](https://vianor.no/) |
 | Viking | 10% by using code DNB7295 | [Link](https://no.vikingfootwear.com/) |
 | Viking Fotball | OBOS-rabatt på billetter til hjemmekamper på Viking stadion. | [Link](https://www.obos.no/medlem/medlemsfordeler/viking-fotball) |
+| Visningshelg | Uansett om du vil kjøpe, eller bare er litt nysgjerrig, er du hjertelig velkommen til visning av boligprosjektene våre 24. og 25. januar over hele landet. | [Link](https://www.obos.no/medlem/medlemsfordeler/visningshelg-januar) |
 | Vitensenteret Innlandet | Gratis inngang på Vitensenteret Innlandet | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/gratis-inngang-pa-vitensenteret-innlandet/) |
 | Vitensenteret Sørlandet | Rabatt på Vitensenteret Sørlandet | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-vitensenteret-sorlandet/) |
 | Von Doren | 10% by using code DNB7295 | [Link](https://www.vondoren.no/) |
