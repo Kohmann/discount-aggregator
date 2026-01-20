@@ -103,6 +103,7 @@ Updated every day. Perchance
 | Hällmark | 10% by using code DNB7295 | [Link](https://www.hallmarkofsweden.no/) |
 | Håndball-EM for menn | 25 % rabatt på billetter til håndball-EM i Unity Arena. | [Link](https://www.obos.no/medlem/medlemsfordeler/handball-em-for-menn) |
 | Høie | 10% by using code DNB7295 | [Link](https://www.hoie.no/) |
+| Høyskolen Kristiania | 20 % rabatt på alle emner og studier på nett fra Kristiania, samt erfaringsbasert master, MBA og Master of Science in Financial Management. | [Link](https://www.obos.no/medlem/medlemsfordeler/hoyskolen-kristiania-nettstudier) |
 | Høyt & Lavt | 20 % rabatt på dagskort på Høyt & Lavt. | [Link](https://www.obos.no/medlem/medlemsfordeler/hoyt-and-lavt) |
 | Høyt Under Taket | 20 % rabatt på inngangsbillett på Høyt Under Taket. | [Link](https://www.obos.no/medlem/medlemsfordeler/hoyt-under-taket) |
 | INSPIRIA | Gratis inngang på INSPIRIA science center | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/gratis-inngang-pa-inspiria-science-center/) |
@@ -123,7 +124,6 @@ Updated every day. Perchance
 | Kolstad Håndball | Få 30 til 50 % rabatt på Kolstad Håndballs hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/kolstad-handball) |
 | Kondomeriet | 10% by using code DNB7295 | [Link](https://www.kondomeriet.no/) |
 | Kongeparken | 25 % rabatt på dagskort ved bestilling online. | [Link](https://www.obos.no/medlem/medlemsfordeler/kongeparken-1) |
-| Kristiania nettstudier | 20 % rabatt på alle kurs og studier på nett fra Kristiania. | [Link](https://www.obos.no/medlem/medlemsfordeler/hoyskolen-kristiania-nettstudier) |
 | Krogh Optikk | 10% by using code DNB7295 | [Link](https://kroghoptikk.no/) |
 | L'Occitane | 10% by using code DNB7295 | [Link](https://no.loccitane.com/) |
 | Lambertseter Bad | 50 % rabatt på inngang hos Lambertseter Bad i helgene. | [Link](https://www.obos.no/medlem/medlemsfordeler/lambertseter-bad) |
