@@ -101,7 +101,6 @@ Updated every day. Perchance
 | HTH | Få montering til 20 % av kjøpesummen når du kjøper kjøkken, bad og garderobe hos HTH. Veiledning og interiørforslag fra HTH's kjøkkeneksperter får du i tillegg helt gratis. | [Link](https://www.obos.no/medlem/medlemsfordeler/hth) |
 | Hunderfossen Eventyrpark | Hunderfossen Vinterpark er åpent fra 6. februar. OBOS-pris: 319–399 kr per dagsbillett. | [Link](https://www.obos.no/medlem/medlemsfordeler/hunderfossen-eventyrpark) |
 | Hällmark | 10% by using code DNB7295 | [Link](https://www.hallmarkofsweden.no/) |
-| Håndball-EM for menn | 25 % rabatt på billetter til håndball-EM i Unity Arena. | [Link](https://www.obos.no/medlem/medlemsfordeler/handball-em-for-menn) |
 | Høie | 10% by using code DNB7295 | [Link](https://www.hoie.no/) |
 | Høyskolen Kristiania | 20 % rabatt på alle emner og studier på nett fra Kristiania, samt erfaringsbasert master, MBA og Master of Science in Financial Management. | [Link](https://www.obos.no/medlem/medlemsfordeler/hoyskolen-kristiania-nettstudier) |
 | Høyt & Lavt | 20 % rabatt på dagskort på Høyt & Lavt. | [Link](https://www.obos.no/medlem/medlemsfordeler/hoyt-and-lavt) |
@@ -195,6 +194,7 @@ Updated every day. Perchance
 | SNØ | 20 % rabatt på inngangsbilletter hos SNØ, verdens råeste helårsarena for snøopplevelser. | [Link](https://www.obos.no/medlem/medlemsfordeler/sno) |
 | Sparta Sarpsborg | 50 % rabatt på billetter til Sparta Hockeys hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/sparta-sarpsborg) |
 | Spaxo | 10% by using code DNB7295 | [Link](https://spaxo.no/) |
+| Sporet Sport | 20 prosent rabatt på Sporet Sport | [Link](https://sporetsport.no/no) |
 | Sportmann.no | 10% by using code DNB7295 | [Link](https://www.sportmann.no/) |
 | Sportslivet | 10% by using code DNB7295 | [Link](https://www.sportslivet.no/) |
 | Stabæk Fotball | 100 kroner for voksne og 50 kroner for barn for billetter til Stabæk Fotballs hjemmekamper i OBOS-ligaen. | [Link](https://www.obos.no/medlem/medlemsfordeler/stabaek-fotball) |
