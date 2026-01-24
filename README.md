@@ -68,7 +68,7 @@ Updated every day. Perchance
 | Dovre | 10% by using code DNB7295 | [Link](https://dovre.com/) |
 | Eidsvoll 1814 | 25 % rabatt på inngang til museet. | [Link](https://www.obos.no/medlem/medlemsfordeler/eidsvoll-1814) |
 | Elite Foto | 10% by using code DNB7295 | [Link](https://www.elitefoto.no/) |
-| Elon | 12 % rabatt på utvalgte varer i nettbutikken. | [Link](https://www.obos.no/medlem/medlemsfordeler/elon) |
+| Elon | 12 % rabatt på utvalgt elektronikk og hvitevarer i nettbutikken. | [Link](https://www.obos.no/medlem/medlemsfordeler/elon) |
 | EVO treningssenter | Fast månedspris til kun 369 kr, gratis trening resten av måneden du melder deg inn og ingen innmeldingsavgift. | [Link](https://www.obos.no/medlem/medlemsfordeler/evo) |
 | Fana Håndball Elite | 50 % rabatt på billetter til Fana Håndball Elite sine håndballkamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/fana-handball-elite) |
 | FANGA | Få 20 % rabatt på billetter til FANGA. | [Link](https://www.obos.no/medlem/medlemsfordeler/fanga) |
@@ -89,7 +89,7 @@ Updated every day. Perchance
 | Gullfunn | 10% by using code DNB7295 | [Link](https://www.gullfunn.no/) |
 | Gutta på Haugen | 10% by using code DNB7295 | [Link](https://www.gutta.no/) |
 | Hadeland Glassverk | 30 % rabatt på sesongens glassblås og 15 % rabatt på varer i butikk og på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/hadeland-glassverk) |
-| Hafjell, Kvitfjell og Oppdal | 5–10 % rabatt på 1–3 dagers heiskort i Hafjell, Kvitfjell og Oppdal. | [Link](https://www.obos.no/medlem/medlemsfordeler/alpinco-hafjell-kvitfjell-og-oppdal) |
+| Hafjell, Kvitfjell og Oppdal | 10 % rabatt på 1–3 dagers heiskort i Hafjell, Kvitfjell og Oppdal. Og 10 % rabatt på overnatting på utvalgte steder. | [Link](https://www.obos.no/medlem/medlemsfordeler/alpinco-hafjell-kvitfjell-og-oppdal) |
 | HamKam fotball | 99 kroner for voksen og 50 kroner for barn på HamKam sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/hamkam) |
 | Helly Hansen | 10% by using code DNB7295 | [Link](https://www.hellyhansen.com/) |
 | Henie Onstad Kunstsenter | 20 % rabatt på inngang for inntil to billetter per medlem. Gratis inngang for barn under 18 år og medlemmer som har ledsagerbevis. | [Link](https://www.obos.no/medlem/medlemsfordeler/henie-onstad-kunstsenter) |
