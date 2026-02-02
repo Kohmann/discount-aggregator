@@ -72,7 +72,6 @@ Updated every day. Perchance
 | Elon | 12 % rabatt på utvalgt elektronikk og hvitevarer i nettbutikken. | [Link](https://www.obos.no/medlem/medlemsfordeler/elon) |
 | EVO treningssenter | Fast månedspris til kun 369 kr, gratis trening resten av måneden du melder deg inn og ingen innmeldingsavgift. | [Link](https://www.obos.no/medlem/medlemsfordeler/evo) |
 | Fana Håndball Elite | 50 % rabatt på billetter til Fana Håndball Elite sine håndballkamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/fana-handball-elite) |
-| FANGA | Få 20 % rabatt på billetter til FANGA. | [Link](https://www.obos.no/medlem/medlemsfordeler/fanga) |
 | Farmasiet – apotek på nett | 20 % rabatt på ordinære varer hos Norges største apotek på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/farmasiet-apotek-pa-nett) |
 | Fellesturer | Gratis tilbud for deg som liker å gå sammen med andre | [Link](https://www.skiforeningen.no/aktiviteter-for-voksne/fellesturer/) |
 | Fjellsport | Rabatt hos Fjellsport | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-fjellsport/) |
