@@ -158,7 +158,7 @@ Updated every day. Perchance
 | OBOS Bostart | Som OBOS-medlem får du forkjøpsrett på nyboliger med OBOS Bostart ved salgsstart. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-bostart) |
 | OBOS Deleie | Som OBOS-medlem får du forkjøpsrett på nyboliger med OBOS Deleie ved salgsstart. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-deleie) |
 | OBOS Eiendomsmeglere | Som OBOS-medlem får du 5000 kroner i rabatt når du selger boligen din gjennom OBOS Eiendomsmeglere. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-eiendomsmeglere) |
-| OBOS-banken | I OBOS-banken får du som OBOS-medlem bedre renter på boliglånet ditt – og nå er rentene satt ned igjen! I tillegg får du gratis bankkort og god rente på brukskontoen din fra første krone. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-banken) |
+| OBOS-banken | I OBOS-banken får du som OBOS-medlem bedre renter på boliglånet ditt. I tillegg får du gratis bankkort og god rente på brukskonto og sparekonto fra første krone. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-banken) |
 | OBOS-ligaen | Som OBOS-medlemmer har du tilgang til OBOS billetten: 100 kroner for voksne og 50 kroner for barn. Rabatten gjelder på alle kamper i OBOS-ligaen. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-ligaen) |
 | ODEON Kino | 15 % rabatt på ordinære kinobilletter. | [Link](https://www.obos.no/medlem/medlemsfordeler/odeon-kino) |
 | Odlo | 10 % by using code DNB2739 | [Link](https://odlo.no) |
