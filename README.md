@@ -130,7 +130,7 @@ Updated every day. Perchance
 | Langrennskurs | 1890 kroner for to økter og 2390 kroner for tre økter på Skiforeningens langrennskurs. | [Link](https://www.obos.no/medlem/medlemsfordeler/langrennskurs-ski) |
 | Langrennskurs | 600 kroner rabatt på langrennskurs | [Link](https://www.skiforeningen.no/aktiviteter-for-voksne/langrennskurs/) |
 | Last ned Sporet | Sporet er inkludert i medlemskapet | [Link](https://www.skiforeningen.no/sporet-appen/nedlasting/) |
-| Latter | 20–30 % rabatt på alle forestillinger på Latter. | [Link](https://www.obos.no/medlem/medlemsfordeler/latter) |
+| Latter | 20–30 % rabatt på alle forestillinger på Latter. Denne fordelen utgår 4. mars 2026. | [Link](https://www.obos.no/medlem/medlemsfordeler/latter) |
 | Leatherman | 10% by using code DNB2739 | [Link](https://www.leathermanshop.no) |
 | Ledlenser | 10% by using code DNB2739 | [Link](https://www.ledlensershop.no) |
 | Legalis | Fast rabattert timepris hos advokat. | [Link](https://www.obos.no/medlem/medlemsfordeler/legalis) |
