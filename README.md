@@ -90,7 +90,6 @@ Updated every day. Perchance
 | Gutta på Haugen | 10% by using code DNB2739 | [Link](https://www.gutta.no/) |
 | Hadeland Glassverk | 30 % rabatt på sesongens glassblås og 15 % rabatt på varer i butikk og på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/hadeland-glassverk) |
 | Hafjell, Kvitfjell og Oppdal | 10 % rabatt på 1–3 dagers heiskort i Hafjell, Kvitfjell og Oppdal. Og 10 % rabatt på overnatting på utvalgte steder. | [Link](https://www.obos.no/medlem/medlemsfordeler/alpinco-hafjell-kvitfjell-og-oppdal) |
-| Hamar Kammermusikkfestival | Få 20 % rabatt på utvalgte konserter under Hamar Kammermusikkfestival. | [Link](https://www.obos.no/medlem/medlemsfordeler/hamar-kammermusikkfestival) |
 | HamKam fotball | 99 kroner for voksen og 50 kroner for barn på HamKam sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/hamkam) |
 | Helly Hansen | 10% by using code DNB2739 | [Link](https://www.hellyhansen.com/) |
 | Henie Onstad Kunstsenter | 20 % rabatt på inngang for inntil to billetter per medlem. Gratis inngang for barn under 18 år og medlemmer som har ledsagerbevis. | [Link](https://www.obos.no/medlem/medlemsfordeler/henie-onstad-kunstsenter) |
