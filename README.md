@@ -98,7 +98,7 @@ Updated every day. Perchance
 | Holmenkollmarsjen | Få 100–200 kr rabatt på årets distanser. | [Link](https://www.obos.no/medlem/medlemsfordeler/holmenkollmarsjen) |
 | Holmenkollmarsjen | 400 kroner i rabatt på Holmenkollmarsjen | [Link](https://www.skiforeningen.no/aktiviteter-for-voksne/holmenkollmarsjen/) |
 | HTH | Få montering til 20 % av kjøpesummen når du kjøper kjøkken, bad og garderobe hos HTH. Veiledning og interiørforslag fra HTH's kjøkkeneksperter får du i tillegg helt gratis. | [Link](https://www.obos.no/medlem/medlemsfordeler/hth) |
-| Hunderfossen Eventyrpark | Hunderfossen Vinterpark er åpent fra 6. februar. OBOS-pris: 319–399 kr per dagsbillett. | [Link](https://www.obos.no/medlem/medlemsfordeler/hunderfossen-eventyrpark) |
+| Hunderfossen Eventyrpark | Hunderfossen Vinterpark er åpent fram til 28. februar. OBOS-pris: 319–399 kr per dagsbillett. | [Link](https://www.obos.no/medlem/medlemsfordeler/hunderfossen-eventyrpark) |
 | Hällmark | 10% by using code DNB2739 | [Link](https://www.hallmarkofsweden.no/) |
 | Høie | 10% by using code DNB2739 | [Link](https://www.hoie.no/) |
 | Høyskolen Kristiania | 20 % rabatt på alle emner og studier på nett fra Kristiania, samt erfaringsbasert master, MBA og Master of Science in Financial Management. | [Link](https://www.obos.no/medlem/medlemsfordeler/hoyskolen-kristiania-nettstudier) |
