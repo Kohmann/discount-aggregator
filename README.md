@@ -26,7 +26,6 @@ Updated every day. Perchance
 | Barbershop | 10 % by using code DNB2739 | [Link](https://barbershop.no) |
 | Barnas Holmenkolldag | 350 kroner for billett til Barnas Holmenkolldag. | [Link](https://www.obos.no/medlem/medlemsfordeler/barnas-holmenkolldag) |
 | Barnas Holmenkolldag | Rabatt på Barnas Holmenkolldag | [Link](https://www.skiforeningen.no/aktiviteter-for-barn/barnas-holmenkolldag/) |
-| Barnas Skiskole | 1740 kroner for billett til Barnas Skiskole. | [Link](https://www.obos.no/medlem/medlemsfordeler/barnas-skiskole) |
 | Barnas skiskole | 450 kroner rabatt på skiskole i helgene | [Link](https://www.skiforeningen.no/aktiviteter-for-barn/barnas-skiskole/) |
 | Beckmann | 10% by using code DNB2739 | [Link](https://beckmann.no/) |
 | BeGood | 10% by using code DNB2739 | [Link](https://www.begood.no/) |
