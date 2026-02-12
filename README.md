@@ -69,7 +69,6 @@ Updated every day. Perchance
 | Elite Foto | 10% by using code DNB2739 | [Link](https://www.elitefoto.no/) |
 | Elon | 12 % rabatt på utvalgt elektronikk og hvitevarer i nettbutikken. | [Link](https://www.obos.no/medlem/medlemsfordeler/elon) |
 | EVO treningssenter | Fast månedspris til kun 369 kr, gratis trening resten av måneden du melder deg inn og ingen innmeldingsavgift. | [Link](https://www.obos.no/medlem/medlemsfordeler/evo) |
-| Fana Håndball Elite | 50 % rabatt på billetter til Fana Håndball Elite sine håndballkamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/fana-handball-elite) |
 | Farmasiet – apotek på nett | 20 % rabatt på ordinære varer hos Norges største apotek på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/farmasiet-apotek-pa-nett) |
 | Fellesturer | Gratis tilbud for deg som liker å gå sammen med andre | [Link](https://www.skiforeningen.no/aktiviteter-for-voksne/fellesturer/) |
 | Fjellsport | Rabatt hos Fjellsport | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-fjellsport/) |
@@ -115,7 +114,6 @@ Updated every day. Perchance
 | Kistefos | 25 % rabatt på inntil 5 billetter per medlem. | [Link](https://www.obos.no/medlem/medlemsfordeler/kistefos) |
 | Kjentmannshåndboka | 25 prosent rabatt på Kjentmannshåndboka | [Link](https://www.skiforeningen.no/utimarka/kjentmannsmerket/) |
 | Klatring på Grensen | Rabatt hos Klatring på Grensen | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/klatring-pa-grensen/) |
-| Kolbotn Fotball Kvinner | 50 % rabatt på billetter til Kolbotn Fotball Kvinner sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/kolbotn-fotball-kvinner) |
 | Kollensvevet | Rabatt på Kollensvevet | [Link](https://www.kollensvevet.no/) |
 | Kolmården | 100 kroner i rabatt per billett. | [Link](https://www.obos.no/medlem/medlemsfordeler/kolmarden) |
 | Kolstad Håndball | Få 30 til 50 % rabatt på Kolstad Håndballs hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/kolstad-handball) |
@@ -172,7 +170,6 @@ Updated every day. Perchance
 | Rogaland Teater | Få 25 % rabatt på billetter. | [Link](https://www.obos.no/medlem/medlemsfordeler/rogaland-teater) |
 | Roseslottet | 20 % rabatt på inngang på Roseslottet for inntil fem billetter. | [Link](https://www.obos.no/medlem/medlemsfordeler/roseslottet) |
 | Roseslottet.no | 20% rabatt på inngang på Roseslottet | [Link](https://roseslottet.no/) |
-| Røa Fotball Elite | 25 % rabatt på billetter til Røa Fotball Elite sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/roa-fotball-elite) |
 | Samsung | Inntil 30 % rabatt på Samsung-produkter. | [Link](https://www.obos.no/medlem/medlemsfordeler/samsung) |
 | Sarve­sAl­ta Al­pin­sen­ter | Gratis heiskort i SarvesAlta Alpinsenter | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/heiskort-i-sarvesalta-alpinsenter/) |
 | Scandic | Hotellrabatt Scandic | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-overnatting-hos-scandic/) |
@@ -195,7 +192,6 @@ Updated every day. Perchance
 | Sporet Sport | 20 prosent rabatt på Sporet Sport | [Link](https://sporetsport.no/no) |
 | Sportmann.no | 10% by using code DNB2739 | [Link](https://www.sportmann.no/) |
 | Sportslivet | 10% by using code DNB2739 | [Link](https://www.sportslivet.no/) |
-| Stabæk Fotball | 100 kroner for voksne og 50 kroner for barn for billetter til Stabæk Fotballs hjemmekamper i OBOS-ligaen. | [Link](https://www.obos.no/medlem/medlemsfordeler/stabaek-fotball) |
 | Stabæk Fotball Kvinner | 50 % rabatt på billetter til Stabæk Fotball Kvinner sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/stabaek-fotball-kvinner) |
 | Standard | 10% by using code DNB2739 | [Link](https://www.festmagasinet.no/) |
 | Stanley | 10% by using code DNB2739 | [Link](https://www.stanley.no/) |
