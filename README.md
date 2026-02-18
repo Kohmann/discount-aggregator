@@ -85,7 +85,7 @@ Updated every day. Perchance
 | Gullfunn | 10% by using code DNB2739 | [Link](https://www.gullfunn.no/) |
 | Gutta på Haugen | 10% by using code DNB2739 | [Link](https://www.gutta.no/) |
 | Hadeland Glassverk | 30 % rabatt på sesongens glassblås og 15 % rabatt på varer i butikk og på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/hadeland-glassverk) |
-| Hafjell, Kvitfjell og Oppdal | 10 % rabatt på 1–3 dagers heiskort i Hafjell, Kvitfjell og Oppdal. Og 10 % rabatt på overnatting på utvalgte steder. | [Link](https://www.obos.no/medlem/medlemsfordeler/alpinco-hafjell-kvitfjell-og-oppdal) |
+| Hafjell, Kvitfjell og Oppdal | 10 % rabatt på 1–3 dagers heiskort i Hafjell, Kvitfjell og Oppdal. | [Link](https://www.obos.no/medlem/medlemsfordeler/alpinco-hafjell-kvitfjell-og-oppdal) |
 | HamKam fotball | 99 kroner for voksen og 50 kroner for barn på HamKam sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/hamkam) |
 | Helly Hansen | 10% by using code DNB2739 | [Link](https://www.hellyhansen.com/) |
 | Henie Onstad Kunstsenter | 20 % rabatt på inngang for inntil to billetter per medlem. Gratis inngang for barn under 18 år og medlemmer som har ledsagerbevis. | [Link](https://www.obos.no/medlem/medlemsfordeler/henie-onstad-kunstsenter) |
@@ -145,7 +145,6 @@ Updated every day. Perchance
 | NITO | Verv en kollega – det lønner seg! | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/verv-en-kollega/) |
 | Nobels Fredssenter | 25 % rabatt på inngangsbilletter. | [Link](https://www.obos.no/medlem/medlemsfordeler/nobels-fredssenter) |
 | Nordlys | 20 % rabatt på billetter til teaterforestillingen Nordlys på Edderkoppen scene. | [Link](https://www.obos.no/medlem/medlemsfordeler/nordlys) |
-| Norsk Eltavleforening | Rabatt på kurs hos Norsk Eltavleforening | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kurs-hos-norsk-eltavleforening/) |
 | Norsk Folkemuseum | 25 % rabatt på voksenbillett og 10 % rabatt i museumsbutikken til Norsk Folkemuseum. | [Link](https://www.obos.no/medlem/medlemsfordeler/norsk-folkemuseum) |
 | NOVASOL | Fra 6–10 % rabatt på leie av feriehus. | [Link](https://www.obos.no/medlem/medlemsfordeler/novasol) |
 | Nøtterøy Kulturhus | 20 % rabatt på billetter hos Nøtterøy Kulturhus. | [Link](https://www.obos.no/medlem/medlemsfordeler/notteroy-kulturhus) |
@@ -177,7 +176,7 @@ Updated every day. Perchance
 | Session | 10% by using code DNB2739 | [Link](https://www.session.no/) |
 | SK Brann | 50 % rabatt på billetter til SK Brann sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/sk-brann) |
 | Skaugum | 10% by using code DNB2739 | [Link](https://skaugum.info/) |
-| Skeid fotball | OBOS-rabatt på hjemmekamper og 25 % rabatt på fotballskoler. | [Link](https://www.obos.no/medlem/medlemsfordeler/skeid-fotball) |
+| Skeid | OBOS-rabatt på hjemmekamper og 10 % rabatt på fotballskoler. | [Link](https://www.obos.no/medlem/medlemsfordeler/skeid) |
 | Skimore.no | 20 prosent rabatt i Skimore Oslo | [Link](https://www.skimore.no/) |
 | Skimuseet i Holmenkollen | Halv pris på inngangsbillett | [Link](https://www.skiforeningen.no/holmenkollen/skimuseet/) |
 | Skimuseet og Holmenkollen | 30 % rabatt på Skimuseet og 100 kroner i avslag på Kollensvevet. | [Link](https://www.obos.no/medlem/medlemsfordeler/skimuseet-og-holmenkollen) |
@@ -185,6 +184,7 @@ Updated every day. Perchance
 | Slottsfjell | Festivalpass uten Natten til earlybird-pris. | [Link](https://www.obos.no/medlem/medlemsfordeler/slottsfjell) |
 | Smartlapper | 10% by using code DNB2739 | [Link](https://www.smartlapper.no) |
 | Småungene | 10% by using code DNB2739 | [Link](https://www.smaaungene.no/) |
+| Snart er OBOS Reiselivsdager i gang! | Under OBOS Reiselivsdager 25. februar til 3. mars får du som OBOS-medlem eksklusive tilbud – som kan gjøre sommerferien både rimeligere og mer budsjettvennlig. Sjekk ut tilbudene allerede nå! | [Link](https://www.obos.no/medlem/medlemsfordeler/snart-er-obos-reiselivsdager-i-gang) |
 | SNØ | 20 % rabatt på inngangsbilletter hos SNØ, verdens råeste helårsarena for snøopplevelser. | [Link](https://www.obos.no/medlem/medlemsfordeler/sno) |
 | Sparta Sarpsborg | 50 % rabatt på billetter til Sparta Hockeys hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/sparta-sarpsborg) |
 | Spaxo | 10% by using code DNB2739 | [Link](https://spaxo.no/) |
@@ -228,7 +228,7 @@ Updated every day. Perchance
 | Vitensenteret Sørlandet | Rabatt på Vitensenteret Sørlandet | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-vitensenteret-sorlandet/) |
 | Von Doren | 10% by using code DNB2739 | [Link](https://www.vondoren.no/) |
 | VVS Norge – Bademiljø og Comfort | 15 % rabatt på rørleggertjenester og deler fra Bademiljø, Comfort og VVS Norge. | [Link](https://www.obos.no/medlem/medlemsfordeler/vvs-norge-bademiljo-og-comfort) |
-| Vålerenga Damer | 50 % rabatt på billetter til Vålerenga Damer sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/valerenga-damer) |
+| Vålerenga Damer | 25 % rabatt på billetter til Vålerenga Damer sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/valerenga-damer) |
 | Vålerenga Fotball Elite | 99 kroner for voksne og 49 kroner for barn på Vålerengas hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/vif-fotball-elite) |
 | Vålerenga Ishockey | 50 % rabatt på billetter til Vålerenga Ishockey sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/valerenga-ishockey) |
 | Wallmans Oslo | 20 % rabatt på inntil seks billetter hos Wallmans Oslo. | [Link](https://www.obos.no/medlem/medlemsfordeler/wallmans-oslo) |
