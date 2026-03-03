@@ -109,7 +109,7 @@ Updated every day. Perchance
 | Kid Interiør | 30 % rabatt både i butikk og på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/kid-interior) |
 | Kikutstua | 20 prosent på Kikutstua | [Link](https://www.kikutstua.no/) |
 | Kinogavekort.no | 10% by using code DNB6932 | [Link](https://kinogavekort.no/) |
-| Kistefos | 25 % rabatt på inntil 5 billetter per medlem. | [Link](https://www.obos.no/medlem/medlemsfordeler/kistefos) |
+| Kistefos | 25 % rabatt på inntil fem billetter per medlem. | [Link](https://www.obos.no/medlem/medlemsfordeler/kistefos) |
 | Kjentmannshåndboka | 25 prosent rabatt på Kjentmannshåndboka | [Link](https://www.skiforeningen.no/utimarka/kjentmannsmerket/) |
 | Klatring på Grensen | Rabatt hos Klatring på Grensen | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/klatring-pa-grensen/) |
 | Kollensvevet | Rabatt på Kollensvevet | [Link](https://www.kollensvevet.no/) |
@@ -127,6 +127,7 @@ Updated every day. Perchance
 | Ledlenser | 10% by using code DNB6932 | [Link](https://www.ledlensershop.no) |
 | Legalis | Fast rabattert timepris hos advokat. | [Link](https://www.obos.no/medlem/medlemsfordeler/legalis) |
 | LEGOLAND | 2 for 1 inngangsbillett til LEGOLAND. | [Link](https://www.obos.no/medlem/medlemsfordeler/legoland) |
+| Les mer om tilbudet | Rabatt på Holmenkollen Skifestival | [Link](https://www.skiforeningen.no/nyheter/kampanje-mars-2026/) |
 | Lillelam | 10% by using code DNB6932 | [Link](https://lillelam.no/) |
 | Liseberg | 30 % rabatt på et begrenset antall billetter. | [Link](https://www.obos.no/medlem/medlemsfordeler/liseberg) |
 | Liseberg Grand Curiosa Hotel | Inntil 20 % rabatt på overnatting hos Liseberg Grand Curiosa Hotel i Sverige. | [Link](https://www.obos.no/medlem/medlemsfordeler/liseberg-grand-curiosa-hotel) |
@@ -174,6 +175,7 @@ Updated every day. Perchance
 | Sector Alarm | Sikre hjemmet ditt mot innbrudd og brann med boligalarm fra Sector Alarm. Som OBOS-medlem kan du spare opptil 5670 kroner det første året. | [Link](https://www.obos.no/medlem/medlemsfordeler/sector-alarm) |
 | Serveringsteder | 20 prosent på Løvlia, Krokskogen | [Link](https://www.skiforeningen.no/utimarka/stuer/) |
 | Session | 10% by using code DNB6932 | [Link](https://www.session.no/) |
+| SIXT bilutleie | Rabatt hos SIXT bilutleie | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-sixt-bilutleie/) |
 | SK Brann | 50 % rabatt på billetter til SK Brann sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/sk-brann) |
 | Skaugum | 10% by using code DNB6932 | [Link](https://skaugum.info/) |
 | Skeid | OBOS-rabatt på hjemmekamper og 10 % rabatt på fotballskoler. | [Link](https://www.obos.no/medlem/medlemsfordeler/skeid) |
