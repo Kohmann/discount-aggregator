@@ -122,7 +122,6 @@ Updated every day. Perchance
 | Langrennskurs | 1890 kroner for to økter og 2390 kroner for tre økter på Skiforeningens langrennskurs. | [Link](https://www.obos.no/medlem/medlemsfordeler/langrennskurs-ski) |
 | Langrennskurs | 600 kroner rabatt på langrennskurs | [Link](https://www.skiforeningen.no/aktiviteter-for-voksne/langrennskurs/) |
 | Last ned Sporet | Sporet er inkludert i medlemskapet | [Link](https://www.skiforeningen.no/sporet-appen/nedlasting/) |
-| Latter | 20–30 % rabatt på alle forestillinger på Latter. Denne fordelen utgår 4. mars 2026. | [Link](https://www.obos.no/medlem/medlemsfordeler/latter) |
 | Leatherman | 10% by using code DNB6932 | [Link](https://www.leathermanshop.no) |
 | Ledlenser | 10% by using code DNB6932 | [Link](https://www.ledlensershop.no) |
 | Legalis | Fast rabattert timepris hos advokat. | [Link](https://www.obos.no/medlem/medlemsfordeler/legalis) |
@@ -151,7 +150,6 @@ Updated every day. Perchance
 | OBOS Bostart | Som OBOS-medlem får du forkjøpsrett på nyboliger med OBOS Bostart ved salgsstart. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-bostart) |
 | OBOS Deleie | Som OBOS-medlem får du forkjøpsrett på nyboliger med OBOS Deleie ved salgsstart. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-deleie) |
 | OBOS Eiendomsmeglere | Som OBOS-medlem får du 5000 kroner i rabatt når du selger boligen din gjennom OBOS Eiendomsmeglere. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-eiendomsmeglere) |
-| OBOS Reiselivsdager er i gang! | Bestill sommerferien fram til 3. mars under OBOS Reiselivsdager. Som OBOS‑medlem får du eksklusive tilbud som gjør sommerferien rimeligere. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-reiselivsdager-er-i-gang) |
 | OBOS-banken | I OBOS-banken får du som OBOS-medlem bedre renter på boliglånet ditt. I tillegg får du gratis bankkort og god rente på brukskonto og sparekonto fra første krone. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-banken) |
 | OBOS-ligaen | Som OBOS-medlemmer har du tilgang til OBOS billetten: 100 kroner for voksne og 50 kroner for barn. Rabatten gjelder på alle kamper i OBOS-ligaen. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-ligaen) |
 | ODEON Kino | 15 % rabatt på ordinære kinobilletter. | [Link](https://www.obos.no/medlem/medlemsfordeler/odeon-kino) |
