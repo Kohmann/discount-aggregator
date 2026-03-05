@@ -11,7 +11,6 @@ Updated every day. Perchance
 <!-- DISCOUNTS_START -->
 | Store | Description | Source |
 | --- | --- | --- |
-| AaFK Fortuna | 50 % rabatt på billetter til AaFK Fortuna sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/aafk-fortuna) |
 | ABBA The Museum | 15 % rabatt på inngangsbilletter. | [Link](https://www.obos.no/medlem/medlemsfordeler/abba-the-museum) |
 | Akvariet i Bergen | 25 % rabatt på billetter. | [Link](https://www.obos.no/medlem/medlemsfordeler/akvariet-i-bergen) |
 | Alpina | 10% by using code DNB6932 | [Link](https://www.alpina.no/) |
@@ -139,7 +138,7 @@ Updated every day. Perchance
 | Miniøya | 20 % rabatt på billetter til Miniøya. | [Link](https://www.obos.no/medlem/medlemsfordeler/minioya) |
 | Montér Stor-Bergen | Inntil 40 % rabatt på bestillingsvarer, og inntil 15 % rabatt på lagerførte varer. | [Link](https://www.obos.no/medlem/medlemsfordeler/monter-stor-bergen) |
 | Morild | 10% by using code DNB6932 | [Link](https://www.morildnorway.no/) |
-| Narvikfjellet | Heiskort i Narvikfjellet | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/heiskort-i-narvikfjellet/) |
+| Narvikfjellet | Gratis heiskort i Narvikfjellet | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/heiskort-i-narvikfjellet/) |
 | Nationaltheatret | 20 % rabatt på billetter hos Nationaltheatret. | [Link](https://www.obos.no/medlem/medlemsfordeler/nationaltheatret) |
 | NITO | Verv en kollega – det lønner seg! | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/verv-en-kollega/) |
 | Nobels Fredssenter | 25 % rabatt på inngangsbilletter. | [Link](https://www.obos.no/medlem/medlemsfordeler/nobels-fredssenter) |
@@ -177,10 +176,10 @@ Updated every day. Perchance
 | SK Brann | 50 % rabatt på billetter til SK Brann sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/sk-brann) |
 | Skaugum | 10% by using code DNB6932 | [Link](https://skaugum.info/) |
 | Skeid | OBOS-rabatt på hjemmekamper og 10 % rabatt på fotballskoler. | [Link](https://www.obos.no/medlem/medlemsfordeler/skeid) |
-| Skimore.no | 20 prosent rabatt i Skimore Oslo | [Link](https://www.skimore.no/) |
 | Skimuseet i Holmenkollen | Halv pris på inngangsbillett | [Link](https://www.skiforeningen.no/holmenkollen/skimuseet/) |
 | Skimuseet og Holmenkollen | 30 % rabatt på Skimuseet og 100 kroner i avslag på Kollensvevet. | [Link](https://www.obos.no/medlem/medlemsfordeler/skimuseet-og-holmenkollen) |
 | Skitt Fiske | Rabatt hos Skitt Fiske | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-skitt-fiske/) |
+| Slik henter du ut heiskort | Gratis heiskort fredag 20. mars | [Link](https://www.skiforeningen.no/nyheter/medlemsdag-hos-skimore-oslo-2026/) |
 | Slottsfjell | Festivalpass uten Natten til earlybird-pris. | [Link](https://www.obos.no/medlem/medlemsfordeler/slottsfjell) |
 | Smartlapper | 10% by using code DNB6932 | [Link](https://www.smartlapper.no) |
 | Småungene | 10% by using code DNB6932 | [Link](https://www.smaaungene.no/) |
@@ -210,7 +209,7 @@ Updated every day. Perchance
 | Tibber | Ved å tegne ny strømavtale hos Tibber får du som medlem 600 kroner i bonus, som kan brukes på smarte produkter til hjemmet ditt. | [Link](https://www.obos.no/medlem/medlemsfordeler/tibber) |
 | Tights.no | 10% by using code DNB6932 | [Link](https://www.tights.no/) |
 | Travelstuff | 10% by using code DNB6932 | [Link](https://www.travelstuff.no/) |
-| Tromsø Alpinpark | Heiskort Tromsø Alpinpark | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/heiskort-tromso-alpinpark/) |
+| Tromsø Alpinpark | Gratis heiskort i Tromsø Alpinpark | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/heiskort-tromso-alpinpark/) |
 | Trondheim Bysykkel | 25 % rabatt ved kjøp av sesongpass. | [Link](https://www.obos.no/medlem/medlemsfordeler/trondheim-bysykkel) |
 | Tryg Forsikring | OBOS-medlemmer får inntil 23 % rabatt på ulike forsikringer hos Tryg. | [Link](https://www.obos.no/medlem/medlemsfordeler/tryg-forsikring) |
 | Trøndelag Teater | 20 % rabatt på billetter hos Trøndelag Teater. | [Link](https://www.obos.no/medlem/medlemsfordeler/trondelag-teater) |
