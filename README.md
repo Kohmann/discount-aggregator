@@ -63,7 +63,6 @@ Updated every day. Perchance
 | Det Norske Teatret | 20 % rabatt på alle ordinære forestillinger hos Det Norske Teatret. | [Link](https://www.obos.no/medlem/medlemsfordeler/det-norske-teatret) |
 | Dovre | 10% by using code DNB6932 | [Link](https://dovre.com/) |
 | Eeffy | Som OBOS-medlem sparer du 6000 kroner på energirådgivning fra Eeffy og detaljert energimerking av boligen din. | [Link](https://www.obos.no/medlem/medlemsfordeler/eeffy) |
-| Eidsvoll 1814 | 25 % rabatt på inngang til museet. | [Link](https://www.obos.no/medlem/medlemsfordeler/eidsvoll-1814) |
 | Elite Foto | 10% by using code DNB6932 | [Link](https://www.elitefoto.no/) |
 | Elon | 12 % rabatt på utvalgt elektronikk og hvitevarer i nettbutikken. | [Link](https://www.obos.no/medlem/medlemsfordeler/elon) |
 | EVO treningssenter | Fast månedspris til kun 369 kr, gratis trening resten av måneden du melder deg inn og ingen innmeldingsavgift. | [Link](https://www.obos.no/medlem/medlemsfordeler/evo) |
