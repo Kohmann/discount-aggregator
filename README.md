@@ -117,7 +117,6 @@ Updated every day. Perchance
 | Krogh Optikk | 10% by using code DNB6932 | [Link](https://kroghoptikk.no/) |
 | L'Occitane | 10% by using code DNB6932 | [Link](https://no.loccitane.com/) |
 | Lambertseter Bad | 50 % rabatt på inngang hos Lambertseter Bad i helgene. | [Link](https://www.obos.no/medlem/medlemsfordeler/lambertseter-bad) |
-| Langrennskurs | 1890 kroner for to økter og 2390 kroner for tre økter på Skiforeningens langrennskurs. | [Link](https://www.obos.no/medlem/medlemsfordeler/langrennskurs-ski) |
 | Langrennskurs | 600 kroner rabatt på langrennskurs | [Link](https://www.skiforeningen.no/aktiviteter-for-voksne/langrennskurs/) |
 | Last ned Sporet | Sporet er inkludert i medlemskapet | [Link](https://www.skiforeningen.no/sporet-appen/nedlasting/) |
 | Leatherman | 10% by using code DNB6932 | [Link](https://www.leathermanshop.no) |
