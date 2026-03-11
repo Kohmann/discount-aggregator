@@ -53,7 +53,6 @@ Updated every day. Perchance
 | Byha | 10% by using code DNB6932 | [Link](https://www.byha.no/) |
 | Bø Sommarland | 15–30 % rabatt på billetter. | [Link](https://www.obos.no/medlem/medlemsfordeler/bo-sommarland) |
 | Camelbak | 10% by using code DNB6932 | [Link](https://www.camelbak.no) |
-| Carls | 20 % rabatt på kaffe, pizza og pubkoret, samt 50 % rabatt på shuffleboard. | [Link](https://www.obos.no/medlem/medlemsfordeler/carls) |
 | Circle K | 38 øre rabatt per liter på drivstoff og 45 øre/kWt i rabatt på hurtiglading av elbil. | [Link](https://www.obos.no/medlem/medlemsfordeler/circle-k) |
 | Crispi | 10% by using code DNB6932 | [Link](https://www.crispi.no) |
 | DAIDDA | 10% by using code DNB6932 | [Link](https://daidda.no/) |
@@ -216,6 +215,7 @@ Updated every day. Perchance
 | Ulvang | 10% by using code DNB6932 | [Link](https://ulvang.com/) |
 | Utopia | 20 % rabatt på festivalpass til Utopia i Stavanger. | [Link](https://www.obos.no/medlem/medlemsfordeler/utopia) |
 | Vakre Vene | 10% by using code DNB6932 | [Link](https://www.vakrevene.no/) |
+| Vi gjentar OBOS Handledager – med ekstra gode tilbud! | Gjør et kupp under OBOS Handledager fra 18.–24. mars! Som OBOS-medlem får du ekstra gode rabatter og bonus hos Maxbo, Anton Sport, Bohus, Elon, Vianor og Hadeland Glassverk. | [Link](https://www.obos.no/medlem/medlemsfordeler/vi-gjentar-obos-handledager-med-ekstra-gode-tilbud) |
 | Vianor | 20 % rabatt på dekkhotell og flere andre gode fordeler. | [Link](https://www.obos.no/medlem/medlemsfordeler/vianor) |
 | Vianor | 10% by using code DNB6932 | [Link](https://vianor.no/) |
 | Viking | 10% by using code DNB6932 | [Link](https://no.vikingfootwear.com/) |
