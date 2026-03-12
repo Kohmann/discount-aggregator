@@ -215,7 +215,7 @@ Updated every day. Perchance
 | Ulvang | 10% by using code DNB6932 | [Link](https://ulvang.com/) |
 | Utopia | 20 % rabatt på festivalpass til Utopia i Stavanger. | [Link](https://www.obos.no/medlem/medlemsfordeler/utopia) |
 | Vakre Vene | 10% by using code DNB6932 | [Link](https://www.vakrevene.no/) |
-| Vi gjentar OBOS Handledager – med ekstra gode tilbud! | Gjør et kupp under OBOS Handledager fra 18.–24. mars! Som OBOS-medlem får du ekstra gode rabatter og bonus hos Maxbo, Anton Sport, Bohus, Elon, Vianor og Hadeland Glassverk. | [Link](https://www.obos.no/medlem/medlemsfordeler/vi-gjentar-obos-handledager-med-ekstra-gode-tilbud) |
+| Vi gjentar OBOS Handledager – med ekstra gode tilbud | Gjør et kupp under OBOS Handledager fra 18.–24. mars! Som OBOS-medlem får du ekstra gode rabatter og bonus hos Maxbo, Anton Sport, Bohus, Elon, Vianor og Hadeland Glassverk. | [Link](https://www.obos.no/medlem/medlemsfordeler/vi-gjentar-obos-handledager-med-ekstra-gode-tilbud) |
 | Vianor | 20 % rabatt på dekkhotell og flere andre gode fordeler. | [Link](https://www.obos.no/medlem/medlemsfordeler/vianor) |
 | Vianor | 10% by using code DNB6932 | [Link](https://vianor.no/) |
 | Viking | 10% by using code DNB6932 | [Link](https://no.vikingfootwear.com/) |
