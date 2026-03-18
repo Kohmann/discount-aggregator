@@ -146,8 +146,9 @@ Updated every day. Perchance
 | OBOS Bostart | Som OBOS-medlem får du forkjøpsrett på nyboliger med OBOS Bostart ved salgsstart. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-bostart) |
 | OBOS Deleie | Som OBOS-medlem får du forkjøpsrett på nyboliger med OBOS Deleie ved salgsstart. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-deleie) |
 | OBOS Eiendomsmeglere | Som OBOS-medlem får du 5000 kroner i rabatt når du selger boligen din gjennom OBOS Eiendomsmeglere. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-eiendomsmeglere) |
+| OBOS Handledager er i gang – med ekstra gode tilbud | Gjør et kupp under OBOS Handledager fra 18.–24. mars! Som OBOS-medlem får du ekstra gode rabatter og bonus hos Maxbo, Anton Sport, Bohus, Elon, Vianor og Hadeland Glassverk. | [Link](https://www.obos.no/medlem/medlemsfordeler/vi-gjentar-obos-handledager-med-ekstra-gode-tilbud) |
 | OBOS-banken | I OBOS-banken får du som OBOS-medlem bedre renter på boliglånet ditt. I tillegg får du gratis bankkort og god rente på brukskonto og sparekonto fra første krone. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-banken) |
-| OBOS-ligaen | Som OBOS-medlemmer har du tilgang til OBOS billetten: 100 kroner for voksne og 50 kroner for barn. Rabatten gjelder på alle kamper i OBOS-ligaen. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-ligaen) |
+| OBOS-ligaen | Som OBOS-medlem har du tilgang til OBOS-billetten: 100 kroner for voksne og 50 kroner for barn. Rabatten gjelder på alle kamper i OBOS-ligaen. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-ligaen) |
 | ODEON Kino | 15 % rabatt på ordinære kinobilletter. | [Link](https://www.obos.no/medlem/medlemsfordeler/odeon-kino) |
 | Odlo | 10 % by using code DNB6932 | [Link](https://odlo.no) |
 | Olivenlunden | 10% by using code DNB6932 | [Link](https://www.olivenlunden1830.no/) |
@@ -215,7 +216,6 @@ Updated every day. Perchance
 | Ulvang | 10% by using code DNB6932 | [Link](https://ulvang.com/) |
 | Utopia | 20 % rabatt på festivalpass til Utopia i Stavanger. | [Link](https://www.obos.no/medlem/medlemsfordeler/utopia) |
 | Vakre Vene | 10% by using code DNB6932 | [Link](https://www.vakrevene.no/) |
-| Vi gjentar OBOS Handledager – med ekstra gode tilbud | Gjør et kupp under OBOS Handledager fra 18.–24. mars! Som OBOS-medlem får du ekstra gode rabatter og bonus hos Maxbo, Anton Sport, Bohus, Elon, Vianor og Hadeland Glassverk. | [Link](https://www.obos.no/medlem/medlemsfordeler/vi-gjentar-obos-handledager-med-ekstra-gode-tilbud) |
 | Vianor | 20 % rabatt på dekkhotell og flere andre gode fordeler. | [Link](https://www.obos.no/medlem/medlemsfordeler/vianor) |
 | Vianor | 10% by using code DNB6932 | [Link](https://vianor.no/) |
 | Viking | 10% by using code DNB6932 | [Link](https://no.vikingfootwear.com/) |
