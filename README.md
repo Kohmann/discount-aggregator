@@ -101,6 +101,7 @@ Updated every day. Perchance
 | Janus | 10 % by using code DNB6932 | [Link](https://janus.no) |
 | Johnny Love | 10% by using code DNB6932 | [Link](https://www.johnnylove.com/) |
 | Jugend | 20 % rabatt på festivalpass til Jugend i Ålesund. | [Link](https://www.obos.no/medlem/medlemsfordeler/jugend) |
+| Junibacken | 20 % rabatt på inngangsbilletter til Junibacken på Djurgården i Stockholm. | [Link](https://www.obos.no/medlem/medlemsfordeler/20-rabatt-pa-junibacken) |
 | Kastel Shoes | 10% by using code DNB6932 | [Link](https://kastelshoes.com/) |
 | KFUM Oslo | 50 % på billetter til KFUMs hjemmekamper på Ekeberg. | [Link](https://www.obos.no/medlem/medlemsfordeler/kfum-oslo) |
 | Kid Interiør | 30 % rabatt både i butikk og på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/kid-interior) |
@@ -135,6 +136,7 @@ Updated every day. Perchance
 | Miniøya | 20 % rabatt på billetter til Miniøya. | [Link](https://www.obos.no/medlem/medlemsfordeler/minioya) |
 | Montér Stor-Bergen | Inntil 40 % rabatt på bestillingsvarer, og inntil 15 % rabatt på lagerførte varer. | [Link](https://www.obos.no/medlem/medlemsfordeler/monter-stor-bergen) |
 | Morild | 10% by using code DNB6932 | [Link](https://www.morildnorway.no/) |
+| Musikalgalla: A night at the movies | 475 kroner per billett | [Link](https://www.obos.no/medlem/medlemsfordeler/musikalgalla) |
 | Narvikfjellet | Gratis heiskort i Narvikfjellet | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/heiskort-i-narvikfjellet/) |
 | Nationaltheatret | 20 % rabatt på billetter hos Nationaltheatret. | [Link](https://www.obos.no/medlem/medlemsfordeler/nationaltheatret) |
 | NITO | Verv en kollega – det lønner seg! | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/verv-en-kollega/) |
@@ -146,7 +148,6 @@ Updated every day. Perchance
 | OBOS Bostart | Som OBOS-medlem får du forkjøpsrett på nyboliger med OBOS Bostart ved salgsstart. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-bostart) |
 | OBOS Deleie | Som OBOS-medlem får du forkjøpsrett på nyboliger med OBOS Deleie ved salgsstart. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-deleie) |
 | OBOS Eiendomsmeglere | Som OBOS-medlem får du 5000 kroner i rabatt når du selger boligen din gjennom OBOS Eiendomsmeglere. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-eiendomsmeglere) |
-| OBOS Handledager er i gang – med ekstra gode tilbud | Gjør et kupp under OBOS Handledager fra 18.–24. mars! Som OBOS-medlem får du ekstra gode rabatter og bonus hos Maxbo, Anton Sport, Bohus, Elon, Vianor og Hadeland Glassverk. | [Link](https://www.obos.no/medlem/medlemsfordeler/vi-gjentar-obos-handledager-med-ekstra-gode-tilbud) |
 | OBOS-banken | I OBOS-banken får du som OBOS-medlem bedre renter på boliglånet ditt. I tillegg får du gratis bankkort og god rente på brukskonto og sparekonto fra første krone. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-banken) |
 | OBOS-ligaen | Som OBOS-medlem har du tilgang til OBOS-billetten: 100 kroner for voksne og 50 kroner for barn. Rabatten gjelder på alle kamper i OBOS-ligaen. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-ligaen) |
 | ODEON Kino | 15 % rabatt på ordinære kinobilletter. | [Link](https://www.obos.no/medlem/medlemsfordeler/odeon-kino) |
