@@ -124,6 +124,7 @@ Updated every day. Perchance
 | Legalis | Fast rabattert timepris hos advokat. | [Link](https://www.obos.no/medlem/medlemsfordeler/legalis) |
 | LEGOLAND | 2 for 1 inngangsbillett til LEGOLAND. | [Link](https://www.obos.no/medlem/medlemsfordeler/legoland) |
 | Les mer om tilbudet | Rabatt på Holmenkollen Skifestival | [Link](https://www.skiforeningen.no/nyheter/kampanje-mars-2026/) |
+| Liljevalchs | 25 % rabatt på inngangsbillett hos Liljevalchs på Djurgården i Stockholm. | [Link](https://www.obos.no/medlem/medlemsfordeler/25-rabatt-pa-liljevalchs) |
 | Lillelam | 10% by using code DNB6932 | [Link](https://lillelam.no/) |
 | Liseberg | 30 % rabatt på et begrenset antall billetter. | [Link](https://www.obos.no/medlem/medlemsfordeler/liseberg) |
 | Liseberg Grand Curiosa Hotel | Inntil 20 % rabatt på overnatting hos Liseberg Grand Curiosa Hotel i Sverige. | [Link](https://www.obos.no/medlem/medlemsfordeler/liseberg-grand-curiosa-hotel) |
