@@ -21,6 +21,7 @@ Updated every day. Perchance
 | Avicci Experience | 15 % rabatt på inngangsbilletter. | [Link](https://www.obos.no/medlem/medlemsfordeler/avicii-experience) |
 | Avis | Inntil 30 % rabatt på leiebil i Norge. | [Link](https://www.obos.no/medlem/medlemsfordeler/avis) |
 | Aword | 10% by using code DNB6932 | [Link](https://aword.no/) |
+| Backstage Hotel | 20% rabatt på hotellovernatting på Backstage Hotel på Djurgården i Stockholm. | [Link](https://www.obos.no/medlem/medlemsfordeler/backstage-hotel) |
 | BagBrokers | 10% by using code DNB6932 | [Link](https://www.bagbrokers.no/) |
 | Barbershop | 10 % by using code DNB6932 | [Link](https://barbershop.no) |
 | Barnas Holmenkolldag | Rabatt på Barnas Holmenkolldag | [Link](https://www.skiforeningen.no/aktiviteter-for-barn/barnas-holmenkolldag/) |
@@ -87,7 +88,6 @@ Updated every day. Perchance
 | Henie Onstad Kunstsenter | 20 % rabatt på inngang for inntil to billetter per medlem. Gratis inngang for barn under 18 år og medlemmer som har ledsagerbevis. | [Link](https://www.obos.no/medlem/medlemsfordeler/henie-onstad-kunstsenter) |
 | Henri-Lloyd | 10 % by using code DNB6932 | [Link](https://www.henrilloyd.com.) |
 | Holmenkollen Frisbeegolf | Gratis frisbeegolf i Holmenkollen | [Link](https://www.skiforeningen.no/holmenkollen/frisbeegolf/) |
-| Holmenkollen Skifestival | Få 25–50 % rabatt på billetter til Holmenkollen Skifestival. | [Link](https://www.obos.no/medlem/medlemsfordeler/holmenkollen-skifestival) |
 | Holmenkollmarsjen | 400 kroner i rabatt på Holmenkollmarsjen | [Link](https://www.skiforeningen.no/aktiviteter-for-voksne/holmenkollmarsjen/) |
 | HTH | Få montering til 20 % av kjøpesummen når du kjøper kjøkken, bad og garderobe hos HTH. Veiledning og interiørforslag fra HTH's kjøkkeneksperter får du i tillegg helt gratis. | [Link](https://www.obos.no/medlem/medlemsfordeler/hth) |
 | Hunderfossen Eventyrpark | Hunderfossen Vinterpark er åpent fram til 28. februar. OBOS-pris: 345–399 kr per dagsbillett. | [Link](https://www.obos.no/medlem/medlemsfordeler/hunderfossen-eventyrpark) |
