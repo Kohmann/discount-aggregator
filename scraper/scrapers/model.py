@@ -5,7 +5,6 @@ from typing import Optional
 
 @dataclass
 class Discount:
-    site: str
     store: str
     code: Optional[str]
     description: str
