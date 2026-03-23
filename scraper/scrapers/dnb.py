@@ -28,34 +28,30 @@ class DnbScraper(BaseScraper):
         soup = BeautifulSoup(response.text, "lxml")
 
         # dnb rabatt section
-        static_discount_code = soup.find("span", class_="css-o15es7 e19v4qza1").get_text(strip=True)
+        discount_code_element = soup.find("span", class_="css-o15es7 e19v4qza1")
+        if not discount_code_element:
+            raise ValueError(f"{self.site_name}: Could not find discount code element. The page structure may have changed.")
+        static_discount_code = discount_code_element.get_text(strip=True)
 
         items = soup.find_all("a", class_="dnb-anchor--no-style dnb-anchor--no-hover dnb-anchor--no-underline etl9f1w0 css-19gq7c4 e1ig56cy0 dnb-anchor dnb-anchor--was-node dnb-a")
+        if not items:
+            raise ValueError(f"{self.site_name}: Could not find any discount items. The page structure may have changed.")
 
-        for (idx, item) in enumerate(items):
-            discount = self.scrape_item(item, static_discount_code)
-            if discount:
-                discounts.append(discount)
-            else:
-                print(f"Failed to scrape item nr.{idx+1} from {len(items)} items")
+        for item in items:
+            discounts.append(self.scrape_item(item, static_discount_code))
         return discounts
 
-    def scrape_item(self, item: Tag, discount_code: str) -> Discount | None:
-        try:
-
-            store = item.find("h3", class_="dnb-heading dnb-h--medium css-5pbyeb etl9f1w4").get_text(strip=True)
-            discount = item.find("span", class_="css-atp9e0 etl9f1w6").get_text(strip=True)
-            description = discount + " by using code " + discount_code
-            full_link = item.get("href")
-            return Discount(
-                site=self.site_name,
-                store=store,
-                description=description,
-                discount=discount,
-                code=discount_code,
-                expires_at=None,
-                link=full_link,
-            )
-        except Exception as e:
-            print(f"Error scraping item. Skipping...  {e}")
-            return None
+    def scrape_item(self, item: Tag, discount_code: str) -> Discount:
+        store = item.find("h3", class_="dnb-heading dnb-h--medium css-5pbyeb etl9f1w4").get_text(strip=True)
+        discount = item.find("span", class_="css-atp9e0 etl9f1w6").get_text(strip=True)
+        description = discount + " by using code " + discount_code
+        full_link = item.get("href")
+        return Discount(
+            site=self.site_name,
+            store=store,
+            description=description,
+            discount=discount,
+            code=discount_code,
+            expires_at=None,
+            link=full_link,
+        )

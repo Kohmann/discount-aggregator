@@ -1,5 +1,4 @@
 import httpx
-import re
 from bs4 import BeautifulSoup
 
 from scrapers.base import BaseScraper
@@ -19,37 +18,34 @@ class ObosScraper(BaseScraper):
             "Accept-Language": "nb-NO,nb;q=0.9,en-US;q=0.8,en;q=0.7"
         }
 
-        try:
-            # Use httpx to fetch the page
-            print(f"Fetching and scraping {self.site_name} website...")
-            response = httpx.get(self.list_url, headers=headers, follow_redirects=True, timeout=15)
-            response.raise_for_status()
+        # Use httpx to fetch the page
+        print(f"Fetching and scraping {self.site_name} website...")
+        response = httpx.get(self.list_url, headers=headers, follow_redirects=True, timeout=15)
+        response.raise_for_status()
 
-            soup = BeautifulSoup(response.text, "lxml")
+        soup = BeautifulSoup(response.text, "lxml")
 
-            # OBOS target: the <a> tags under the membership benefits section
-            items = soup.find_all("a", href=lambda x: x and x.startswith("/medlem/medlemsfordeler/"))
+        # OBOS target: the <a> tags under the membership benefits section
+        items = soup.find_all("a", href=lambda x: x and x.startswith("/medlem/medlemsfordeler/"))
+        if not items:
+            raise ValueError(f"{self.site_name}: Could not find any discount items. The page structure may have changed.")
 
-            for item in items:
-                store = item.find("h3").get_text(strip=True)
-                description = item.find("p").get_text(strip=True)
+        for item in items:
+            store = item.find("h3").get_text(strip=True)
+            description = item.find("p").get_text(strip=True)
 
-                link = self.base_url + item.get("href")
+            link = self.base_url + item.get("href")
 
-                discounts.append(
-                    Discount(
-                        site=self.site_name,
-                        store=store,
-                        description=description,
-                        discount=None,
-                        code=None,
-                        expires_at=None,  # Ongoing
-                        link=link
-                    )
+            discounts.append(
+                Discount(
+                    site=self.site_name,
+                    store=store,
+                    description=description,
+                    discount=None,
+                    code=None,
+                    expires_at=None,  # Ongoing
+                    link=link
                 )
-
-        except Exception as e:
-            print(f"Error scraping {self.site_name}: {e}")
-            return []
+            )
 
         return discounts
