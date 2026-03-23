@@ -35,32 +35,30 @@ class NitoScraper(BaseScraper):
 
         # Nito rabatt section
         target_img = soup.find("img", src="/Pictograms/rabatt.png")
+        if not target_img:
+            raise ValueError(f"{self.site_name}: Could not find anchor image 'rabatt.png'. The page structure may have changed.")
         membership_discount_section = target_img.find_parent("section", class_="member-benefit-list__group")
+        if not membership_discount_section:
+            raise ValueError(f"{self.site_name}: Could not find discount section. The page structure may have changed.")
         items = membership_discount_section.find_all("div", class_="article-teaser__content")
+        if not items:
+            raise ValueError(f"{self.site_name}: Could not find any discount items. The page structure may have changed.")
 
-        for (idx, item) in enumerate(items):
-            discount = self.scrape_item(item)
-            if discount:
-                discounts.append(discount)
-            else:
-                print(f"Failed to scrape item nr.{idx+1} from {len(items)} items")
+        for item in items:
+            discounts.append(self.scrape_item(item))
         return discounts
 
-    def scrape_item(self, item: Tag) -> Discount | None:
-        try:
-            store = item.find("div", class_="article-teaser__partner").find("img").get("alt")
-            link = item.find("a", class_="article-teaser__link btn btn--with-arrow")
-            description = link.get_text(strip=True)
-            full_link = generate_link(self.base_url, link.get("href"))
-            return Discount(
-                site=self.site_name,
-                store=store,
-                description=description,
-                discount=None,
-                code=None,
-                expires_at=None,
-                link=full_link,
-            )
-        except Exception as e:
-            print(f"Error scraping item. Skipping...  {e}")
-            return None
+    def scrape_item(self, item: Tag) -> Discount:
+        store = item.find("div", class_="article-teaser__partner").find("img").get("alt")
+        link = item.find("a", class_="article-teaser__link btn btn--with-arrow")
+        description = link.get_text(strip=True)
+        full_link = generate_link(self.base_url, link.get("href"))
+        return Discount(
+            site=self.site_name,
+            store=store,
+            description=description,
+            discount=None,
+            code=None,
+            expires_at=None,
+            link=full_link,
+        )

@@ -33,31 +33,27 @@ class SkiforeningenScraper(BaseScraper):
 
         # Skiforeningen target: div with class = "standalone promoBlock"
         items = soup.find_all("div", class_="standalone promoBlock")
+        if not items:
+            raise ValueError(f"{self.site_name}: Could not find any discount items. The page structure may have changed.")
         for item in items:
-            discount = self.scrape_item(item)
-            if discount:
-                discounts.append(discount)
+            discounts.append(self.scrape_item(item))
 
         return discounts
 
-    def scrape_item(self, item: Tag) -> Discount | None:
-        try:
-            link = self.get_discount_link(item)
-            store = link.get_text(strip=True)
-            description = item.find("h2", class_="text-headline").get_text(strip=True)
-            full_link = generate_link(self.base_url, link.get("href"))
-            return Discount(
-                site=self.site_name,
-                store=store,
-                description=description,
-                discount=None,
-                code=None,
-                expires_at=None,
-                link=full_link,
-            )
-        except Exception as e:
-            print(f"Error scraping item. Skipping...  {e}")
-            return None
+    def scrape_item(self, item: Tag) -> Discount:
+        link = self.get_discount_link(item)
+        store = link.get_text(strip=True)
+        description = item.find("h2", class_="text-headline").get_text(strip=True)
+        full_link = generate_link(self.base_url, link.get("href"))
+        return Discount(
+            site=self.site_name,
+            store=store,
+            description=description,
+            discount=None,
+            code=None,
+            expires_at=None,
+            link=full_link,
+        )
 
     @staticmethod
     def get_discount_link(item: Tag) -> Tag | None:
