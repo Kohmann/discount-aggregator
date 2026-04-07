@@ -22,14 +22,18 @@ class NitoScraper(BaseScraper):
         membership_discount_section = target_img.find_parent("section", class_="member-benefit-list__group")
         if not membership_discount_section:
             raise ValueError(f"{self.site_name}: Could not find discount section. The page structure may have changed.")
-        items = membership_discount_section.find_all("div", class_="article-teaser__content")
-        if not items:
+        content_items = membership_discount_section.find_all("div", class_="article-teaser__content")
+        if not content_items:
             raise ValueError(f"{self.site_name}: Could not find any discount items. The page structure may have changed.")
+
+        items = [item.parent for item in content_items]
 
         return [self.scrape_item(item) for item in items]
 
     def scrape_item(self, item: Tag) -> Discount:
-        store = item.find("div", class_="article-teaser__partner").find("img").get("alt")
+        partner_div = item.find("div", class_="article-teaser__partner")
+        img = partner_div.find("img") if partner_div else None
+        store = img.get("alt") if img else ""
         link = item.find("a", class_="article-teaser__link btn btn--with-arrow")
         description = link.get_text(strip=True)
         full_link = generate_link(self.base_url, link.get("href"))
