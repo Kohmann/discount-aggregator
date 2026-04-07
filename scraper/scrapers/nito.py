@@ -1,16 +1,35 @@
-from bs4 import Tag
+from bs4 import BeautifulSoup, Tag
+from playwright.sync_api import sync_playwright
 
 from scrapers.base import BaseScraper
 from scrapers.model import Discount
 
 from scrapers.utils import generate_link
 
+_CONSENT_BUTTON_ID = "consent_prompt_submit"
 
 
 class NitoScraper(BaseScraper):
     site_name = "NITO"
     base_url = "https://www.nito.no"
     list_url = "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/?category=Rabatter"
+
+
+    def fetch(self, url: str) -> BeautifulSoup:
+        print(f"Fetching and scraping {self.site_name} website...")
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            try:
+                page = browser.new_page()
+                page.goto(url, wait_until="domcontentloaded")
+                consent_button = page.query_selector(f"#{_CONSENT_BUTTON_ID}")
+                if consent_button:
+                    consent_button.click()
+                    page.wait_for_load_state("domcontentloaded")
+                html = page.content()
+            finally:
+                browser.close()
+        return BeautifulSoup(html, "lxml")
 
 
     def scrape(self) -> list[Discount]:
