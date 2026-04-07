@@ -6,13 +6,47 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch: # Allows you to run it manually from the "Actions" tab
 
+# Prevent overlapping runs; a new scheduled run queues but does not cancel an in-progress one.
+concurrency:
+  group: update-discounts
+  cancel-in-progress: false
+
 jobs:
   scrape-and-update:
+    # Set the repo variable WORKFLOW_ENABLED to 'false' in
+    # Settings → Actions → Variables to disable scheduled runs via the GitHub UI.
+    if: vars.WORKFLOW_ENABLED != 'false'
     runs-on: ubuntu-latest
     permissions:
       contents: write # Needed to push changes back to the repo
+      actions: read   # Needed to inspect previous workflow run conclusions
 
     steps:
+      # Only halt on failure for scheduled runs; manual dispatch always proceeds so you
+      # can recover after fixing the issue without having to re-enable the workflow.
+      - name: Check previous run status
+        if: github.event_name == 'schedule'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const runs = await github.rest.actions.listWorkflowRuns({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'update-readme.yml',
+              per_page: 5,
+            });
+            const previousRun = runs.data.workflow_runs.find(
+              run => run.id !== Number(context.runId) && run.status === 'completed'
+            );
+            if (previousRun && previousRun.conclusion === 'failure') {
+              core.setFailed(
+                `Previous run #${previousRun.run_number} failed. ` +
+                'Halting scheduled run. Fix the issue, then use "Run workflow" to resume.'
+              );
+            } else {
+              console.log('Previous run was successful or no previous runs found. Continuing.');
+            }
+
       - name: Checkout code
         uses: actions/checkout@v4
 
