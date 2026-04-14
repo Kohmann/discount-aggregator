@@ -129,7 +129,7 @@ Updated every day. Perchance
 | LEGOLAND | 2 for 1 inngangsbillett til LEGOLAND. | [Link](https://www.obos.no/medlem/medlemsfordeler/legoland) |
 | Liljevalchs | 25 % rabatt på inngangsbillett hos Liljevalchs på Djurgården i Stockholm. | [Link](https://www.obos.no/medlem/medlemsfordeler/25-rabatt-pa-liljevalchs) |
 | Lillelam | 10% by using code DNB8787 | [Link](https://lillelam.no/) |
-| Liseberg | 30 % rabatt på et begrenset antall billetter. Billettslipp 13. april. | [Link](https://www.obos.no/medlem/medlemsfordeler/liseberg) |
+| Liseberg | 30 % rabatt på et begrenset antall billetter. | [Link](https://www.obos.no/medlem/medlemsfordeler/liseberg) |
 | Liseberg Grand Curiosa Hotel | Inntil 20 % rabatt på overnatting hos Liseberg Grand Curiosa Hotel i Sverige. | [Link](https://www.obos.no/medlem/medlemsfordeler/liseberg-grand-curiosa-hotel) |
 | Lisebergsbyn | 20 % rabatt på overnatting i Lisebergsbyn. | [Link](https://www.obos.no/medlem/medlemsfordeler/lisebergsbyn) |
 | LSK Kvinner | 50 % rabatt på billetter til LSK Kvinner sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/lsk-kvinner) |
@@ -143,6 +143,7 @@ Updated every day. Perchance
 | Morild | 10% by using code DNB8787 | [Link](https://www.morildnorway.no/) |
 | Narvikfjellet | Gratis heiskort i Narvikfjellet | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/heiskort-i-narvikfjellet/) |
 | Nationaltheatret | 20 % rabatt på billetter hos Nationaltheatret. | [Link](https://www.obos.no/medlem/medlemsfordeler/nationaltheatret) |
+| NEAK | Kursrabatt hos NEAK | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/kursrabatt-hos-neak/) |
 | NITO | Verv en kollega – det lønner seg! | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/verv-en-kollega/) |
 | Nobels Fredssenter | 25 % rabatt på inngangsbilletter. | [Link](https://www.obos.no/medlem/medlemsfordeler/nobels-fredssenter) |
 | Norsk Folkemuseum | 25 % rabatt på voksenbillett og 10 % rabatt i museumsbutikken til Norsk Folkemuseum. | [Link](https://www.obos.no/medlem/medlemsfordeler/norsk-folkemuseum) |
