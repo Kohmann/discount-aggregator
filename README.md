@@ -183,6 +183,7 @@ Updated every day. Perchance
 | Skimuseet og Holmenkollen | 30 % rabatt på Skimuseet og 100 kroner i avslag på Kollensvevet. | [Link](https://www.obos.no/medlem/medlemsfordeler/skimuseet-og-holmenkollen) |
 | Skitt Fiske | Rabatt hos Skitt Fiske | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-skitt-fiske/) |
 | Slottsfjell | Festivalpass uten Natten til earlybird-pris. | [Link](https://www.obos.no/medlem/medlemsfordeler/slottsfjell) |
+| Slottsfjell | Festivalpass uten Natten til earlybird-pris. | [Link](https://www.obos.no/medlem/medlemsfordeler/slottsfjell-1) |
 | Smartlapper | 10% by using code DNB8787 | [Link](https://www.smartlapper.no) |
 | Småungene | 10% by using code DNB8787 | [Link](https://www.smaaungene.no/) |
 | SNØ | 20 % rabatt på inngangsbilletter hos SNØ, verdens råeste helårsarena for snøopplevelser. | [Link](https://www.obos.no/medlem/medlemsfordeler/sno) |
