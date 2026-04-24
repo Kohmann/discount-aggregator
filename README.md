@@ -208,7 +208,7 @@ Updated every day. Perchance
 | TEGNE | 10 % by using code DNB8787 | [Link](https://www.tegne.no) |
 | Teknisk Ukeblad | Halv pris på TU og Digi | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/halv-pris-pa-tu-og-digi/) |
 | Teleoutlet | 10% by using code DNB8787 | [Link](https://teleoutlet.no/) |
-| Tibber | Ved å tegne ny strømavtale hos Tibber får du som medlem 600 kroner i bonus, som kan brukes på smarte produkter til hjemmet ditt. | [Link](https://www.obos.no/medlem/medlemsfordeler/tibber) |
+| Tibber | Spar 995 kroner på sanntidsmåler. Som OBOS-medlem og ny kunde hos Tibber får du sanntidsmåleren Tibber Pulse kostnadsfritt ved innmelding. | [Link](https://www.obos.no/medlem/medlemsfordeler/tibber) |
 | Tights.no | 10% by using code DNB8787 | [Link](https://www.tights.no/) |
 | Travelstuff | 10% by using code DNB8787 | [Link](https://www.travelstuff.no/) |
 | Tromsø Alpinpark | Gratis heiskort i Tromsø Alpinpark | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/heiskort-tromso-alpinpark/) |
