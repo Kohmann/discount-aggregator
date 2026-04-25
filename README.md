@@ -53,6 +53,7 @@ Updated every day. Perchance
 | Bull Superski | 20 prosent rabatt på skiutleie hos Bull Superski | [Link](https://bullsuperski.no/skiutleie/) |
 | Bullfighter | 10% by using code DNB8787 | [Link](https://www.bullfighter.no/) |
 | BWH Hotels | 10–20 % rabatt på overnatting ved alle hoteller. | [Link](https://www.obos.no/medlem/medlemsfordeler/best-western-hotels--resorts) |
+| Byfjordfestivalen | 20 % rabatt på billetter til Byfjordfestivalen. | [Link](https://www.obos.no/medlem/medlemsfordeler/byfjordfestivalen) |
 | Byha | 10% by using code DNB8787 | [Link](https://www.byha.no/) |
 | Bø Sommarland | 15–30 % rabatt på billetter. | [Link](https://www.obos.no/medlem/medlemsfordeler/bo-sommarland) |
 | Camelbak | 10% by using code DNB8787 | [Link](https://www.camelbak.no) |
@@ -89,6 +90,7 @@ Updated every day. Perchance
 | Helly Hansen | 10% by using code DNB8787 | [Link](https://www.hellyhansen.com/) |
 | Henie Onstad Kunstsenter | 20 % rabatt på inngang for inntil to billetter per medlem. Gratis inngang for barn under 18 år og medlemmer som har ledsagerbevis. | [Link](https://www.obos.no/medlem/medlemsfordeler/henie-onstad-kunstsenter) |
 | Henri-Lloyd | 10 % by using code DNB8787 | [Link](https://www.henrilloyd.com.) |
+| High Voltage Rockfest | 20 % rabatt på billetter til High Voltage Rockfest | [Link](https://www.obos.no/medlem/medlemsfordeler/high-voltage-rockfest) |
 | Holmenkollen Frisbeegolf | Gratis frisbeegolf i Holmenkollen | [Link](https://www.skiforeningen.no/holmenkollen/frisbeegolf/) |
 | Holmenkollen Skifestival | Få 25–50 % rabatt på billetter til Holmenkollen Skifestival. | [Link](https://www.obos.no/medlem/medlemsfordeler/holmenkollen-skifestival) |
 | Holmenkollmarsjen | 400 kroner i rabatt på Holmenkollmarsjen | [Link](https://www.skiforeningen.no/aktiviteter-for-voksne/holmenkollmarsjen/) |
@@ -218,7 +220,7 @@ Updated every day. Perchance
 | Tufte | 10% by using code DNB8787 | [Link](https://tuftewear.no/) |
 | TusenFryd | Opptil 30 % rabatt per billett. | [Link](https://www.obos.no/medlem/medlemsfordeler/tusenfryd) |
 | Ulvang | 10% by using code DNB8787 | [Link](https://ulvang.com/) |
-| Universeum | 15 % rabatt på inngangsbilletter kjøpt på nett. Universeum er et interaktivt vitensenter i Göteborg. | [Link](https://www.obos.no/medlem/medlemsfordeler/universeum) |
+| Universeum | 15 % rabatt på inngangsbilletter kjøpt på nett. Universeum er et interaktivt vitensenter i Gøteborg. | [Link](https://www.obos.no/medlem/medlemsfordeler/universeum) |
 | Utopia | 20 % rabatt på festivalpass til Utopia i Stavanger. | [Link](https://www.obos.no/medlem/medlemsfordeler/utopia) |
 | Vakre Vene | 10% by using code DNB8787 | [Link](https://www.vakrevene.no/) |
 | Vianor | 20 % rabatt på dekkhotell og flere andre gode fordeler. | [Link](https://www.obos.no/medlem/medlemsfordeler/vianor) |
