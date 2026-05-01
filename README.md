@@ -167,7 +167,6 @@ Updated every day. Perchance
 | Otovo | 10 % rabatt på et nøkkelferdig solcelleanlegg, inkludert installasjon. | [Link](https://www.obos.no/medlem/medlemsfordeler/otovo) |
 | Padelutstyr | 10% by using code DNB8787 | [Link](https://www.padelutstyr.no/) |
 | Paradox Museum | 10 % by using code DNB8787 | [Link](https://www.paradoxmuseumoslo.com/ ) |
-| Ren Bolig | 20 % rabatt på renhold og vaktmestertjenester i Østfold. | [Link](https://www.obos.no/medlem/medlemsfordeler/ren-bolig-fredrikstad) |
 | Rogaland Teater | Få 25 % rabatt på billetter. | [Link](https://www.obos.no/medlem/medlemsfordeler/rogaland-teater) |
 | Roseslottet | 20 % rabatt på inngang på Roseslottet for inntil fem billetter. | [Link](https://www.obos.no/medlem/medlemsfordeler/roseslottet) |
 | Roseslottet.no | 20% rabatt på inngang på Roseslottet | [Link](https://roseslottet.no/) |
