@@ -131,9 +131,9 @@ Updated every day. Perchance
 | LEGOLAND | 2 for 1 inngangsbillett til LEGOLAND. | [Link](https://www.obos.no/medlem/medlemsfordeler/legoland) |
 | Liljevalchs | 25 % rabatt på inngangsbillett hos Liljevalchs på Djurgården i Stockholm. | [Link](https://www.obos.no/medlem/medlemsfordeler/25-rabatt-pa-liljevalchs) |
 | Lillelam | 10% by using code DNB4935 | [Link](https://lillelam.no/) |
-| Liseberg | 30 % rabatt på et begrenset antall billetter. | [Link](https://www.obos.no/medlem/medlemsfordeler/liseberg) |
+| Liseberg | 30 % rabatt på et begrenset antall billetter. Billetter til Liseberg med OBOS-rabatt er utsolgt, dessverre. | [Link](https://www.obos.no/medlem/medlemsfordeler/liseberg) |
 | Liseberg Grand Curiosa Hotel | Inntil 20 % rabatt på overnatting hos Liseberg Grand Curiosa Hotel i Sverige. | [Link](https://www.obos.no/medlem/medlemsfordeler/liseberg-grand-curiosa-hotel) |
-| Lisebergsbyn | 20 % rabatt på overnatting i Lisebergsbyn. | [Link](https://www.obos.no/medlem/medlemsfordeler/lisebergsbyn) |
+| Lisebergsbyn | Inntil 20 % rabatt på overnatting i Lisebergsbyn. | [Link](https://www.obos.no/medlem/medlemsfordeler/lisebergsbyn) |
 | LSK Kvinner | 50 % rabatt på billetter til LSK Kvinner sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/lsk-kvinner) |
 | Lyn Damer | 25 % rabatt på billetter til Lyn Damer sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/lyn-damer) |
 | Lørenskog Ishockey | 25 % rabatt på billetter til Lørenskog Ishockey sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/lorenskog-ishockey) |
