@@ -12,7 +12,7 @@ Updated every day. Perchance
 | Store | Description | Source |
 | --- | --- | --- |
 |  | Rabatt hos EVO treningssenter | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-treningssenter/) |
-| A Night at the Movies | 475 kroner per billett. | [Link](https://www.obos.no/medlem/medlemsfordeler/musikalgalla) |
+| A Night at the Movies | 475 kroner per billett. | [Link](https://www.obos.no/medlem/medlemsfordeler/a-night-at-the-movies) |
 | ABBA The Museum | 15 % rabatt på inngangsbilletter. | [Link](https://www.obos.no/medlem/medlemsfordeler/abba-the-museum) |
 | Akvariet i Bergen | 25 % rabatt på billetter. | [Link](https://www.obos.no/medlem/medlemsfordeler/akvariet-i-bergen) |
 | Alpina | 10% by using code DNB4935 | [Link](https://www.alpina.no/) |
