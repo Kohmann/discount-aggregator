@@ -65,7 +65,7 @@ Updated every day. Perchance
 | Den Norske Opera & Ballett | 20 % rabatt på billetter og omvisning hos Den Norske Opera & Ballett. | [Link](https://www.obos.no/medlem/medlemsfordeler/den-norske-opera-and-ballett) |
 | Det Norske Teatret | 20 % rabatt på alle ordinære forestillinger hos Det Norske Teatret. | [Link](https://www.obos.no/medlem/medlemsfordeler/det-norske-teatret) |
 | Dovre | 10% by using code DNB4935 | [Link](https://dovre.com/) |
-| Eeffy | Som OBOS-medlem sparer du 6000 kroner på energirådgivning fra Eeffy og detaljert energimerking av boligen din. | [Link](https://www.obos.no/medlem/medlemsfordeler/eeffy) |
+| Eeffy | Som OBOS-medlem sparer du 6000 kroner på energirådgivning fra Eeffy, inkludert energimerking av boligen. | [Link](https://www.obos.no/medlem/medlemsfordeler/eeffy) |
 | Elite Foto | 10% by using code DNB4935 | [Link](https://www.elitefoto.no/) |
 | Elon | 15 % på all elektronikk på Elon.no – utenom Apple-produkter. | [Link](https://www.obos.no/medlem/medlemsfordeler/elon) |
 | EVO treningssenter | Fast månedspris til kun 369 kr, gratis trening resten av måneden du melder deg inn og ingen innmeldingsavgift. | [Link](https://www.obos.no/medlem/medlemsfordeler/evo) |
