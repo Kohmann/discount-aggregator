@@ -199,7 +199,7 @@ Updated every day. Perchance
 | Storhamar Ishockey | 50 % rabatt på billetter til Storhamar Ishockey sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/storhamar-ishockey) |
 | Strawberry | 15–20 % rabatt på overnatting på alle Quality Hotel, Comfort Hotel, Clarion Hotel og Home Hotel i Norge, Sverige, Danmark, Finland og Baltikum. | [Link](https://www.obos.no/medlem/medlemsfordeler/strawberry) |
 | Strawberry | Hotellrabatt Strawberry | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-overnatting-hos-strawberry/) |
-| Strim | Prøv Strim gratis i 30 dager og få 10 % rabatt etter prøveperioden. | [Link](https://www.obos.no/medlem/medlemsfordeler/strim) |
+| Strim | Som ny kunde prøv Strim i 30 dagers kostnadsfri prøveperiode, deretter 10 % fast rabatt på grunnpakken. | [Link](https://www.obos.no/medlem/medlemsfordeler/strim) |
 | SUMO Restauranter | Rabatt hos SUMO | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-sumo/) |
 | Swims | 10% by using code DNB4935 | [Link](https://eu.swims.com/no) |
 | Swix | 10% by using code DNB4935 | [Link](https://www.swixsport.com/no) |
