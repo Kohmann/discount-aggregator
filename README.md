@@ -221,6 +221,7 @@ Updated every day. Perchance
 | Universeum | 15 % rabatt på inngangsbilletter kjøpt på nett. Universeum er et interaktivt vitensenter i Gøteborg. | [Link](https://www.obos.no/medlem/medlemsfordeler/universeum) |
 | Utopia | 20 % rabatt på festivalpass til Utopia i Stavanger. | [Link](https://www.obos.no/medlem/medlemsfordeler/utopia) |
 | Vakre Vene | 10% by using code DNB4935 | [Link](https://www.vakrevene.no/) |
+| VG-Lista Topp 40 | Fram til 31. mi har vi konkurranse i samarbeid med VG-Lista Topp 40 og deler ut to Golden Circle-billetter hver til 15 vinnere. | [Link](https://www.obos.no/medlem/medlemsfordeler/vg-lista-topp-40) |
 | Vianor | 20 % rabatt på dekkhotell og flere andre gode fordeler. | [Link](https://www.obos.no/medlem/medlemsfordeler/vianor) |
 | Vianor | 10% by using code DNB4935 | [Link](https://vianor.no/) |
 | Viking | 10% by using code DNB4935 | [Link](https://no.vikingfootwear.com/) |
