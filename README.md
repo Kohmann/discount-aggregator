@@ -162,7 +162,7 @@ Updated every day. Perchance
 | Oslo Bislett Games | 20 % rabatt på billetter til Bislett Games i Oslo. | [Link](https://www.obos.no/medlem/medlemsfordeler/bislett-games) |
 | Oslo Bysykkel | 25 % rabatt ved kjøp av 365-dagers pass. | [Link](https://www.obos.no/medlem/medlemsfordeler/oslo-bysykkel) |
 | Oslo Nye Teater | 20 % rabatt på billetter til Hovedscenen og Centralteatret hos Oslo Nye Teater. | [Link](https://www.obos.no/medlem/medlemsfordeler/oslo-nye-teater) |
-| Oslo Taxi | Få pavlovaen trygt fram til 17.mai-frokosten – 10 % rabatt via Taxifix-appen. | [Link](https://www.obos.no/medlem/medlemsfordeler/oslo-taxi) |
+| Oslo Taxi | 10 % rabatt på kjøring hos Oslo Taxi via appen Taxifix. | [Link](https://www.obos.no/medlem/medlemsfordeler/oslo-taxi) |
 | OsloBolig | OBOS-medlemmer får forkjøpsrett på 25 % av boligene til OsloBolig. | [Link](https://www.obos.no/medlem/medlemsfordeler/oslobolig) |
 | Otovo | 10 % rabatt på et nøkkelferdig solcelleanlegg, inkludert installasjon. | [Link](https://www.obos.no/medlem/medlemsfordeler/otovo) |
 | Padelutstyr | 10% by using code DNB4935 | [Link](https://www.padelutstyr.no/) |
