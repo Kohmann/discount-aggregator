@@ -11,7 +11,6 @@ Updated every day. Perchance
 <!-- DISCOUNTS_START -->
 | Store | Description | Source |
 | --- | --- | --- |
-|  | Rabatt hos EVO treningssenter | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-treningssenter/) |
 | A Night at the Movies | 475 kroner per billett. | [Link](https://www.obos.no/medlem/medlemsfordeler/a-night-at-the-movies) |
 | ABBA The Museum | 15 % rabatt på inngangsbilletter. | [Link](https://www.obos.no/medlem/medlemsfordeler/abba-the-museum) |
 | Akvariet i Bergen | 25 % rabatt på billetter. | [Link](https://www.obos.no/medlem/medlemsfordeler/akvariet-i-bergen) |
@@ -33,15 +32,15 @@ Updated every day. Perchance
 | Bellas Hus | 10% by using code DNB4935 | [Link](https://www.bellashus.no/) |
 | Berg | 10% by using code DNB4935 | [Link](https://bergwatches.no/) |
 | Bergen Bysykkel | 25 % rabatt ved kjøp av sesongpass hos Bergen Bysykkel. | [Link](https://www.obos.no/medlem/medlemsfordeler/bergen-bysykkel) |
-| Bertel O. Steen | Bilrabatt Alfa Romeo | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-alfa-romeo/) |
-| Bertel O. Steen | Bilrabatt Citroën | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-citroen/) |
-| Bertel O. Steen | Bilrabatt DS | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-ds/) |
-| Bertel O. Steen | Bilrabatt Fiat | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-fiat/) |
-| Bertel O. Steen | Bilrabatt Jeep | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-jeep/) |
-| Bertel O. Steen | Bilrabatt Kia | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-kia/) |
 | Bertel O. Steen | Bilrabatt Mercedes-Benz | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-mercedes-benz/) |
 | Bertel O. Steen | Bilrabatt Opel | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-opel/) |
 | Bertel O. Steen | Bilrabatt Peugeot | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-peugeot/) |
+| Bertel O. Steen | Bilrabatt Kia | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-kia/) |
+| Bertel O. Steen | Bilrabatt Citroën | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-citroen/) |
+| Bertel O. Steen | Bilrabatt Alfa Romeo | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-alfa-romeo/) |
+| Bertel O. Steen | Bilrabatt DS | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-ds/) |
+| Bertel O. Steen | Bilrabatt Fiat | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-fiat/) |
+| Bertel O. Steen | Bilrabatt Jeep | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-jeep/) |
 | Bertel O. Steen | Bilrabatt Smart | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-smart/) |
 | Bikemember | Rabatt hos Bikemember | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-bikemember/) |
 | Bjørneparken | 20–30 % rabatt på billetter i Bjørneparken. | [Link](https://www.obos.no/medlem/medlemsfordeler/bjorneparken) |
@@ -69,6 +68,7 @@ Updated every day. Perchance
 | Elite Foto | 10% by using code DNB4935 | [Link](https://www.elitefoto.no/) |
 | Elon | 15 % på all elektronikk på Elon.no – utenom Apple-produkter. | [Link](https://www.obos.no/medlem/medlemsfordeler/elon) |
 | EVO treningssenter | Fast månedspris til kun 369 kr, gratis trening resten av måneden du melder deg inn og ingen innmeldingsavgift. | [Link](https://www.obos.no/medlem/medlemsfordeler/evo) |
+| EVO treningssenter | Rabatt hos EVO treningssenter | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-treningssenter/) |
 | Farmasiet – apotek på nett | 20 % rabatt på ordinære varer hos Norges største apotek på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/farmasiet-apotek-pa-nett) |
 | Fellesturer | Gratis tilbud for deg som liker å gå sammen med andre | [Link](https://www.skiforeningen.no/aktiviteter-for-voksne/fellesturer/) |
 | Festningen | 20 % rabatt på festivalpass til Festningen i Trondheim. | [Link](https://www.obos.no/medlem/medlemsfordeler/obosfestningen) |
@@ -115,7 +115,7 @@ Updated every day. Perchance
 | Kinogavekort.no | 10% by using code DNB4935 | [Link](https://kinogavekort.no/) |
 | Kistefos | 25 % rabatt på inntil fem billetter per medlem. | [Link](https://www.obos.no/medlem/medlemsfordeler/kistefos) |
 | Kjentmannshåndboka | 25 prosent rabatt på Kjentmannshåndboka | [Link](https://www.skiforeningen.no/utimarka/kjentmannsmerket/) |
-| Klatring på Grensen | Rabatt hos Klatring på Grensen | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/klatring-pa-grensen/) |
+| Klatring p�å Grensen | Rabatt hos Klatring på Grensen | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/klatring-pa-grensen/) |
 | Kollensvevet | Rabatt på Kollensvevet | [Link](https://www.kollensvevet.no/) |
 | Kolstad Håndball | Få 30 til 50 % rabatt på Kolstad Håndballs hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/kolstad-handball) |
 | Kondomeriet | 10% by using code DNB4935 | [Link](https://www.kondomeriet.no/) |
@@ -187,6 +187,7 @@ Updated every day. Perchance
 | Smartlapper | 10% by using code DNB4935 | [Link](https://www.smartlapper.no) |
 | Småungene | 10% by using code DNB4935 | [Link](https://www.smaaungene.no/) |
 | SNØ | 20 % rabatt på inngangsbilletter hos SNØ, verdens råeste helårsarena for snøopplevelser. | [Link](https://www.obos.no/medlem/medlemsfordeler/sno) |
+| Sommerteatret 2026: Den lille prinsen | 20 % rabatt på billetter til Den lille prinsen i Frognerparken. | [Link](https://www.obos.no/medlem/medlemsfordeler/sommerteatret-2026-den-lille-prinsen) |
 | Sparta Sarpsborg | 50 % rabatt på billetter til Sparta Hockeys hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/sparta-sarpsborg) |
 | Spaxo | 10% by using code DNB4935 | [Link](https://spaxo.no/) |
 | Spirefest | 20 % rabatt på billetter til ungdomsfestivalen Spirefest i Ålesund. | [Link](https://www.obos.no/medlem/medlemsfordeler/spirefest) |
@@ -221,7 +222,6 @@ Updated every day. Perchance
 | Universeum | 15 % rabatt på inngangsbilletter kjøpt på nett. Universeum er et interaktivt vitensenter i Gøteborg. | [Link](https://www.obos.no/medlem/medlemsfordeler/universeum) |
 | Utopia | 20 % rabatt på festivalpass til Utopia i Stavanger. | [Link](https://www.obos.no/medlem/medlemsfordeler/utopia) |
 | Vakre Vene | 10% by using code DNB4935 | [Link](https://www.vakrevene.no/) |
-| VG-Lista Topp 40 | Fram til 31. mi har vi konkurranse i samarbeid med VG-Lista Topp 40 og deler ut to Golden Circle-billetter hver til 15 vinnere. | [Link](https://www.obos.no/medlem/medlemsfordeler/vg-lista-topp-40) |
 | Vianor | 20 % rabatt på dekkhotell og flere andre gode fordeler. | [Link](https://www.obos.no/medlem/medlemsfordeler/vianor) |
 | Vianor | 10% by using code DNB4935 | [Link](https://vianor.no/) |
 | Viking | 10% by using code DNB4935 | [Link](https://no.vikingfootwear.com/) |
