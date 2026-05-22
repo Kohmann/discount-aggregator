@@ -79,6 +79,7 @@ Updated every day. Perchance
 | Flügger farve | 20 % rabatt på produkter fra Flügger, samt fargekonsultasjon. | [Link](https://www.obos.no/medlem/medlemsfordeler/flugger-farve) |
 | Fonus Begravelsesbyrå | Rabatt på kister, urner og nye gravsteiner. | [Link](https://www.obos.no/medlem/medlemsfordeler/fonus-begravelsesbyra) |
 | Forkjøpsrett | Som OBOS-medlem stiller du først i køen når du skal kjøpe bolig, og har forkjøpsrett på over 90 000 boliger i hele Norge. | [Link](https://www.obos.no/medlem/medlemsfordeler/forkjopsrett) |
+| Fotball på Jordal | 25 % rabatt på VM-kamper på storskjerm på Jordal Amfi i Oslo. | [Link](https://www.obos.no/medlem/medlemsfordeler/fotball-pa-jordal) |
 | Fredrikstad FK | 100 kroner for voksne og 50 kroner for barn på billetter til FFK sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/fredrikstad-fk) |
 | Galleri D40 | 10% by using code DNB4935 | [Link](https://www.d40.no/) |
 | Go Nordic Cruiseline | 15 % fast helårsrabatt på alle lugartyper ved bestilling av MiniCruise til København. 10 % fast helårsrabatt på båtreiser på ruten Oslo-København. | [Link](https://www.obos.no/medlem/medlemsfordeler/go-nordic-cruiseline) |
@@ -188,7 +189,6 @@ Updated every day. Perchance
 | Smartlapper | 10% by using code DNB4935 | [Link](https://www.smartlapper.no) |
 | Småungene | 10% by using code DNB4935 | [Link](https://www.smaaungene.no/) |
 | SNØ | 20 % rabatt på inngangsbilletter hos SNØ, verdens råeste helårsarena for snøopplevelser. | [Link](https://www.obos.no/medlem/medlemsfordeler/sno) |
-| Sommerteatret 2026: Den lille prinsen | 20 % rabatt på billetter til Den lille prinsen i Frognerparken. | [Link](https://www.obos.no/medlem/medlemsfordeler/sommerteatret-2026-den-lille-prinsen) |
 | Sparta Sarpsborg | 50 % rabatt på billetter til Sparta Hockeys hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/sparta-sarpsborg) |
 | Spaxo | 10% by using code DNB4935 | [Link](https://spaxo.no/) |
 | Spirefest | 20 % rabatt på billetter til ungdomsfestivalen Spirefest i Ålesund. | [Link](https://www.obos.no/medlem/medlemsfordeler/spirefest) |
@@ -206,6 +206,7 @@ Updated every day. Perchance
 | Swims | 10% by using code DNB4935 | [Link](https://eu.swims.com/no) |
 | Swix | 10% by using code DNB4935 | [Link](https://www.swixsport.com/no) |
 | Syversen | 10% by using code DNB4935 | [Link](https://syversen.com) |
+| Søndre Nordstrandsløpet | 15 % rabatt på 10 km på Søndre Nordstrandsløpet. | [Link](https://www.obos.no/medlem/medlemsfordeler/sondre-nordstrandslopet) |
 | Talkmore | 10–20 % rabatt på abonnement. Lave priser. Garantert full Telenor-dekning. | [Link](https://www.obos.no/medlem/medlemsfordeler/talkmore) |
 | TEGNE | 10 % by using code DNB4935 | [Link](https://www.tegne.no) |
 | Teknisk Ukeblad | Halv pris på TU og Digi | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/halv-pris-pa-tu-og-digi/) |
