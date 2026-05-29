@@ -16,7 +16,7 @@ Updated every day. Perchance
 | Akvariet i Bergen | 25 % rabatt på billetter. | [Link](https://www.obos.no/medlem/medlemsfordeler/akvariet-i-bergen) |
 | Alpina | 10% by using code DNB4935 | [Link](https://www.alpina.no/) |
 | Ammerud Basket | Få 50 % rabatt på billetter til hjemmekampene til Ammerud Basket. | [Link](https://www.obos.no/medlem/medlemsfordeler/ammerud-basket) |
-| Anton Sport | Har du løpt ut skoene dine allerede? 20 % bonus på alle ordinære priser. | [Link](https://www.obos.no/medlem/medlemsfordeler/anton-sport) |
+| Anton Sport | 20 % bonus på alle ordinære priser. | [Link](https://www.obos.no/medlem/medlemsfordeler/anton-sport) |
 | Apollo | 500 kroner i rabatt per reisende. | [Link](https://www.obos.no/medlem/medlemsfordeler/apollo) |
 | Arons | 10% by using code DNB4935 | [Link](https://arons.no/) |
 | Avicci Experience | 15 % rabatt på inngangsbilletter. | [Link](https://www.obos.no/medlem/medlemsfordeler/avicii-experience) |
@@ -52,7 +52,7 @@ Updated every day. Perchance
 | Bull Ski & Kajakk | 20 prosent rabatt hos Bull Ski og Kajakk | [Link](https://bull-ski-kajakk.no/skiforeningen1883) |
 | Bull Superski | 20 prosent rabatt på skiutleie hos Bull Superski | [Link](https://bullsuperski.no/skiutleie/) |
 | Bullfighter | 10% by using code DNB4935 | [Link](https://www.bullfighter.no/) |
-| BWH Hotels | Nytt spahotell ved havet åpner 1. juni! Få 20 % rabatt på overnatting. | [Link](https://www.obos.no/medlem/medlemsfordeler/best-western-hotels--resorts) |
+| BWH Hotels | 10-20 % rabatt på overnatting ved alle hoteller. | [Link](https://www.obos.no/medlem/medlemsfordeler/best-western-hotels--resorts) |
 | Byfjordfestivalen | 20 % rabatt på billetter til Byfjordfestivalen. | [Link](https://www.obos.no/medlem/medlemsfordeler/byfjordfestivalen) |
 | Byha | 10% by using code DNB4935 | [Link](https://www.byha.no/) |
 | Bø Sommarland | 15–30 % rabatt på billetter. | [Link](https://www.obos.no/medlem/medlemsfordeler/bo-sommarland) |
@@ -129,7 +129,7 @@ Updated every day. Perchance
 | Last ned Sporet | Sporet er inkludert i medlemskapet | [Link](https://www.skiforeningen.no/sporet-appen/nedlasting/) |
 | Leatherman | 10% by using code DNB4935 | [Link](https://www.leathermanshop.no) |
 | Ledlenser | 10% by using code DNB4935 | [Link](https://www.ledlensershop.no) |
-| Legalis | Trenger du juridisk hjelp i hverdagen? Få fast rabattert timespris. | [Link](https://www.obos.no/medlem/medlemsfordeler/legalis) |
+| Legalis | Fast rabattert timespris hos advokat. | [Link](https://www.obos.no/medlem/medlemsfordeler/legalis) |
 | LEGOLAND | 2 for 1 inngangsbillett til LEGOLAND. | [Link](https://www.obos.no/medlem/medlemsfordeler/legoland) |
 | Liljevalchs | 25 % rabatt på inngangsbillett hos Liljevalchs på Djurgården i Stockholm. | [Link](https://www.obos.no/medlem/medlemsfordeler/25-rabatt-pa-liljevalchs) |
 | Lillelam | 10% by using code DNB4935 | [Link](https://lillelam.no/) |
@@ -157,7 +157,7 @@ Updated every day. Perchance
 | OBOS Bostart | Som OBOS-medlem får du forkjøpsrett på nyboliger med OBOS Bostart ved salgsstart. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-bostart) |
 | OBOS Deleie | Som OBOS-medlem får du forkjøpsrett på nyboliger med OBOS Deleie ved salgsstart. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-deleie) |
 | OBOS Eiendomsmeglere | Som OBOS-medlem får du 5000 kroner i rabatt når du selger boligen din gjennom OBOS Eiendomsmeglere. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-eiendomsmeglere) |
-| OBOS-banken | OBOS-banken setter opp renta. Få opp til 4,55 % rente på sparepengene – fra første krone. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-banken) |
+| OBOS-banken | I OBOS-banken får du som OBOS-medlem bedre renter på boliglånet ditt. I tillegg får du gratis bankkort og god rente på brukskonto og sparekonto fra første krone. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-banken) |
 | OBOS-ligaen | Som OBOS-medlem har du tilgang til OBOS-billetten: 100 kroner for voksne og 50 kroner for barn. Rabatten gjelder på alle kamper i OBOS-ligaen. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-ligaen) |
 | ODEON Kino | 15 % rabatt på ordinære kinobilletter. | [Link](https://www.obos.no/medlem/medlemsfordeler/odeon-kino) |
 | Odlo | 10 % by using code DNB4935 | [Link](https://odlo.no) |
@@ -170,6 +170,7 @@ Updated every day. Perchance
 | Otovo | 10 % rabatt på et nøkkelferdig solcelleanlegg, inkludert installasjon. | [Link](https://www.obos.no/medlem/medlemsfordeler/otovo) |
 | Padelutstyr | 10% by using code DNB4935 | [Link](https://www.padelutstyr.no/) |
 | Paradox Museum | 10 % by using code DNB4935 | [Link](https://www.paradoxmuseumoslo.com/ ) |
+| Repairable | Rabatt på reparasjon av klær hos Repairable | [Link](http://repairable.no/) |
 | Rogaland Teater | Få 25 % rabatt på billetter. | [Link](https://www.obos.no/medlem/medlemsfordeler/rogaland-teater) |
 | Roseslottet | 20 % rabatt på inngang på Roseslottet for inntil fem billetter. | [Link](https://www.obos.no/medlem/medlemsfordeler/roseslottet) |
 | Roseslottet.no | 20% rabatt på inngang på Roseslottet | [Link](https://roseslottet.no/) |
@@ -212,7 +213,7 @@ Updated every day. Perchance
 | TEGNE | 10 % by using code DNB4935 | [Link](https://www.tegne.no) |
 | Teknisk Ukeblad | Halv pris på TU og Digi | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/halv-pris-pa-tu-og-digi/) |
 | Teleoutlet | 10% by using code DNB4935 | [Link](https://teleoutlet.no/) |
-| Tibber | Nyhet: Som ny Tibber-kunde får du sanntidsmåleren Tibber Pulse kostnadsfritt. Sanntidsmåleren har en verdi på 995 kroner. | [Link](https://www.obos.no/medlem/medlemsfordeler/tibber) |
+| Tibber | Spar 995 kroner på sanntidsmåler. Som OBOS-medlem og ny kunde hos Tibber får du sanntidsmåleren Tibber Pulse kostnadsfritt ved innmelding. | [Link](https://www.obos.no/medlem/medlemsfordeler/tibber) |
 | Tights.no | 10% by using code DNB4935 | [Link](https://www.tights.no/) |
 | Travelstuff | 10% by using code DNB4935 | [Link](https://www.travelstuff.no/) |
 | Tromsø Alpinpark | Gratis heiskort i Tromsø Alpinpark | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/heiskort-tromso-alpinpark/) |
