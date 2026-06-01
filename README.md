@@ -208,7 +208,6 @@ Updated every day. Perchance
 | Swims | 10% by using code DNB4935 | [Link](https://eu.swims.com/no) |
 | Swix | 10% by using code DNB4935 | [Link](https://www.swixsport.com/no) |
 | Syversen | 10% by using code DNB4935 | [Link](https://syversen.com) |
-| Søndre Nordstrandsløpet | 15 % rabatt på 10 km på Søndre Nordstrandsløpet. | [Link](https://www.obos.no/medlem/medlemsfordeler/sondre-nordstrandslopet) |
 | Talkmore | 10–20 % rabatt på abonnement. Lave priser. Garantert full Telenor-dekning. | [Link](https://www.obos.no/medlem/medlemsfordeler/talkmore) |
 | TEGNE | 10 % by using code DNB4935 | [Link](https://www.tegne.no) |
 | Teknisk Ukeblad | Halv pris på TU og Digi | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/halv-pris-pa-tu-og-digi/) |
