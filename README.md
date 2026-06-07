@@ -25,7 +25,6 @@ Updated every day. Perchance
 | Backstage Hotel | 20% rabatt på hotellovernatting på Backstage Hotel på Djurgården i Stockholm. | [Link](https://www.obos.no/medlem/medlemsfordeler/backstage-hotel) |
 | BagBrokers | 10% by using code DNB2675 | [Link](https://www.bagbrokers.no/) |
 | Barbershop | 10 % by using code DNB2675 | [Link](https://barbershop.no) |
-| Barnas Bislettdag | 20 % medlemsrabatt til Barnas Bislettdag. Gratis inngang for voksne. | [Link](https://www.obos.no/medlem/medlemsfordeler/barnas-bislettdag) |
 | Barnas Holmenkolldag | Rabatt på Barnas Holmenkolldag | [Link](https://www.skiforeningen.no/aktiviteter-for-barn/barnas-holmenkolldag/) |
 | Barnas skiskole | 450 kroner rabatt på skiskole i helgene | [Link](https://www.skiforeningen.no/aktiviteter-for-barn/barnas-skiskole/) |
 | Beckmann | 10% by using code DNB2675 | [Link](https://beckmann.no/) |
