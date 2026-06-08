@@ -141,7 +141,6 @@ Updated every day. Perchance
 | Markabussen | 60 prosent rabatt på Markabussen | [Link](https://www.skiforeningen.no/aktiviteter-for-voksne/markabussen/) |
 | Maxbo | Fra 15 % bonusopptjening på alle varer til ordinære priser både i butikk og på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/maxbo) |
 | MedEasy | Rabatt hos MedEasy | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-medeasy/) |
-| Miniøya | 20 % rabatt på billetter til Miniøya. | [Link](https://www.obos.no/medlem/medlemsfordeler/minioya) |
 | Montér Stor-Bergen | Inntil 40 % rabatt på bestillingsvarer, og inntil 15 % rabatt på lagerførte varer. | [Link](https://www.obos.no/medlem/medlemsfordeler/monter-stor-bergen) |
 | Morild | 10% by using code DNB2675 | [Link](https://www.morildnorway.no/) |
 | Narvikfjellet | Gratis heiskort i Narvikfjellet | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/heiskort-i-narvikfjellet/) |
