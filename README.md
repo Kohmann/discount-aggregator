@@ -148,7 +148,6 @@ Updated every day. Perchance
 | Nationaltheatret | 20 % rabatt på billetter hos Nationaltheatret. | [Link](https://www.obos.no/medlem/medlemsfordeler/nationaltheatret) |
 | NEAK | Kursrabatt hos NEAK | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/kursrabatt-hos-neak/) |
 | NITO | Verv en kollega – det lønner seg! | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/verv-en-kollega/) |
-| NITO | Verv en kollega – det lønner seg! | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/verv-en-kollega-sms/) |
 | Nobels Fredssenter | 25 % rabatt på inngangsbilletter. | [Link](https://www.obos.no/medlem/medlemsfordeler/nobels-fredssenter) |
 | Norsk Folkemuseum | 25 % rabatt på voksenbillett og 10 % rabatt i museumsbutikken til Norsk Folkemuseum. | [Link](https://www.obos.no/medlem/medlemsfordeler/norsk-folkemuseum) |
 | NOVASOL | Fra 6–10 % rabatt på leie av feriehus. | [Link](https://www.obos.no/medlem/medlemsfordeler/novasol) |
