@@ -160,7 +160,6 @@ Updated every day. Perchance
 | ODEON Kino | Få 15 % rabatt på inntil fem billetter per medlem på ordinære kinobilletter - hele uka. | [Link](https://www.obos.no/medlem/medlemsfordeler/odeon-kino) |
 | Odlo | 10 % by using code DNB2675 | [Link](https://odlo.no) |
 | Olivenlunden | 10% by using code DNB2675 | [Link](https://www.olivenlunden1830.no/) |
-| Oslo Bislett Games | 20 % rabatt på billetter til Bislett Games i Oslo. | [Link](https://www.obos.no/medlem/medlemsfordeler/bislett-games) |
 | Oslo Bysykkel | 25 % rabatt ved kjøp av 365-dagers pass. | [Link](https://www.obos.no/medlem/medlemsfordeler/oslo-bysykkel) |
 | Oslo Nye Teater | 20 % rabatt på billetter til Hovedscenen og Centralteatret hos Oslo Nye Teater. | [Link](https://www.obos.no/medlem/medlemsfordeler/oslo-nye-teater) |
 | Oslo Taxi | 10 % rabatt på kjøring hos Oslo Taxi via appen Taxifix. | [Link](https://www.obos.no/medlem/medlemsfordeler/oslo-taxi) |
