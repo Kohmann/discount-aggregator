@@ -210,6 +210,7 @@ Updated every day. Perchance
 | TEGNE | 10 % by using code DNB2675 | [Link](https://www.tegne.no) |
 | Teknisk Ukeblad | Halv pris på TU og Digi | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/halv-pris-pa-tu-og-digi/) |
 | Teleoutlet | 10% by using code DNB2675 | [Link](https://teleoutlet.no/) |
+| THE MAGIC OF ALEXX ALEXXANDER 2.0 | 20 % rabatt på THE MAGIC OF ALEXX ALEXXANDER 2.0 | [Link](https://www.obos.no/medlem/medlemsfordeler/the-magic-of-alexx-alexxander-2-0) |
 | Tibber | Spar 995 kroner på sanntidsmåler. Som OBOS-medlem og ny kunde hos Tibber får du sanntidsmåleren Tibber Pulse kostnadsfritt ved innmelding. | [Link](https://www.obos.no/medlem/medlemsfordeler/tibber) |
 | Tights.no | 10% by using code DNB2675 | [Link](https://www.tights.no/) |
 | Travelstuff | 10% by using code DNB2675 | [Link](https://www.travelstuff.no/) |
