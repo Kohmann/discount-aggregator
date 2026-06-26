@@ -66,6 +66,7 @@ Updated every day. Perchance
 | Det Norske Teatret | 20 % rabatt på alle ordinære forestillinger hos Det Norske Teatret. | [Link](https://www.obos.no/medlem/medlemsfordeler/det-norske-teatret) |
 | Domino's Pizza | Sommernyhet: Nå får OBOS-medlemmer 20 % rabatt på månedens pizza. | [Link](https://www.obos.no/medlem/medlemsfordeler/dominos-pizza) |
 | Dovre | 10% by using code DNB2675 | [Link](https://dovre.com/) |
+| Edderkoppen Scene | 20 % rabatt på Edderkoppen Scene. | [Link](https://www.obos.no/medlem/medlemsfordeler/edderkoppen-scene) |
 | Eeffy | Som OBOS-medlem sparer du 6000 kroner på energirådgivning fra Eeffy, inkludert energimerking av boligen. | [Link](https://www.obos.no/medlem/medlemsfordeler/eeffy) |
 | Elite Foto | 10% by using code DNB2675 | [Link](https://www.elitefoto.no/) |
 | Elon | 15 % på all elektronikk på Elon.no – utenom Apple-produkter. | [Link](https://www.obos.no/medlem/medlemsfordeler/elon) |
