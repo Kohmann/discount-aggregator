@@ -78,7 +78,7 @@ Updated every day. Perchance
 | Fjellsport | Rabatt hos Fjellsport | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-fjellsport/) |
 | FK Eik Tønsberg | 50 % rabatt på FK Eik Tønsberg sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/fotballklubben-eik-tonsberg) |
 | FLOYD | 10% by using code DNB2675 | [Link](https://www.floyd.no/) |
-| Flügger farve | 20 % rabatt på produkter fra Flügger, samt fargekonsultasjon. | [Link](https://www.obos.no/medlem/medlemsfordeler/flugger-farve) |
+| Flügger farve | 20 prosent rabatt på produkter fra Flügger, samt fargekonsultasjon. | [Link](https://www.obos.no/medlem/medlemsfordeler/flugger-farve) |
 | Fonus Begravelsesbyrå | Rabatt på kister, urner og nye gravsteiner. | [Link](https://www.obos.no/medlem/medlemsfordeler/fonus-begravelsesbyra) |
 | Forkjøpsrett | Som OBOS-medlem stiller du først i køen når du skal kjøpe bolig, og har forkjøpsrett på over 90 000 boliger i hele Norge. | [Link](https://www.obos.no/medlem/medlemsfordeler/forkjopsrett) |
 | Fotball på Jordal | 25 % rabatt på VM-kamper på storskjerm på Jordal Amfi i Oslo. | [Link](https://www.obos.no/medlem/medlemsfordeler/fotball-pa-jordal) |
