@@ -118,7 +118,7 @@ Updated every day. Perchance
 | Kinogavekort.no | 10% by using code DNB7733 | [Link](https://kinogavekort.no/) |
 | Kistefos | 25 % rabatt på inntil fem billetter per medlem. | [Link](https://www.obos.no/medlem/medlemsfordeler/kistefos) |
 | Kjentmannshåndboka | 25 prosent rabatt på Kjentmannshåndboka | [Link](https://www.skiforeningen.no/utimarka/kjentmannsmerket/) |
-| Klatring p�å Grensen | Rabatt hos Klatring på Grensen | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/klatring-pa-grensen/) |
+| Klatring på Grensen | Rabatt hos Klatring på Grensen | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/klatring-pa-grensen/) |
 | Kollensvevet | Rabatt på Kollensvevet | [Link](https://www.kollensvevet.no/) |
 | Kolstad Håndball | Få 30 til 50 % rabatt på Kolstad Håndballs hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/kolstad-handball) |
 | Kondomeriet | 10% by using code DNB7733 | [Link](https://www.kondomeriet.no/) |
