@@ -58,7 +58,6 @@ Updated every day. Perchance
 | Camelbak | 10% by using code DNB7733 | [Link](https://www.camelbak.no) |
 | Circle K | Få minst 38 øre rabatt per liter på drivstoff, og 45 øre/kWt i rabatt på hurtiglading av elbil. | [Link](https://www.obos.no/medlem/medlemsfordeler/circle-k) |
 | Crispi | 10% by using code DNB7733 | [Link](https://www.crispi.no) |
-| Cutters | Få 20 % rabatt, eller 50 % på første klipp hvis du er ny kunde. | [Link](https://www.obos.no/medlem/medlemsfordeler/cutters) |
 | DAIDDA | 10% by using code DNB7733 | [Link](https://daidda.no/) |
 | De Historiske | Hotellrabatt De Historiske | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-overnatting-hos-de-historiske/) |
 | Den Nationale Scene | 25 % rabatt på teaterbilletter hos Den Nationale Scene. | [Link](https://www.obos.no/medlem/medlemsfordeler/den-nationale-scene) |
