@@ -15,7 +15,6 @@ Updated every day. Perchance
 | ABBA The Museum | 15 % rabatt på inngangsbilletter. | [Link](https://www.obos.no/medlem/medlemsfordeler/abba-the-museum) |
 | Akvariet i Bergen | 25 % rabatt på billetter. | [Link](https://www.obos.no/medlem/medlemsfordeler/akvariet-i-bergen) |
 | Alpina | 10% by using code DNB7733 | [Link](https://www.alpina.no/) |
-| Ammerud Basket | Få 50 % rabatt på billetter til hjemmekampene til Ammerud Basket. | [Link](https://www.obos.no/medlem/medlemsfordeler/ammerud-basket) |
 | Anton Sport | OBOS-medlemmer får 20 prosent bonus på alle ordinære priser. | [Link](https://www.obos.no/medlem/medlemsfordeler/anton-sport) |
 | Apollo | 500 kroner i rabatt per reisende. | [Link](https://www.obos.no/medlem/medlemsfordeler/apollo) |
 | Arons | 10% by using code DNB7733 | [Link](https://arons.no/) |
@@ -119,7 +118,6 @@ Updated every day. Perchance
 | Kjentmannshåndboka | 25 prosent rabatt på Kjentmannshåndboka | [Link](https://www.skiforeningen.no/utimarka/kjentmannsmerket/) |
 | Klatring på Grensen | Rabatt hos Klatring på Grensen | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/klatring-pa-grensen/) |
 | Kollensvevet | Rabatt på Kollensvevet | [Link](https://www.kollensvevet.no/) |
-| Kolstad Håndball | Få 30 til 50 % rabatt på Kolstad Håndballs hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/kolstad-handball) |
 | Kondomeriet | 10% by using code DNB7733 | [Link](https://www.kondomeriet.no/) |
 | Kongeparken | 25 % rabatt på dagskort ved bestilling online. | [Link](https://www.obos.no/medlem/medlemsfordeler/kongeparken-1) |
 | Krogh Optikk | 10% by using code DNB7733 | [Link](https://kroghoptikk.no/) |
@@ -138,7 +136,6 @@ Updated every day. Perchance
 | Lisebergsbyn | Inntil 20 % rabatt på overnatting i Lisebergsbyn. | [Link](https://www.obos.no/medlem/medlemsfordeler/lisebergsbyn) |
 | LSK Kvinner | 50 % rabatt på billetter til LSK Kvinner sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/lsk-kvinner) |
 | Lyn Damer | 25 % rabatt på billetter til Lyn Damer sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/lyn-damer) |
-| Lørenskog Ishockey | 25 % rabatt på billetter til Lørenskog Ishockey sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/lorenskog-ishockey) |
 | Markabussen | 60 prosent rabatt på Markabussen | [Link](https://www.skiforeningen.no/aktiviteter-for-voksne/markabussen/) |
 | Maxbo | Fra 15 prosent bonusopptjening på alle varer til ordinære priser, både i butikk og på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/maxbo) |
 | MedEasy | Rabatt hos MedEasy | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-medeasy/) |
@@ -187,7 +184,6 @@ Updated every day. Perchance
 | Smartlapper | 10% by using code DNB7733 | [Link](https://www.smartlapper.no) |
 | Småungene | 10% by using code DNB7733 | [Link](https://www.smaaungene.no/) |
 | SNØ | 20 % rabatt på inngangsbilletter hos SNØ, verdens råeste helårsarena for snøopplevelser. | [Link](https://www.obos.no/medlem/medlemsfordeler/sno) |
-| Sparta Sarpsborg | 50 % rabatt på billetter til Sparta Hockeys hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/sparta-sarpsborg) |
 | Spaxo | 10% by using code DNB7733 | [Link](https://spaxo.no/) |
 | Spirefest | 20 % rabatt på billetter til ungdomsfestivalen Spirefest i Ålesund. | [Link](https://www.obos.no/medlem/medlemsfordeler/spirefest) |
 | Sporet Sport | 20 prosent rabatt på Sporet Sport | [Link](https://sporetsport.no/no) |
