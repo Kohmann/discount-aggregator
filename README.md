@@ -51,7 +51,6 @@ Updated every day. Perchance
 | Bull Superski | 20 prosent rabatt på skiutleie hos Bull Superski | [Link](https://bullsuperski.no/skiutleie/) |
 | Bullfighter | 10% by using code DNB7733 | [Link](https://www.bullfighter.no/) |
 | BWH Hotels | 10-20 % rabatt på overnatting ved alle hoteller. | [Link](https://www.obos.no/medlem/medlemsfordeler/best-western-hotels--resorts) |
-| Byfjordfestivalen | 20 % rabatt på billetter til Byfjordfestivalen. | [Link](https://www.obos.no/medlem/medlemsfordeler/byfjordfestivalen) |
 | Byha | 10% by using code DNB7733 | [Link](https://www.byha.no/) |
 | Bø Sommarland | 15–30 % rabatt på billetter. | [Link](https://www.obos.no/medlem/medlemsfordeler/bo-sommarland) |
 | Camelbak | 10% by using code DNB7733 | [Link](https://www.camelbak.no) |
