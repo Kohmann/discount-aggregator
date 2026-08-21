@@ -99,7 +99,6 @@ Updated every day. Perchance
 | Hunderfossen Eventyrpark | OBOS-pris på datofestede dagsbilletter: fra 515 kroner per billett. | [Link](https://www.obos.no/medlem/medlemsfordeler/hunderfossen-eventyrpark) |
 | Hällmark | 10% by using code DNB7733 | [Link](https://www.hallmarkofsweden.no/) |
 | Høie | 10% by using code DNB7733 | [Link](https://www.hoie.no/) |
-| Høyskolen Kristiania | 20 prosent rabatt på alle emner og studier på nett, og på erfaringsbasert master, MBA og Master of Science in Financial Management. | [Link](https://www.obos.no/medlem/medlemsfordeler/hoyskolen-kristiania-nettstudier) |
 | Høyt & Lavt | Få 20 prosent rabatt på dagskort hos Skandinavias største klatreparkkjede. | [Link](https://www.obos.no/medlem/medlemsfordeler/hoyt-and-lavt) |
 | Høyt Under Taket | 20 % rabatt på inngangsbillett på Høyt Under Taket. | [Link](https://www.obos.no/medlem/medlemsfordeler/hoyt-under-taket) |
 | INSPIRIA | Gratis inngang på INSPIRIA science center | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/gratis-inngang-pa-inspiria-science-center/) |
@@ -119,6 +118,7 @@ Updated every day. Perchance
 | Kollensvevet | Rabatt på Kollensvevet | [Link](https://www.kollensvevet.no/) |
 | Kondomeriet | 10% by using code DNB7733 | [Link](https://www.kondomeriet.no/) |
 | Kongeparken | 25 % rabatt på dagskort ved bestilling online. | [Link](https://www.obos.no/medlem/medlemsfordeler/kongeparken-1) |
+| Kristiania | 20 prosent rabatt på alle enkeltemner og studier på nett med fleksibel oppstart, samt enkeltemner knyttet til erfaringsbasert master, MBA og Master of Science in Financial Management. | [Link](https://www.obos.no/medlem/medlemsfordeler/hoyskolen-kristiania-nettstudier) |
 | Krogh Optikk | 10% by using code DNB7733 | [Link](https://kroghoptikk.no/) |
 | L'Occitane | 10% by using code DNB7733 | [Link](https://no.loccitane.com/) |
 | Lambertseter Bad | 50 % rabatt på inngang hos Lambertseter Bad i helgene. | [Link](https://www.obos.no/medlem/medlemsfordeler/lambertseter-bad) |
@@ -190,7 +190,7 @@ Updated every day. Perchance
 | Sportslivet | 10% by using code DNB7733 | [Link](https://www.sportslivet.no/) |
 | Standard | 10% by using code DNB7733 | [Link](https://www.festmagasinet.no/) |
 | Stanley | 10% by using code DNB7733 | [Link](https://www.stanley.no/) |
-| Storhamar Håndball | 50 % rabatt på billetter til Storhamar Håndball sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/storhamar-handball) |
+| Storhamar Håndball | 50 % rabatt på billetter til Storhamar Håndball Elite sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/storhamar-handball) |
 | Storhamar Ishockey | 50 % rabatt på billetter til Storhamar Ishockey sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/storhamar-ishockey) |
 | Strawberry | 15–20 % rabatt på overnatting på alle Quality Hotel, Comfort Hotel, Clarion Hotel og Home Hotel i Norge, Sverige, Danmark, Finland og Baltikum. | [Link](https://www.obos.no/medlem/medlemsfordeler/strawberry) |
 | Strawberry | Hotellrabatt Strawberry | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-overnatting-hos-strawberry/) |
