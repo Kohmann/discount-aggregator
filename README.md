@@ -105,7 +105,6 @@ Updated every day. Perchance
 | Interflora | 10% by using code DNB7733 | [Link](https://www.interflora.no/) |
 | Janus | 10 % by using code DNB7733 | [Link](https://janus.no) |
 | Johnny Love | 10% by using code DNB7733 | [Link](https://www.johnnylove.com/) |
-| Jugend | 20 % rabatt på festivalpass til Jugend i Ålesund. | [Link](https://www.obos.no/medlem/medlemsfordeler/jugend) |
 | Junibacken | 20 % rabatt på inngangsbilletter til Junibacken på Djurgården i Stockholm. | [Link](https://www.obos.no/medlem/medlemsfordeler/20-rabatt-pa-junibacken) |
 | Kastel Shoes | 10% by using code DNB7733 | [Link](https://kastelshoes.com/) |
 | KFUM Oslo | 50 % på billetter til KFUMs hjemmekamper på Ekeberg. | [Link](https://www.obos.no/medlem/medlemsfordeler/kfum-oslo) |
