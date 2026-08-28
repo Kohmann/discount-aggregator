@@ -42,7 +42,7 @@ Updated every day. Perchance
 | Bertel O. Steen | Bilrabatt Jeep | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-jeep/) |
 | Bertel O. Steen | Bilrabatt Smart | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-smart/) |
 | Bikemember | Rabatt hos Bikemember | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-bikemember/) |
-| Bjørneparken | 20–30 % rabatt på billetter i Bjørneparken. | [Link](https://www.obos.no/medlem/medlemsfordeler/bjorneparken) |
+| Bjørneparken | OBOS-medlemmer får 20–30 prosent rabatt på inngangsbilletter til Bjørneparken. | [Link](https://www.obos.no/medlem/medlemsfordeler/bjorneparken) |
 | Bohus | Forny hjemmet med 15 prosent rabatt hos Bohus, både i varehus og på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/bohus) |
 | Bottega | 10% by using code DNB7733 | [Link](https://www.bottega.no) |
 | Bravida | Få 20 prosent rabatt på elektrotjenester, deler og montering av ladere til elbil. | [Link](https://www.obos.no/medlem/medlemsfordeler/bravida) |
@@ -80,11 +80,11 @@ Updated every day. Perchance
 | Forkjøpsrett | Som OBOS-medlem stiller du først i køen når du skal kjøpe bolig, og har forkjøpsrett på over 90 000 boliger i hele Norge. | [Link](https://www.obos.no/medlem/medlemsfordeler/forkjopsrett) |
 | Fredrikstad FK | 100 kroner for voksne og 50 kroner for barn på billetter til FFK sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/fredrikstad-fk) |
 | Galleri D40 | 10% by using code DNB7733 | [Link](https://www.d40.no/) |
-| Go Nordic Cruiseline | 15 % fast helårsrabatt på alle lugartyper ved bestilling av MiniCruise til København. 10 % fast helårsrabatt på båtreiser på ruten Oslo-København. | [Link](https://www.obos.no/medlem/medlemsfordeler/go-nordic-cruiseline) |
+| Go Nordic Cruiseline | Fast helårsrabatt på alle båtreiser på ruten Oslo-København, og alle lugartyper ved bestilling av MiniCruise til København. | [Link](https://www.obos.no/medlem/medlemsfordeler/go-nordic-cruiseline) |
 | Golfshopen | 10% by using code DNB7733 | [Link](https://www.golfshopen.no/) |
 | Gullfunn | 10% by using code DNB7733 | [Link](https://www.gullfunn.no/) |
 | Gutta på Haugen | 10% by using code DNB7733 | [Link](https://www.gutta.no/) |
-| Hadeland Glassverk | 30 % rabatt på sesongens glassblås og 15 % rabatt på varer i butikk og på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/hadeland-glassverk) |
+| Hadeland Glassverk | Medlemmer får 30 prosent rabatt på sesongens glassblås, og 15 prosent på varer i butikk og på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/hadeland-glassverk) |
 | Hafjell, Kvitfjell og Oppdal | 10 % rabatt på 1–3 dagers heiskort i Hafjell, Kvitfjell og Oppdal. | [Link](https://www.obos.no/medlem/medlemsfordeler/alpinco-hafjell-kvitfjell-og-oppdal) |
 | HamKam fotball | 99 kroner for voksen og 50 kroner for barn på HamKam sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/hamkam) |
 | Helly Hansen | 10% by using code DNB7733 | [Link](https://www.hellyhansen.com/) |
@@ -96,7 +96,7 @@ Updated every day. Perchance
 | Holmenkollmarsjen | 400 kroner i rabatt på Holmenkollmarsjen | [Link](https://www.skiforeningen.no/aktiviteter-for-voksne/holmenkollmarsjen/) |
 | Hotel Hasselbacken | 20 % rabatt på rom på Hotel Hasselbacken på Djurgården i Stockholm. | [Link](https://www.obos.no/medlem/medlemsfordeler/hotel-hasselbacken) |
 | HTH | Få montering til 20 % av kjøpesummen når du kjøper kjøkken, bad og garderobe hos HTH. Veiledning og interiørforslag fra HTH's kjøkkeneksperter får du i tillegg helt gratis. | [Link](https://www.obos.no/medlem/medlemsfordeler/hth) |
-| Hunderfossen Eventyrpark | OBOS-pris på datofestede dagsbilletter: fra 515 kroner per billett. | [Link](https://www.obos.no/medlem/medlemsfordeler/hunderfossen-eventyrpark) |
+| Hunderfossen Eventyrpark | Få OBOS-pris på inntil fem datofestede dagsbilletter per medlem. | [Link](https://www.obos.no/medlem/medlemsfordeler/hunderfossen-eventyrpark) |
 | Hällmark | 10% by using code DNB7733 | [Link](https://www.hallmarkofsweden.no/) |
 | Høie | 10% by using code DNB7733 | [Link](https://www.hoie.no/) |
 | Høyt & Lavt | Få 20 prosent rabatt på dagskort hos Skandinavias største klatreparkkjede. | [Link](https://www.obos.no/medlem/medlemsfordeler/hoyt-and-lavt) |
@@ -108,7 +108,7 @@ Updated every day. Perchance
 | Junibacken | 20 % rabatt på inngangsbilletter til Junibacken på Djurgården i Stockholm. | [Link](https://www.obos.no/medlem/medlemsfordeler/20-rabatt-pa-junibacken) |
 | Kastel Shoes | 10% by using code DNB7733 | [Link](https://kastelshoes.com/) |
 | KFUM Oslo | 50 % på billetter til KFUMs hjemmekamper på Ekeberg. | [Link](https://www.obos.no/medlem/medlemsfordeler/kfum-oslo) |
-| Kid Interiør | Få det fint hjemme med 30 prosent rabatt hos Kid, både i butikk og på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/kid-interior) |
+| Kid Interiør | Få det fint hjemme. Medlemmer får 30 prosent rabatt hos Kid, både i butikk og på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/kid-interior) |
 | Kikutstua | 20 prosent på Kikutstua | [Link](https://www.kikutstua.no/) |
 | Kinogavekort.no | 10% by using code DNB7733 | [Link](https://kinogavekort.no/) |
 | Kistefos | 25 % rabatt på inntil fem billetter per medlem. | [Link](https://www.obos.no/medlem/medlemsfordeler/kistefos) |
@@ -116,7 +116,7 @@ Updated every day. Perchance
 | Klatring på Grensen | Rabatt hos Klatring på Grensen | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/klatring-pa-grensen/) |
 | Kollensvevet | Rabatt på Kollensvevet | [Link](https://www.kollensvevet.no/) |
 | Kondomeriet | 10% by using code DNB7733 | [Link](https://www.kondomeriet.no/) |
-| Kongeparken | 25 % rabatt på dagskort ved bestilling online. | [Link](https://www.obos.no/medlem/medlemsfordeler/kongeparken-1) |
+| Kongeparken | Bestill dagskort online og få 25 prosent rabatt. | [Link](https://www.obos.no/medlem/medlemsfordeler/kongeparken-1) |
 | Kristiania | 20 prosent rabatt på alle enkeltemner og studier på nett med fleksibel oppstart, samt enkeltemner knyttet til erfaringsbasert master, MBA og Master of Science in Financial Management. | [Link](https://www.obos.no/medlem/medlemsfordeler/hoyskolen-kristiania-nettstudier) |
 | Krogh Optikk | 10% by using code DNB7733 | [Link](https://kroghoptikk.no/) |
 | L'Occitane | 10% by using code DNB7733 | [Link](https://no.loccitane.com/) |
@@ -144,7 +144,7 @@ Updated every day. Perchance
 | NEAK | Kursrabatt hos NEAK | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/kursrabatt-hos-neak/) |
 | NITO | Verv en kollega – det lønner seg! | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/verv-en-kollega/) |
 | Nobels Fredssenter | 25 % rabatt på inngangsbilletter. | [Link](https://www.obos.no/medlem/medlemsfordeler/nobels-fredssenter) |
-| Norsk Folkemuseum | 25 % rabatt på voksenbillett og 10 % rabatt i museumsbutikken til Norsk Folkemuseum. | [Link](https://www.obos.no/medlem/medlemsfordeler/norsk-folkemuseum) |
+| Norsk Folkemuseum | Få 25 prosent rabatt på voksenbillett, og 10 prosent rabatt i museumsbutikken. | [Link](https://www.obos.no/medlem/medlemsfordeler/norsk-folkemuseum) |
 | NOVASOL | Fra 6–10 % rabatt på leie av feriehus. | [Link](https://www.obos.no/medlem/medlemsfordeler/novasol) |
 | Nøtterøy Kulturhus | 20 % rabatt på billetter hos Nøtterøy Kulturhus. | [Link](https://www.obos.no/medlem/medlemsfordeler/notteroy-kulturhus) |
 | OBOS Bostart | Som OBOS-medlem får du forkjøpsrett på nyboliger med OBOS Bostart ved salgsstart. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-bostart) |
@@ -152,7 +152,7 @@ Updated every day. Perchance
 | OBOS Eiendomsmeglere | Som OBOS-medlem får du 5000 kroner i rabatt når du selger boligen din gjennom OBOS Eiendomsmeglere. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-eiendomsmeglere) |
 | OBOS-banken | I OBOS-banken får du som medlem 4,55 % rente fra første krone på sparekonto, bedre rente på boliglånet, god rente på brukskonto og gratis bankkort. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-banken) |
 | OBOS-ligaen | Som OBOS-medlem har du tilgang til OBOS-billetten: 100 kroner for voksne og 50 kroner for barn. Rabatten gjelder på alle kamper i OBOS-ligaen. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-ligaen) |
-| ODEON Kino | Få 15 % rabatt på inntil fem billetter per medlem på ordinære kinobilletter - hele uka. | [Link](https://www.obos.no/medlem/medlemsfordeler/odeon-kino) |
+| ODEON Kino | Få 15 prosent rabatt på inntil fem ordinære kinobilletter per medlem - hele uka. | [Link](https://www.obos.no/medlem/medlemsfordeler/odeon-kino) |
 | Odlo | 10 % by using code DNB7733 | [Link](https://odlo.no) |
 | Olivenlunden | 10% by using code DNB7733 | [Link](https://www.olivenlunden1830.no/) |
 | Oslo Bysykkel | Få 25 prosent rabatt ved kjøp av 365-dagers pass hos Oslo bysykkel. | [Link](https://www.obos.no/medlem/medlemsfordeler/oslo-bysykkel) |
@@ -181,7 +181,7 @@ Updated every day. Perchance
 | Skitt Fiske | Rabatt hos Skitt Fiske | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-skitt-fiske/) |
 | Smartlapper | 10% by using code DNB7733 | [Link](https://www.smartlapper.no) |
 | Småungene | 10% by using code DNB7733 | [Link](https://www.smaaungene.no/) |
-| SNØ | 20 % rabatt på inngangsbilletter hos SNØ, verdens råeste helårsarena for snøopplevelser. | [Link](https://www.obos.no/medlem/medlemsfordeler/sno) |
+| SNØ | 20 prosent rabatt på inngangsbilletter hos verdens råeste helårsarena for snøopplevelser. | [Link](https://www.obos.no/medlem/medlemsfordeler/sno) |
 | Spaxo | 10% by using code DNB7733 | [Link](https://spaxo.no/) |
 | Spirefest | 20 % rabatt på billetter til ungdomsfestivalen Spirefest i Ålesund. | [Link](https://www.obos.no/medlem/medlemsfordeler/spirefest) |
 | Sporet Sport | 20 prosent rabatt på Sporet Sport | [Link](https://sporetsport.no/no) |
@@ -211,7 +211,7 @@ Updated every day. Perchance
 | Tryg Forsikring | OBOS-medlemmer får inntil 23 prosent rabatt på forsikringer hos Tryg. | [Link](https://www.obos.no/medlem/medlemsfordeler/tryg-forsikring) |
 | Trøndelag Teater | 20 % rabatt på billetter hos Trøndelag Teater. | [Link](https://www.obos.no/medlem/medlemsfordeler/trondelag-teater) |
 | Tufte | 10% by using code DNB7733 | [Link](https://tuftewear.no/) |
-| TusenFryd | Opptil 30 % rabatt per billett. | [Link](https://www.obos.no/medlem/medlemsfordeler/tusenfryd) |
+| TusenFryd | OBOS-medlemmer får opptil 30 prosent rabatt per billett. | [Link](https://www.obos.no/medlem/medlemsfordeler/tusenfryd) |
 | Ulvang | 10% by using code DNB7733 | [Link](https://ulvang.com/) |
 | Universeum | 15 % rabatt på inngangsbilletter kjøpt på nett. Universeum er et interaktivt vitensenter i Gøteborg. | [Link](https://www.obos.no/medlem/medlemsfordeler/universeum) |
 | Utopia | 20 % rabatt på festivalpass til Utopia i Stavanger. | [Link](https://www.obos.no/medlem/medlemsfordeler/utopia) |
