@@ -214,7 +214,6 @@ Updated every day. Perchance
 | TusenFryd | OBOS-medlemmer får opptil 30 prosent rabatt per billett. | [Link](https://www.obos.no/medlem/medlemsfordeler/tusenfryd) |
 | Ulvang | 10% by using code DNB7733 | [Link](https://ulvang.com/) |
 | Universeum | 15 % rabatt på inngangsbilletter kjøpt på nett. Universeum er et interaktivt vitensenter i Gøteborg. | [Link](https://www.obos.no/medlem/medlemsfordeler/universeum) |
-| Utopia | 20 % rabatt på festivalpass til Utopia i Stavanger. | [Link](https://www.obos.no/medlem/medlemsfordeler/utopia) |
 | Vakre Vene | 10% by using code DNB7733 | [Link](https://www.vakrevene.no/) |
 | Vianor | 20 % rabatt på dekkhotell og flere andre gode fordeler. | [Link](https://www.obos.no/medlem/medlemsfordeler/vianor) |
 | Vianor | 10% by using code DNB7733 | [Link](https://vianor.no/) |
