@@ -37,7 +37,6 @@ Updated every day. Perchance
 | Bertel O. Steen | Bilrabatt Kia | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-kia/) |
 | Bertel O. Steen | Bilrabatt Citroën | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-citroen/) |
 | Bertel O. Steen | Bilrabatt Alfa Romeo | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-alfa-romeo/) |
-| Bertel O. Steen | Bilrabatt DS | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-ds/) |
 | Bertel O. Steen | Bilrabatt Fiat | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-fiat/) |
 | Bertel O. Steen | Bilrabatt Jeep | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-jeep/) |
 | Bertel O. Steen | Bilrabatt Smart | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-smart/) |
