@@ -70,7 +70,6 @@ Updated every day. Perchance
 | EVO treningssenter | Rabatt hos EVO treningssenter | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-treningssenter/) |
 | Farmasiet – apotek på nett | Få 20 prosent rabatt på ordinære varer hos Norges største apotek på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/farmasiet-apotek-pa-nett) |
 | Fellesturer | Gratis tilbud for deg som liker å gå sammen med andre | [Link](https://www.skiforeningen.no/aktiviteter-for-voksne/fellesturer/) |
-| Festningen | 20 % rabatt på festivalpass til Festningen i Trondheim. | [Link](https://www.obos.no/medlem/medlemsfordeler/obosfestningen) |
 | Fjellsport | Rabatt hos Fjellsport | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-fjellsport/) |
 | FK Eik Tønsberg | 50 % rabatt på FK Eik Tønsberg sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/fotballklubben-eik-tonsberg) |
 | FLOYD | 10% by using code DNB2937 | [Link](https://www.floyd.no/) |
@@ -182,7 +181,6 @@ Updated every day. Perchance
 | Småungene | 10% by using code DNB2937 | [Link](https://www.smaaungene.no/) |
 | SNØ | 20 prosent rabatt på inngangsbilletter hos verdens råeste helårsarena for snøopplevelser. | [Link](https://www.obos.no/medlem/medlemsfordeler/sno) |
 | Spaxo | 10% by using code DNB2937 | [Link](https://spaxo.no/) |
-| Spirefest | 20 % rabatt på billetter til ungdomsfestivalen Spirefest i Ålesund. | [Link](https://www.obos.no/medlem/medlemsfordeler/spirefest) |
 | Sporet Sport | 20 prosent rabatt på Sporet Sport | [Link](https://sporetsport.no/no) |
 | Sportmann.no | 10% by using code DNB2937 | [Link](https://www.sportmann.no/) |
 | Sportslivet | 10% by using code DNB2937 | [Link](https://www.sportslivet.no/) |
