@@ -88,7 +88,6 @@ Updated every day. Perchance
 | Helly Hansen | 10% by using code DNB2937 | [Link](https://www.hellyhansen.com/) |
 | Henie Onstad Kunstsenter | 20 % rabatt på inngang for inntil to billetter per medlem. Gratis inngang for barn under 18 år og medlemmer som har ledsagerbevis. | [Link](https://www.obos.no/medlem/medlemsfordeler/henie-onstad-kunstsenter) |
 | Henri-Lloyd | 10 % by using code DNB2937 | [Link](https://www.henrilloyd.com.) |
-| High Voltage Rockfest | 20 % rabatt på billetter til High Voltage Rockfest | [Link](https://www.obos.no/medlem/medlemsfordeler/high-voltage-rockfest) |
 | Holmenkollen Frisbeegolf | Gratis frisbeegolf i Holmenkollen | [Link](https://www.skiforeningen.no/holmenkollen/frisbeegolf/) |
 | Holmenkollen Skifestival | Få 25–50 % rabatt på billetter til Holmenkollen Skifestival. | [Link](https://www.obos.no/medlem/medlemsfordeler/holmenkollen-skifestival) |
 | Holmenkollmarsjen | 400 kroner i rabatt på Holmenkollmarsjen | [Link](https://www.skiforeningen.no/aktiviteter-for-voksne/holmenkollmarsjen/) |
@@ -103,7 +102,7 @@ Updated every day. Perchance
 | Interflora | 10% by using code DNB2937 | [Link](https://www.interflora.no/) |
 | Janus | 10 % by using code DNB2937 | [Link](https://janus.no) |
 | Johnny Love | 10% by using code DNB2937 | [Link](https://www.johnnylove.com/) |
-| Junibacken | 20 % rabatt på inngangsbilletter til Junibacken på Djurgården i Stockholm. | [Link](https://www.obos.no/medlem/medlemsfordeler/20-rabatt-pa-junibacken) |
+| Junibacken | OBOS-medlemmer får 20 prosent rabatt på inngangsbilletter til Junibacken på Djurgården i Stockholm. | [Link](https://www.obos.no/medlem/medlemsfordeler/20-rabatt-pa-junibacken) |
 | Kastel Shoes | 10% by using code DNB2937 | [Link](https://kastelshoes.com/) |
 | KFUM Oslo | 50 % på billetter til KFUMs hjemmekamper på Ekeberg. | [Link](https://www.obos.no/medlem/medlemsfordeler/kfum-oslo) |
 | Kid Interiør | Få det fint hjemme. Medlemmer får 30 prosent rabatt hos Kid, både i butikk og på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/kid-interior) |
@@ -133,7 +132,7 @@ Updated every day. Perchance
 | LSK Kvinner | 50 % rabatt på billetter til LSK Kvinner sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/lsk-kvinner) |
 | Lyn Damer | 25 % rabatt på billetter til Lyn Damer sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/lyn-damer) |
 | Markabussen | 60 prosent rabatt på Markabussen | [Link](https://www.skiforeningen.no/aktiviteter-for-voksne/markabussen/) |
-| Maxbo | Fra 15 prosent bonusopptjening på alle varer til ordinære priser, både i butikk og på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/maxbo) |
+| Maxbo | Fra 15 prosent bonusopptjening på alle ordinære kjøp, både i butikk og på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/maxbo) |
 | MedEasy | Rabatt hos MedEasy | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-medeasy/) |
 | Montér Stor-Bergen | Inntil 40 % rabatt på bestillingsvarer, og inntil 15 % rabatt på lagerførte varer. | [Link](https://www.obos.no/medlem/medlemsfordeler/monter-stor-bergen) |
 | Morild | 10% by using code DNB2937 | [Link](https://www.morildnorway.no/) |
