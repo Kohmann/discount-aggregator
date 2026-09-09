@@ -58,7 +58,7 @@ Updated every day. Perchance
 | DAIDDA | 10% by using code DNB2937 | [Link](https://daidda.no/) |
 | De Historiske | Hotellrabatt De Historiske | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-overnatting-hos-de-historiske/) |
 | Den Nationale Scene | 25 % rabatt på teaterbilletter hos Den Nationale Scene. | [Link](https://www.obos.no/medlem/medlemsfordeler/den-nationale-scene) |
-| Den Norske Opera & Ballett | 20 % rabatt på billetter og omvisning hos Den Norske Opera & Ballett. | [Link](https://www.obos.no/medlem/medlemsfordeler/den-norske-opera-and-ballett) |
+| Den Norske Opera & Ballett | 20 % rabatt på billetter og omvisning i Den Norske Opera & Ballett. | [Link](https://www.obos.no/medlem/medlemsfordeler/den-norske-opera-and-ballett) |
 | Det Norske Teatret | 20 % rabatt på alle ordinære forestillinger hos Det Norske Teatret. | [Link](https://www.obos.no/medlem/medlemsfordeler/det-norske-teatret) |
 | Domino's Pizza | Få 20 prosent rabatt på månedens OBOS-pizza, og 15 prosent på alle pizzaer og sideretter. | [Link](https://www.obos.no/medlem/medlemsfordeler/dominos-pizza) |
 | Dovre | 10% by using code DNB2937 | [Link](https://dovre.com/) |
@@ -102,7 +102,7 @@ Updated every day. Perchance
 | Interflora | 10% by using code DNB2937 | [Link](https://www.interflora.no/) |
 | Janus | 10 % by using code DNB2937 | [Link](https://janus.no) |
 | Johnny Love | 10% by using code DNB2937 | [Link](https://www.johnnylove.com/) |
-| Junibacken | OBOS-medlemmer får 20 prosent rabatt på inngangsbilletter til Junibacken på Djurgården i Stockholm. | [Link](https://www.obos.no/medlem/medlemsfordeler/20-rabatt-pa-junibacken) |
+| Junibacken | OBOS-medlemmer får 20 prosent rabatt på inngangsbilletter til Junibacken på Djurgården i Stockholm. | [Link](https://www.obos.no/medlem/medlemsfordeler/junibacken) |
 | Kastel Shoes | 10% by using code DNB2937 | [Link](https://kastelshoes.com/) |
 | KFUM Oslo | 50 % på billetter til KFUMs hjemmekamper på Ekeberg. | [Link](https://www.obos.no/medlem/medlemsfordeler/kfum-oslo) |
 | Kid Interiør | Få det fint hjemme. Medlemmer får 30 prosent rabatt hos Kid, både i butikk og på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/kid-interior) |
