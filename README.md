@@ -147,6 +147,7 @@ Updated every day. Perchance
 | OBOS Bostart | Som OBOS-medlem får du forkjøpsrett på nyboliger med OBOS Bostart ved salgsstart. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-bostart) |
 | OBOS Deleie | Som OBOS-medlem får du forkjøpsrett på nyboliger med OBOS Deleie ved salgsstart. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-deleie) |
 | OBOS Eiendomsmeglere | Som OBOS-medlem får du 5000 kroner i rabatt når du selger boligen din gjennom OBOS Eiendomsmeglere. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-eiendomsmeglere) |
+| OBOS Julekonsert | Få rabatt på OBOS Julekonsert med Sølvguttene i Oslo Domkirke. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-julekonsert) |
 | OBOS-banken | I OBOS-banken får du som medlem 4,55 % rente fra første krone på sparekonto, bedre rente på boliglånet, god rente på brukskonto og gratis bankkort. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-banken) |
 | OBOS-ligaen | Som OBOS-medlem har du tilgang til OBOS-billetten: 100 kroner for voksne og 50 kroner for barn. Rabatten gjelder på alle kamper i OBOS-ligaen. | [Link](https://www.obos.no/medlem/medlemsfordeler/obos-ligaen) |
 | ODEON Kino | Få 15 prosent rabatt på inntil fem ordinære kinobilletter per medlem - hele uka. | [Link](https://www.obos.no/medlem/medlemsfordeler/odeon-kino) |
@@ -215,6 +216,7 @@ Updated every day. Perchance
 | Vianor | 10% by using code DNB2937 | [Link](https://vianor.no/) |
 | Viking | 10% by using code DNB2937 | [Link](https://no.vikingfootwear.com/) |
 | Viking Fotball | OBOS-rabatt på billetter til hjemmekamper på Viking stadion. | [Link](https://www.obos.no/medlem/medlemsfordeler/viking-fotball) |
+| Visningshelg | Velkommen til visning av boligprosjekter 19. og 20.9 | [Link](https://www.obos.no/medlem/medlemsfordeler/visningshelg) |
 | Vitensenteret Innlandet | Gratis inngang på Vitensenteret Innlandet | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/gratis-inngang-pa-vitensenteret-innlandet/) |
 | Vitensenteret Sørlandet | Rabatt på Vitensenteret Sørlandet | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-vitensenteret-sorlandet/) |
 | Von Doren | 10% by using code DNB2937 | [Link](https://www.vondoren.no/) |
