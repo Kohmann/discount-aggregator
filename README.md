@@ -132,13 +132,14 @@ Updated every day. Perchance
 | LSK Kvinner | 50 % rabatt på billetter til LSK Kvinner sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/lsk-kvinner) |
 | Lyn Damer | 25 % rabatt på billetter til Lyn Damer sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/lyn-damer) |
 | Markabussen | 60 prosent rabatt på Markabussen | [Link](https://www.skiforeningen.no/aktiviteter-for-voksne/markabussen/) |
-| Maxbo | Fra 15 prosent bonusopptjening på alle ordinære kjøp, både i butikk og på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/maxbo) |
+| Maxbo | OBOS-medlemmer får 15 % bonusopptjening på alle ordinære kjøp, både i butikk og på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/maxbo) |
 | MedEasy | Rabatt hos MedEasy | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-medeasy/) |
 | Montér Stor-Bergen | Inntil 40 % rabatt på bestillingsvarer, og inntil 15 % rabatt på lagerførte varer. | [Link](https://www.obos.no/medlem/medlemsfordeler/monter-stor-bergen) |
 | Morild | 10% by using code DNB2937 | [Link](https://www.morildnorway.no/) |
 | Narvikfjellet | Gratis heiskort i Narvikfjellet | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/heiskort-i-narvikfjellet/) |
 | Nationaltheatret | 20 % rabatt på billetter hos Nationaltheatret. | [Link](https://www.obos.no/medlem/medlemsfordeler/nationaltheatret) |
 | NEAK | Kursrabatt hos NEAK | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/kursrabatt-hos-neak/) |
+| NextGenTel | Rabatt hos NextGenTel | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-nextgentel/) |
 | NITO | Verv en kollega – det lønner seg! | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/verv-en-kollega/) |
 | Nobels Fredssenter | 25 % rabatt på inngangsbilletter. | [Link](https://www.obos.no/medlem/medlemsfordeler/nobels-fredssenter) |
 | Norsk Folkemuseum | Få 25 prosent rabatt på voksenbillett, og 10 prosent rabatt i museumsbutikken. | [Link](https://www.obos.no/medlem/medlemsfordeler/norsk-folkemuseum) |
