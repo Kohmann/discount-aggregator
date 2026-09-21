@@ -217,7 +217,6 @@ Updated every day. Perchance
 | Vianor | 10% by using code DNB2937 | [Link](https://vianor.no/) |
 | Viking | 10% by using code DNB2937 | [Link](https://no.vikingfootwear.com/) |
 | Viking Fotball | OBOS-rabatt på billetter til hjemmekamper på Viking stadion. | [Link](https://www.obos.no/medlem/medlemsfordeler/viking-fotball) |
-| Visningshelg | Velkommen til visning av boligprosjekter 19. og 20.9 | [Link](https://www.obos.no/medlem/medlemsfordeler/visningshelg) |
 | Vitensenteret Innlandet | Gratis inngang på Vitensenteret Innlandet | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/gratis-inngang-pa-vitensenteret-innlandet/) |
 | Vitensenteret Sørlandet | Rabatt på Vitensenteret Sørlandet | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-vitensenteret-sorlandet/) |
 | Von Doren | 10% by using code DNB2937 | [Link](https://www.vondoren.no/) |
