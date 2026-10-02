@@ -81,7 +81,6 @@ Updated every day. Perchance
 | Go Nordic Cruiseline | Fast helårsrabatt på alle båtreiser på ruten Oslo-København, og alle lugartyper ved bestilling av MiniCruise til København. | [Link](https://www.obos.no/medlem/medlemsfordeler/go-nordic-cruiseline) |
 | Golfshopen | 10% by using code DNB5437 | [Link](https://www.golfshopen.no/) |
 | Gullfunn | 10% by using code DNB5437 | [Link](https://www.gullfunn.no/) |
-| Gutta på Haugen | 10% by using code DNB5437 | [Link](https://www.gutta.no/) |
 | Hadeland Glassverk | Medlemmer får 30 prosent rabatt på sesongens glassblås, og 15 prosent på varer i butikk og på nett. | [Link](https://www.obos.no/medlem/medlemsfordeler/hadeland-glassverk) |
 | Hafjell, Kvitfjell og Oppdal | 10 % rabatt på 1–3 dagers heiskort i Hafjell, Kvitfjell og Oppdal. | [Link](https://www.obos.no/medlem/medlemsfordeler/alpinco-hafjell-kvitfjell-og-oppdal) |
 | HamKam fotball | 99 kroner for voksen og 50 kroner for barn på HamKam sine hjemmekamper. | [Link](https://www.obos.no/medlem/medlemsfordeler/hamkam) |
