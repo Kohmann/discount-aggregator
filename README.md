@@ -11,7 +11,6 @@ Updated every day.
 <!-- DISCOUNTS_START -->
 | Store | Description | Source |
 | --- | --- | --- |
-| A Night at the Movies | 475 kroner per billett. | [Link](https://www.obos.no/medlem/medlemsfordeler/a-night-at-the-movies) |
 | ABBA The Museum | 15 % rabatt på inngangsbilletter. | [Link](https://www.obos.no/medlem/medlemsfordeler/abba-the-museum) |
 | Akvariet i Bergen | 25 % rabatt på billetter. | [Link](https://www.obos.no/medlem/medlemsfordeler/akvariet-i-bergen) |
 | Alpina | 10% by using code DNB5437 | [Link](https://www.alpina.no/) |
@@ -215,6 +214,7 @@ Updated every day.
 | Ulvang | 10% by using code DNB5437 | [Link](https://ulvang.com/) |
 | Universeum | 15 % rabatt på inngangsbilletter kjøpt på nett. Universeum er et interaktivt vitensenter i Gøteborg. | [Link](https://www.obos.no/medlem/medlemsfordeler/universeum) |
 | Vakre Vene | 10% by using code DNB5437 | [Link](https://www.vakrevene.no/) |
+| Verdenscupavslutning i skiskyting | 25 % rabatt på billetter til verdenscupavslutningen i skiskyting. | [Link](https://www.obos.no/medlem/medlemsfordeler/verdenscupavslutning-i-skiskyting) |
 | Vianor | 20 % rabatt på dekkhotell og flere andre gode fordeler. | [Link](https://www.obos.no/medlem/medlemsfordeler/vianor) |
 | Vianor | 10% by using code DNB5437 | [Link](https://vianor.no/) |
 | Vibb | Rabatt hos Vibb | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-vibb/) |
