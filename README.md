@@ -203,6 +203,7 @@ Updated every day.
 | THE MAGIC OF ALEXX ALEXXANDER 2.0 | 20 % rabatt på THE MAGIC OF ALEXX ALEXXANDER 2.0 | [Link](https://www.obos.no/medlem/medlemsfordeler/the-magic-of-alexx-alexxander-2-0) |
 | Tibber | Spar 995 kroner på sanntidsmåler. Som OBOS-medlem og ny kunde hos Tibber får du sanntidsmåleren Tibber Pulse kostnadsfritt ved innmelding. | [Link](https://www.obos.no/medlem/medlemsfordeler/tibber) |
 | Tights.no | 10% by using code DNB5437 | [Link](https://www.tights.no/) |
+| Tove Lo | 50 % rabatt på konsert med Tove Lo i Oslo Spektrum | [Link](https://www.obos.no/medlem/medlemsfordeler/tove-lo) |
 | Travelstuff | 10% by using code DNB5437 | [Link](https://www.travelstuff.no/) |
 | Tromsø Alpinpark | Gratis heiskort i Tromsø Alpinpark | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/heiskort-tromso-alpinpark/) |
 | Tromsøbadet | Gratis inngang på Tromsøbadet | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/gratis-inngang-pa-tromsobadet/) |
