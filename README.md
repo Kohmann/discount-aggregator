@@ -99,6 +99,7 @@ Updated every day.
 | INSPIRIA | Gratis inngang på INSPIRIA science center | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/gratis-inngang-pa-inspiria-science-center/) |
 | Interflora | 10% by using code DNB5437 | [Link](https://www.interflora.no/) |
 | Janus | 10% by using code DNB5437 | [Link](https://janus.no) |
+| Jesus Christ Superstar | 20 % rabatt på billetter til forestillingen Jesus Christ Superstar på Forum Scene i Bergen. | [Link](https://www.obos.no/medlem/medlemsfordeler/jesus-christ-superstar) |
 | Johnny Love | 10% by using code DNB5437 | [Link](https://www.johnnylove.com/) |
 | Junibacken | OBOS-medlemmer får 20 prosent rabatt på inngangsbilletter til Junibacken på Djurgården i Stockholm. | [Link](https://www.obos.no/medlem/medlemsfordeler/junibacken) |
 | Kastel Shoes | 10% by using code DNB5437 | [Link](https://kastelshoes.com/) |
