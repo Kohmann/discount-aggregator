@@ -182,7 +182,6 @@ Updated every day.
 | Skitt Fiske | Rabatt hos Skitt Fiske | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-skitt-fiske/) |
 | Smartlapper | 10% by using code DNB4456 | [Link](https://www.smartlapper.no) |
 | Småungene | 10% by using code DNB4456 | [Link](https://www.smaaungene.no/) |
-| SNØ | 20 prosent rabatt på inngangsbilletter hos verdens råeste helårsarena for snøopplevelser. | [Link](https://www.obos.no/medlem/medlemsfordeler/sno) |
 | Spaxo | 10% by using code DNB4456 | [Link](https://spaxo.no/) |
 | Sporet Sport | 20 prosent rabatt på Sporet Sport | [Link](https://sporetsport.no/no) |
 | Sportmann.no | 10% by using code DNB4456 | [Link](https://www.sportmann.no/) |
