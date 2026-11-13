@@ -111,7 +111,7 @@ Updated every day.
 | Kistefos | 25 % rabatt på inntil fem billetter per medlem. | [Link](https://www.obos.no/medlem/medlemsfordeler/kistefos) |
 | Kjentmannshåndboka | 25 prosent rabatt på Kjentmannshåndboka | [Link](https://www.skiforeningen.no/utimarka/kjentmannsmerket/) |
 | Klatring på Grensen | Rabatt hos Klatring på Grensen | [Link](https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/klatring-pa-grensen/) |
-| Kollensvevet | 2 for 1 på Kollensvevet | [Link](https://www.kollensvevet.no/) |
+| Kollensvevet | Rabatt på Kollensvevet | [Link](https://www.kollensvevet.no/) |
 | Kondomeriet | 10% by using code DNB4456 | [Link](https://www.kondomeriet.no/) |
 | Kongeparken | Bestill dagskort online og få 25 prosent rabatt. | [Link](https://www.obos.no/medlem/medlemsfordeler/kongeparken-1) |
 | Kristiania | 20 prosent rabatt på alle enkeltemner og studier på nett med fleksibel oppstart, samt enkeltemner knyttet til erfaringsbasert master, MBA og Master of Science in Financial Management. | [Link](https://www.obos.no/medlem/medlemsfordeler/hoyskolen-kristiania-nettstudier) |
