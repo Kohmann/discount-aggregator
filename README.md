@@ -23,7 +23,9 @@ Updated every day.
 | Backstage Hotel | 20% rabatt på hotellovernatting på Backstage Hotel på Djurgården i Stockholm. | [Link](https://www.obos.no/medlem/medlemsfordeler/backstage-hotel) |
 | BagBrokers | 10% by using code DNB4456 | [Link](https://www.bagbrokers.no/) |
 | Barbershop | 10% by using code DNB4456 | [Link](https://barbershop.no) |
+| Barnas Holmenkolldag | 350 kroner for billett til Barnas Holmenkolldag. | [Link](https://www.obos.no/medlem/medlemsfordeler/barnas-holmenkolldag) |
 | Barnas Holmenkolldag | Rabatt på Barnas Holmenkolldag | [Link](https://www.skiforeningen.no/aktiviteter-for-barn/barnas-holmenkolldag/) |
+| Barnas Skiskole | 1820 kroner for billett til Barnas Skiskole. | [Link](https://www.obos.no/medlem/medlemsfordeler/barnas-skiskole) |
 | Barnas skiskole | 450 kroner rabatt på skiskole i helgene | [Link](https://www.skiforeningen.no/aktiviteter-for-barn/barnas-skiskole/) |
 | Beckmann | 10% by using code DNB4456 | [Link](https://beckmann.no/) |
 | BeGood | 10% by using code DNB4456 | [Link](https://www.begood.no/) |
@@ -118,6 +120,7 @@ Updated every day.
 | Krogh Optikk | 10% by using code DNB4456 | [Link](https://kroghoptikk.no/) |
 | L'Occitane | 10% by using code DNB4456 | [Link](https://no.loccitane.com/) |
 | Lambertseter Bad | 50 % rabatt på inngang hos Lambertseter Bad i helgene. | [Link](https://www.obos.no/medlem/medlemsfordeler/lambertseter-bad) |
+| Langrennskurs | 200 kroner rabatt for OBOS-medlemmer. | [Link](https://www.obos.no/medlem/medlemsfordeler/langrennskurs-ski) |
 | Langrennskurs | 600 kroner rabatt på langrennskurs | [Link](https://www.skiforeningen.no/aktiviteter-for-voksne/langrennskurs/) |
 | Last ned Sporet | Sporet er inkludert i medlemskapet | [Link](https://www.skiforeningen.no/sporet-appen/nedlasting/) |
 | Leatherman | 10% by using code DNB4456 | [Link](https://www.leathermanshop.no) |
